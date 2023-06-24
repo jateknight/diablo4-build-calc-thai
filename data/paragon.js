@@ -5726,8 +5726,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% Schaden zu.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a objetivos vulnerables.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a los objetivos vulnerables.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% más de daño a objetivos vulnerables.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% más de daño a los objetivos vulnerables.",
 					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dégâts aux cibles vulnérables.",
 					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% di danni aggiuntivi ai bersagli vulnerabili.",
 					"jaJP": "範囲内で敏捷性5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%増加する。",
@@ -5737,7 +5737,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。",
+					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
 					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูที่อยู่ในสถานะ Vulnerable เพิ่มขึ้น +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%."
 				},
 				"bonusLocalized": {
@@ -12507,8 +12507,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% Schaden zu.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a objetivos vulnerables.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a los objetivos vulnerables.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% más de daño a objetivos vulnerables.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% más de daño a los objetivos vulnerables.",
 					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dégâts aux cibles vulnérables.",
 					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% di danni aggiuntivi ai bersagli vulnerabili.",
 					"jaJP": "範囲内で敏捷性5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%増加する。",
@@ -12518,7 +12518,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。"
+					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr einem Gegner Schaden zufügt, wird er 3 Sek. lang verwundbar. Dies ist pro Gegner nur einmal alle 20 Sek. möglich.",
@@ -25398,8 +25398,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% Schaden zu.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a objetivos vulnerables.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a los objetivos vulnerables.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% más de daño a objetivos vulnerables.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% más de daño a los objetivos vulnerables.",
 					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dégâts aux cibles vulnérables.",
 					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% di danni aggiuntivi ai bersagli vulnerabili.",
 					"jaJP": "範囲内で敏捷性5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%増加する。",
@@ -25409,7 +25409,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。",
+					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
 					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูที่อยู่ในสถานะ Vulnerable เพิ่มขึ้น +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%."
 				},
 				"bonusLocalized": {
@@ -30622,8 +30622,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% Schaden zu.",
-					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a objetivos vulnerables.",
-					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a los objetivos vulnerables.",
+					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% más de daño a objetivos vulnerables.",
+					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% más de daño a los objetivos vulnerables.",
 					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dégâts aux cibles vulnérables.",
 					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% di danni aggiuntivi ai bersagli vulnerabili.",
 					"jaJP": "範囲内で筋力5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%増加する。",
@@ -30633,7 +30633,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%.",
 					"trTR": "Menzilde satın alınan her 5 Kuvvet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点力量,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
-					"zhTW": "在範圍內每購買 5 點力量,你對易傷目標造成的傷害提高 {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。"
+					"zhTW": "在範圍內每購買 5 點力量,你對易傷目標造成的傷害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr einem Gegner Schaden zufügt, wird er 3 Sek. lang verwundbar. Dies ist pro Gegner nur einmal alle 20 Sek. möglich.",
@@ -38330,8 +38330,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% Schaden zu.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a objetivos vulnerables.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a los objetivos vulnerables.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% más de daño a objetivos vulnerables.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% más de daño a los objetivos vulnerables.",
 					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dégâts aux cibles vulnérables.",
 					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% di danni aggiuntivi ai bersagli vulnerabili.",
 					"jaJP": "範囲内で敏捷性5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%増加する。",
@@ -38341,7 +38341,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。"
+					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr einem verwundbaren Gegner Schaden zufügt, wird Euer Schaden 6 Sek. lang um x1% erhöht, bis maximal x10%.",
