@@ -2611,7 +2611,7 @@ Tags: Defensive, Nature Magic, Storm, Cooldown, Damage, Damage Reduction, Non-Ph
 			"trTR": "Bekleme Süresi: 18 saniye\nŞanslı Vuruş İhtimali: 25% (per hit)\nPasif: Güçlü rüzgârlar etrafını sararak {10/10.9/11.9/12.8/13.7/14.6/15.5/16.4/17.3/18.1}% Fiziksel Olmayan Hasar Azaltma kazandırır.\n\nAktif: Rüzgârlar hızlıca genişleyerek düşmanları Geri Savurur ve {30/33/36/39/42/45/48/51/54/57}% hasar verir.\n\nTags: Savunma, Doğa Sihri, Fırtına, Bekleme Süresi, Hasar, Hasar Azaltma, Fiziksel Olmayan, Fiziksel, Kitle Kontrolü.",
 			"zhCN": "冷却时间: 18 秒\n幸运一击几率: 25% (per hit)\n被动: 强风环绕着你, 获得 {10/10.9/11.9/12.8/13.7/14.6/15.5/16.4/17.3/18.1}% 非物理伤害减免。\n\n主动: 强风迅速膨胀, 对附近的敌人造成 {30/33/36/39/42/45/48/51/54/57}% 点伤害并将其击退。\n\nTags: 防御, 自然魔法, 风暴, 冷却时间, 伤害, 伤害减免, 非物理, 物理, 群控.",
 			"zhTW": "冷卻時間:18 秒\n幸運觸發機率: 25% (per hit)\n被動效果:強勁的風環繞你,獲得 {10/10.9/11.9/12.8/13.7/14.6/15.5/16.4/17.3/18.1}% 非物理傷害減免。\n\n主動效果:風襲範圍快速擴張,擊退敵人並造成 {30/33/36/39/42/45/48/51/54/57}% 點傷害。\n\nTags: 防禦, 自然魔法, 風暴, 冷卻時間, 傷害, 傷害減免, 非物理, 物理, 控場.",
-			"thTH": "Cooldown: 18 วินาที\nLucky Hit Chance: 25% (per hit)\nติดตัว: ได้รับ {10/10.9/11.9/12.8/13.7/14.6/15.5/16.4/17.3/18.1}% Non-Physical Damage Reduction.\n\nกดใช้: ผลักศัตรูรอบตัวออก และทำความเสียหาย {30/33/36/39/42/45/48/51/54/57}%.\n\nTags: Defensive, Nature Magic, Storm, Cooldown, Damage, Damage Reduction, Non-Physical, Physical, Crowd Control."
+			"thTH": "Cooldown: 18 วินาที\nLucky Hit Chance: 25% (per hit)\nติดตัว: ได้รับ {10/10.9/11.9/12.8/13.7/14.6/15.5/16.4/17.3/18.1}% Non-Physical Damage Reduction.\n\nกดใช้: Knocked Back ศัตรูรอบตัว และทำความเสียหาย {30/33/36/39/42/45/48/51/54/57}%.\n\nTags: Defensive, Nature Magic, Storm, Cooldown, Damage, Damage Reduction, Non-Physical, Physical, Crowd Control."
 },
 		id: 57,
 		maxPoints: 5,
@@ -2652,7 +2652,7 @@ Tags: Defensive, Nature Magic, Storm, Cooldown, Damage, Damage Reduction, Non-Ph
 			"trTR": "Kasırga Zırhı tarafından Geri Savrulmuş düşmanlar ayrıca 2 saniyeliğine 70% yavaşlatılır.",
 			"zhCN": "被旋风甲 击退的敌人也会被减速 70%, 持续 2 秒。",
 			"zhTW": "被氣旋護甲擊退的敵人會緩速 70%,持續 2 秒。",
-			"thTH": "ศัตรูที่ถูกผลักออกโดย Cyclone Armor จะอยู่ในสถานะ Slowed 70% เป็นระยะเวลา 2 วินาที."
+			"thTH": "ศัตรูที่ถูก Knocked Back โดย Cyclone Armor จะอยู่ในสถานะ Slowed 70% เป็นระยะเวลา 2 วินาที."
 },
 		id: 58,
 		maxPoints: 1,
@@ -2734,7 +2734,7 @@ Tags: Defensive, Nature Magic, Storm, Cooldown, Damage, Damage Reduction, Non-Ph
 			"trTR": "Kasırga Zırhı tarafından Geri Savrulmuş düşmanlar 3 saniyeliğine Savunmasız hâle gelir.",
 			"zhCN": "被旋风甲 击退的敌人将陷入易伤状态, 持续 3 秒。",
 			"zhTW": "被氣旋護甲擊退的敵人會易傷,持續 3 秒。",
-			"thTH": "ศัตรูที่ถูกผลักออกโดย Cyclone Armor จะอยู่ในสถานะ Vulnerable เป็นระยะเวลา 3 วินาที."
+			"thTH": "ศัตรูที่ถูก Knocked Back โดย Cyclone Armor จะอยู่ในสถานะ Vulnerable เป็นระยะเวลา 3 วินาที."
 },
 		id: 60,
 		maxPoints: 1,
@@ -2766,7 +2766,8 @@ Tags: Companion, Physical, Damage, Cooldown.`,
 			"ruRU": "Вороны",
 			"trTR": "Kuzgunlar",
 			"zhCN": "渡鸦",
-			"zhTW": "掠鴉"
+			"zhTW": "掠鴉",
+			"thTH": "Ravens"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 15 Sek.\nGlückstrefferchance: 45% (per use)\nPassiv: 1 Raben kreisen über Euch, greifen wiederholt Eure Gegner an und fügen ihnen dabei alle 5 Sek. {13/14.3/15.6/16.9/18.2/19.5/20.8/22.1/23.4/24.7}% Schaden zu.\n\nAktiv: Der Zielbereich wird von Raben umschwärmt, die Gegnern im Verlauf von 6 Sek. {160/176/192/208/224/240/256/272/288/304}% Schaden zufügen.\n\nTags: Gefährte, Physisch, Schaden, Abklingzeit.",
@@ -2781,7 +2782,8 @@ Tags: Companion, Physical, Damage, Cooldown.`,
 			"ruRU": "Время восстановления: 15 сек.\nВероятность критического удара: 45% (per use)\nПассивный эффект: 1 ворона:воронов кружат:кружат над вами и время от времени атакуют:атакуют противников, нанося {13/14.3/15.6/16.9/18.2/19.5/20.8/22.1/23.4/24.7}% ед. урона раз в 5 сек.\n\nЭффект при активации: вороны атакуют цели в указанной области, нанося {160/176/192/208/224/240/256/272/288/304}% ед. урона за 6 сек.\n\nTags: Спутник, Физический урон, Урон, Время восстановления.",
 			"trTR": "Bekleme Süresi: 15 saniye\nŞanslı Vuruş İhtimali: 45% (per use)\nPasif: 1 Kuzgun, belirli aralıklarla üzerinde uçup 5 saniyede bir kez düşmanlarına saldırarak {13/14.3/15.6/16.9/18.2/19.5/20.8/22.1/23.4/24.7}% hasar verir.\n\nAktif: Kuzgunlar hedef bölgeyi istila ederek 6 saniye boyunca {160/176/192/208/224/240/256/272/288/304}% hasar verir.\n\nTags: Yoldaş, Fiziksel, Hasar, Bekleme Süresi.",
 			"zhCN": "冷却时间: 15 秒\n幸运一击几率: 45% (per use)\n被动: 1 只渡鸦从你的头顶飞过并周期性地攻击敌人, 每 5 秒对敌人造成 {13/14.3/15.6/16.9/18.2/19.5/20.8/22.1/23.4/24.7}% 点伤害。\n\n主动: 目标区域渡鸦成群, 在 6 秒内造成 {160/176/192/208/224/240/256/272/288/304}% 点伤害。\n\nTags: 同伴, 物理, 伤害, 冷却时间.",
-			"zhTW": "冷卻時間:15 秒\n幸運觸發機率:45% (per use)\n被動效果:1 隻掠鴉在你上空飛翔並定期攻擊敵人,每 5 秒造成 {13/14.3/15.6/16.9/18.2/19.5/20.8/22.1/23.4/24.7}% 點傷害。\n\n主動效果:掠鴉圍攻指定地點,在 6 秒內造成 {160/176/192/208/224/240/256/272/288/304}% 點傷害。\n\nTags: 同伴, 物理, 傷害, 冷卻時間."
+			"zhTW": "冷卻時間:15 秒\n幸運觸發機率:45% (per use)\n被動效果:1 隻掠鴉在你上空飛翔並定期攻擊敵人,每 5 秒造成 {13/14.3/15.6/16.9/18.2/19.5/20.8/22.1/23.4/24.7}% 點傷害。\n\n主動效果:掠鴉圍攻指定地點,在 6 秒內造成 {160/176/192/208/224/240/256/272/288/304}% 點傷害。\n\nTags: 同伴, 物理, 傷害, 冷卻時間.",
+			"thTH": "Cooldown: 15 วินาที\nLucky Hit Chance: 45% (per use)\nติดตัว: อีกา 1 ตัวจะบินตามคุณ และมันจะทำความเสียหายศัตรู  {13/14.3/15.6/16.9/18.2/19.5/20.8/22.1/23.4/24.7}% ทุก 5 วินาที.\n\nกดใช้: เรียกฝูงอีกาไปยังพื้นที่เป้าหมาย ทำความเสียหาย {160/176/192/208/224/240/256/272/288/304}% ภายในระยะเวลา 6 วินาที.\n\nTags: Companion, Physical, Damage, Cooldown."
 },
 		id: 62,
 		maxPoints: 5,
@@ -2805,7 +2807,8 @@ Tags: Companion, Physical, Damage, Cooldown.`,
 			"ruRU": "Усиленные вороны",
 			"trTR": "Geliştirilmiş Kuzgunlar",
 			"zhCN": "强化渡鸦",
-			"zhTW": "強化掠鴉"
+			"zhTW": "強化掠鴉",
+			"thTH": "Enhanced Ravens"
 },
 		descriptionLocalized: {
 			"deDE": "Ihr habt 6 Sek. lang eine +5% höhere kritische Trefferchance gegen Gegner, nachdem sie von Raben getroffen wurden.",
@@ -2820,7 +2823,8 @@ Tags: Companion, Physical, Damage, Cooldown.`,
 			"ruRU": "Вороны отвлекают пораженных врагов, в результате чего ваша вероятность критического удара против этих целей повышается на +5% на 6 сек.",
 			"trTR": "Kuzgunlardan isabet alan düşmanlara karşı 6 saniyeliğine +5% artırılmış Kritik Vuruş İhtimaline sahip olursun.",
 			"zhCN": "你对被渡鸦命中的敌人造成暴击的几率提高 +5%, 持续 6 秒。",
-			"zhTW": "你對被掠鴉擊中的敵人造成的爆擊機率提高 +5%,持續 6 秒。"
+			"zhTW": "你對被掠鴉擊中的敵人造成的爆擊機率提高 +5%,持續 6 秒。",
+			"thTH": "คุณมีโอกาสโจมตี Critical แก่ศัตรูเพิ่มขึ้น +5% เป็นระยะเวลา 6 วินาที หลังจากที่ศัตรูนั้นได้รับความเสียหายจาก Ravens."
 },
 		id: 63,
 		maxPoints: 1,
@@ -2844,7 +2848,8 @@ Tags: Companion, Physical, Damage, Cooldown.`,
 			"ruRU": "Безжалостные вороны",
 			"trTR": "Acımasız Kuzgunlar",
 			"zhCN": "残忍渡鸦",
-			"zhTW": "殘暴掠鴉"
+			"zhTW": "殘暴掠鴉",
+			"thTH": "Brutal Ravens"
 },
 		descriptionLocalized: {
 			"deDE": "2 zusätzliche Raben greifen in regelmäßigen Abständen Gegner an.",
@@ -2859,7 +2864,8 @@ Tags: Companion, Physical, Damage, Cooldown.`,
 			"ruRU": "Призывает еще 2 воронов, периодически атакующих противников.",
 			"trTR": "2 ilave Kuzgun belirli aralıklarla düşmanlara saldırır.",
 			"zhCN": "额外有 2 只渡鸦周期性地攻击敌人。",
-			"zhTW": "額外有 2 隻掠鴉定期攻擊敵人。"
+			"zhTW": "額外有 2 隻掠鴉定期攻擊敵人。",
+			"thTH": "มีนกอีกาติดตัวเพิ่ม 2 ตัว."
 },
 		id: 64,
 		maxPoints: 1,
@@ -2883,7 +2889,8 @@ Tags: Companion, Physical, Damage, Cooldown.`,
 			"ruRU": "Свирепые вороны",
 			"trTR": "Gaddar Kuzgunlar",
 			"zhCN": "暴躁渡鸦",
-			"zhTW": "兇猛掠鴉"
+			"zhTW": "兇猛掠鴉",
+			"thTH": "Ferocious Ravens"
 },
 		descriptionLocalized: {
 			"deDE": "Gegner, die sich bei der Aktivierung innerhalb des Rabenschwarms befinden, werden 3 Sek. lang verwundbar.",
@@ -2898,7 +2905,8 @@ Tags: Companion, Physical, Damage, Cooldown.`,
 			"ruRU": "Противники, находящиеся в стае воронов при активации умения, становятся уязвимыми на 3 сек.",
 			"trTR": "Etkinleştirildiğinde Kuzgun sürüsü içindeki düşmanlar 3 saniyeliğine Savunmasız hâle gelir.",
 			"zhCN": "技能激活后, 位于渡鸦群内的敌人将陷入易伤状态, 持续 3 秒。",
-			"zhTW": "在掠鴉啟動期間,鴉群內的敵人會易傷,持續 3 秒。"
+			"zhTW": "在掠鴉啟動期間,鴉群內的敵人會易傷,持續 3 秒。",
+			"thTH": "ศัตรูที่อยู่ภายในฝูงนกอีกาหลังจากกดใช้สกิล Ravens จะอยู่ในสถานะ Vulnerable เป็นระยะเวลา 3 วินาที."
 },
 		id: 65,
 		maxPoints: 1,
@@ -2923,7 +2931,8 @@ Tags: Companion, Damage.`,
 			"ruRU": "Зов дикой природы",
 			"trTR": "Doğanın Çağrısı",
 			"zhCN": "野性呼唤",
-			"zhTW": "野性呼喚"
+			"zhTW": "野性呼喚",
+			"thTH": "Call of the Wild"
 },
 		descriptionLocalized: {
 			"deDE": "Eure Gefährtenfertigkeiten verursachen x{10/20/30/40/50/60/70/80/90/100}% Bonusschaden.\n\nTags: Gefährte, Schaden.",
@@ -2938,7 +2947,8 @@ Tags: Companion, Damage.`,
 			"ruRU": "Умения категории \"Питомец\" наносят на x{10/20/30/40/50/60/70/80/90/100}% больше урона.\n\nTags: Спутник, Урон.",
 			"trTR": "Yoldaş Yeteneklerin x{10/20/30/40/50/60/70/80/90/100}% bonus hasar verir.\n\nTags: Yoldaş, Hasar.",
 			"zhCN": "你的同伴技能造成的伤害提高 x{10/20/30/40/50/60/70/80/90/100}%。\n\nTags: 同伴, 伤害.",
-			"zhTW": "你的同伴技能造成的傷害提高 x{10/20/30/40/50/60/70/80/90/100}%。\n\nTags: 同伴, 傷害."
+			"zhTW": "你的同伴技能造成的傷害提高 x{10/20/30/40/50/60/70/80/90/100}%。\n\nTags: 同伴, 傷害.",
+			"thTH": "สกิล Companion ทำความเสียหายเพิ่มขึ้น x{10/20/30/40/50/60/70/80/90/100}%.\n\nTags: Companion, Damage."
 },
 		id: 66,
 		maxPoints: 3,
@@ -2967,7 +2977,8 @@ Tags: Companion, Poison, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Ядовитая лоза",
 			"trTR": "Zehirli Sarmaşık",
 			"zhCN": "剧毒藤蔓",
-			"zhTW": "劇毒藤蔓"
+			"zhTW": "劇毒藤蔓",
+			"thTH": "Poison Creeper"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 20 Sek.\nGlückstrefferchance: 28% (per use)\nPassiv: Eine Giftranke schießt alle 7 Sek. aus dem Boden und fügt einem Gegner im Wirkungsbereich im Verlauf von 6 Sek. {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% Giftschaden zu.\n\nAktiv: Die Ranken strangulieren alle vergifteten Gegner in der Nähe, machen sie 2 Sek. lang bewegungsunfähig, vergiften sie und verursachen dabei im Verlauf von 2 Sek. {90/99/108/117/126/135/144/153/162/171}% Schaden.\n\nTags: Gefährte, Gift, Schaden, Abklingzeit, Kontrollverlust.",
@@ -2982,7 +2993,8 @@ Tags: Companion, Poison, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Время восстановления: 20 сек.\nВероятность удачного удара: 28% (per use)\nПассивный эффект: раз в 7 сек. из-под земли появляется ядовитая лоза, которая отравляет ближайшего противника, нанося {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% ед. урона от отравления за 6 сек.\n\nЭффект при активации: лозы-душители оплетают противников вокруг, обездвиживая их на 2 сек. и нанося {90/99/108/117/126/135/144/153/162/171}% ед. урона от отравления за 2 сек.\n\nTags: Спутник, Яд, Урон, Время восстановления, Контроль.",
 			"trTR": "Bekleme Süresi: 20 saniye\nŞanslı Vuruş İhtimali: 28% (per use)\nPasif: Yerden 7 saniyede bir sürüngen bir asma yükselerek bölgedeki bir düşmana 6 saniye boyunca {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% Zehir hasarı uygular.\n\nAktif: Asmalar etraftaki tüm düşmanları boğarak 2 saniyeliğine Sabitler ve 2 saniye boyunca {90/99/108/117/126/135/144/153/162/171}% Zehir hasarı verir.\n\nTags: Yoldaş, Zehir, Hasar, Bekleme Süresi, Kitle Kontrolü.",
 			"zhCN": "冷却时间: 20 秒\n幸运一击几率: 28% (per use)\n被动: 一个剧毒藤蔓每隔 7 秒从地面出现, 并在 6 秒内对区域内的敌人造成 {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% 点毒素伤害。\n\n主动: 藤蔓会绞杀周围所有敌人, 使其定身 2 秒并中毒, 在 2 秒内对其造成 {90/99/108/117/126/135/144/153/162/171}% 点伤害。\n\nTags: 同伴, 毒素, 伤害, 冷却时间, 群控.",
-			"zhTW": "冷卻時間:20 秒\n幸運觸發機率:28% (per use)\n被動效果:劇毒藤蔓每隔 7 秒會冒出地面,對附近的一名敵人在 6 秒內造成 {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% 點中毒傷害。\n\n主動效果:藤蔓會纏住附近所有敵人,使敵人定身 2 秒,並在 2 秒內造成 {90/99/108/117/126/135/144/153/162/171}% 點中毒傷害。\n\nTags: 同伴, 毒素, 傷害, 冷卻時間, 控場."
+			"zhTW": "冷卻時間:20 秒\n幸運觸發機率:28% (per use)\n被動效果:劇毒藤蔓每隔 7 秒會冒出地面,對附近的一名敵人在 6 秒內造成 {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% 點中毒傷害。\n\n主動效果:藤蔓會纏住附近所有敵人,使敵人定身 2 秒,並在 2 秒內造成 {90/99/108/117/126/135/144/153/162/171}% 點中毒傷害。\n\nTags: 同伴, 毒素, 傷害, 冷卻時間, 控場.",
+			"thTH": "Cooldown: 20 วินาที\nLucky Hit Chance: 28% (per use)\nติดตัว: รากไม้จะงอกขึ้นรอบตัวทุก 7 วินาที และทำความเสียหาย {36/39.6/43.2/46.8/50.4/54/57.6/61.2/64.8/68.4}% Poisoning ภายในระยะเวลา 6 วินาที แก่ศัตรูในพื้นที่.\n\nกดใช้: รากไม้รัดตัวศัตรูรอบๆ, ศัตรูจะอยู่ในสถานะ Immobilized เป็นระยะเวลา 2 วินาที และได้รับความเสียหาย {90/99/108/117/126/135/144/153/162/171}% Poison ภายใน 2 วินาที.\n\nTags: Companion, Poison, Damage, Cooldown, Crowd Control."
 },
 		id: 167,
 		maxPoints: 5,
@@ -3006,7 +3018,8 @@ Tags: Companion, Poison, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Усиленная ядовитая лоза",
 			"trTR": "Geliştirilmiş Zehirli Sarmaşık",
 			"zhCN": "强化剧毒藤蔓",
-			"zhTW": "強化劇毒藤蔓"
+			"zhTW": "強化劇毒藤蔓",
+			"thTH": "Enhanced Poison Creeper"
 },
 		descriptionLocalized: {
 			"deDE": "Die Bewegungsunfähigkeit von Giftranke hält 1 Sek. länger an.",
@@ -3021,7 +3034,8 @@ Tags: Companion, Poison, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Обездвиживание от ядовитой лозы действует на 1 сек. дольше.",
 			"trTR": "Zehirli Sarmaşığın Sabitleme süresi 1 saniye artar.",
 			"zhCN": "剧毒藤蔓的定身持续时间延长 1 秒。",
-			"zhTW": "劇毒藤蔓的定身持續時間延長 1 秒。"
+			"zhTW": "劇毒藤蔓的定身持續時間延長 1 秒。",
+			"thTH": "สกิล Poison Creeper มีระยะเวลาเพิ่มขึ้น Immobilize 1 วินาที."
 },
 		id: 168,
 		maxPoints: 1,
@@ -3045,7 +3059,8 @@ Tags: Companion, Poison, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Свирепая ядовитая лоза",
 			"trTR": "Azılı Zehirli Sarmaşık",
 			"zhCN": "暴躁剧毒藤蔓",
-			"zhTW": "兇猛劇毒藤蔓"
+			"zhTW": "兇猛劇毒藤蔓",
+			"thTH": "Ferocious Poison Creeper"
 },
 		descriptionLocalized: {
 			"deDE": "Das aktive Gift von Giftranke hält 3 Sek. länger an.",
@@ -3060,7 +3075,8 @@ Tags: Companion, Poison, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Отравление от активного эффекта ядовитой лозы действует на 3 сек. дольше.",
 			"trTR": "Zehirli Sarmaşığın aktif Zehirleme süresi 3 saniye artar.",
 			"zhCN": "剧毒藤蔓的主动中毒持续时间延长 3 秒。",
-			"zhTW": "劇毒藤蔓主動效果的中毒持續時間延長 3 秒。"
+			"zhTW": "劇毒藤蔓主動效果的中毒持續時間延長 3 秒。",
+			"thTH": "การกดใช้สกิล Poison Creeper จะมีระยะเวลา Poison เพิ่มขึ้น 3 วินาที."
 },
 		id: 169,
 		maxPoints: 1,
@@ -3084,7 +3100,8 @@ Tags: Companion, Poison, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Безжалостная ядовитая лоза",
 			"trTR": "Gaddar Zehirli Sarmaşık",
 			"zhCN": "残忍剧毒藤蔓",
-			"zhTW": "殘暴劇毒藤蔓"
+			"zhTW": "殘暴劇毒藤蔓",
+			"thTH": "Brutal Poison Creeper"
 },
 		descriptionLocalized: {
 			"deDE": "Eure kritische Trefferchance erhöht sich um +20% bei Gegnern, die von Giftranke stranguliert werden.",
@@ -3099,7 +3116,8 @@ Tags: Companion, Poison, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Вероятность нанести противнику критический урон повышается на +20%, если его душит ядовитая лоза.",
 			"trTR": "Kritik Vuruş İhtimalin, Zehirli Sarmaşık ile yakalanmış düşmanlara karşı +20% artar.",
 			"zhCN": "你对被剧毒藤蔓绞杀的敌人发动攻击时, 暴击几率提高 +20%。",
-			"zhTW": "對受到劇毒藤蔓糾纏的敵人造成爆擊的機率提高 +20%。"
+			"zhTW": "對受到劇毒藤蔓糾纏的敵人造成爆擊的機率提高 +20%。",
+			"thTH": "เพิ่มโอกาสโจมตี Critical +20% แก่ศัตรูที่ถูกรัดตัวโดย Poison Creeper."
 },
 		id: 170,
 		maxPoints: 1,
@@ -3128,7 +3146,8 @@ Tags: Companion, Cooldown, Damage, Physical.`,
 			"ruRU": "Волки",
 			"trTR": "Kurtlar",
 			"zhCN": "群狼",
-			"zhTW": "狼群"
+			"zhTW": "狼群",
+			"thTH": "Wolves"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 14 Sek.\nGlückstrefferchance: 50% (per use)\nPassiv: Beschwört 2 Wolfsgefährten, die Gegner beißen und {7.8/8.6/9.4/10.1/10.9/11.7/12.5/13.3/14/14.8}% Schaden verursachen.\n\nAktiv: Befehlt den Wölfen, einen Gegner anzufallen und ihm {110/121/132/143/154/165/176/187/198/209}% Schaden zuzufügen.\n\nTags: Gefährte, Abklingzeit, Schaden, Physisch.",
@@ -3143,7 +3162,8 @@ Tags: Companion, Cooldown, Damage, Physical.`,
 			"ruRU": "Время восстановления: 14 сек.\nВероятность удачного удара: 50% (per use)\nПассивный эффект: вы призываете 2 волков:волков, которые кусают противников, нанося {7.8/8.6/9.4/10.1/10.9/11.7/12.5/13.3/14/14.8}% ед. урона.\n\nЭффект при активации: волки бросаются на выбранного противника и наносят ему {110/121/132/143/154/165/176/187/198/209}% ед. урона.\n\nTags: Спутник, Время восстановления, Урон, Физический урон.",
 			"trTR": "Bekleme Süresi: 14 saniye\nŞanslı Vuruş İhtimali: 50% (per use)\nPasif: Düşmanları ısırarak {7.8/8.6/9.4/10.1/10.9/11.7/12.5/13.3/14/14.8}% hasar veren 2 yoldaş kurt çağır.\n\nAktif: Kurtlarını bir düşmana yönlendir. Kurtlar bu düşmana sıçrayıp darbe indirerek {110/121/132/143/154/165/176/187/198/209}% hasar verirler.\n\nTags: Yoldaş, Bekleme Süresi, Hasar, Fiziksel.",
 			"zhCN": "冷却时间: 14 秒\n幸运一击几率: 50% (per use)\n被动: 召唤 2 只狼同伴撕咬敌人, 造成 {7.8/8.6/9.4/10.1/10.9/11.7/12.5/13.3/14/14.8}% 点伤害。\n\n主动: 标记并指引你的群狼扑咬一名敌人, 造成 {110/121/132/143/154/165/176/187/198/209}% 点伤害。\n\nTags: 同伴, 冷却时间, 伤害, 物理.",
-			"zhTW": "冷卻時間:14 秒\n幸運觸發機率:50% (per use)\n被動效果:召喚 2 隻惡狼同伴,咬擊敵人造成 {7.8/8.6/9.4/10.1/10.9/11.7/12.5/13.3/14/14.8}% 點傷害。\n\n主動效果:引導狼群鎖定攻擊一個敵人,撲襲敵人造成 {110/121/132/143/154/165/176/187/198/209}% 點傷害。\n\nTags: 同伴, 冷卻時間, 傷害, 物理."
+			"zhTW": "冷卻時間:14 秒\n幸運觸發機率:50% (per use)\n被動效果:召喚 2 隻惡狼同伴,咬擊敵人造成 {7.8/8.6/9.4/10.1/10.9/11.7/12.5/13.3/14/14.8}% 點傷害。\n\n主動效果:引導狼群鎖定攻擊一個敵人,撲襲敵人造成 {110/121/132/143/154/165/176/187/198/209}% 點傷害。\n\nTags: 同伴, 冷卻時間, 傷害, 物理.",
+			"thTH": "Cooldown: 14 วินาที\nLucky Hit Chance: 50% (per use)\nติดตัว: เรียกหมาป่า 2 ตัวที่จะคอยทำความเสียหาย {7.8/8.6/9.4/10.1/10.9/11.7/12.5/13.3/14/14.8}%.\n\nกดใช้: เลือกเป้าหมายให้หมาป่าโจมตี หมาป่าจะกระโดดเข้าหาเป้าหมายและทำความเสียหาย {110/121/132/143/154/165/176/187/198/209}%.\n\nTags: Companion, Cooldown, Damage, Physical."
 },
 		id: 71,
 		maxPoints: 5,
@@ -3167,7 +3187,8 @@ Tags: Companion, Cooldown, Damage, Physical.`,
 			"ruRU": "Усиленная волчья стая",
 			"trTR": "Geliştirilmiş Kurt Sürüsü",
 			"zhCN": "强化狼群",
-			"zhTW": "強化狼群"
+			"zhTW": "強化狼群",
+			"thTH": "Enhanced Wolf Pack"
 },
 		descriptionLocalized: {
 			"deDE": "Wölfe fügen bewegungsunfähigen, betäubten, verlangsamten oder vergifteten Gegnern x20% mehr Schaden zu.",
@@ -3182,7 +3203,8 @@ Tags: Companion, Cooldown, Damage, Physical.`,
 			"ruRU": "Волки наносят на x20% больше урона обездвиженным, оглушенным, замедленным или отравленным противникам.",
 			"trTR": "Kurtlar Sabitlenmiş, Sersemletilmiş, Yavaşlatılmış veya Zehirlenmiş düşmanlara x20% artırılmış hasar verir.",
 			"zhCN": "群狼对处于定身、昏迷、减速或中毒状态的敌人造成的伤害提高 x20%。",
-			"zhTW": "狼群對定身、擊昏、緩速或中毒的敵人造成的傷害提高 x20%。"
+			"zhTW": "狼群對定身、擊昏、緩速或中毒的敵人造成的傷害提高 x20%。",
+			"thTH": "Wolves ทำความเสียหายเพิ่มขึ้น x20% แก่ศัตรูที่อยู่ในสถานะ Immobilized, Stunned, Slowed, หรือ Poisoned."
 },
 		id: 72,
 		maxPoints: 1,
@@ -3206,7 +3228,8 @@ Tags: Companion, Cooldown, Damage, Physical.`,
 			"ruRU": "Безжалостная волчья стая",
 			"trTR": "Acımasız Kurt Sürüsü",
 			"zhCN": "残忍狼群",
-			"zhTW": "殘暴狼群"
+			"zhTW": "殘暴狼群",
+			"thTH": "Brutal Wolf Pack"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr einen kritischen Treffer erzielt, erhalten Eure Wölfe 3 Sek. lang +20% Angriffsgeschwindigkeit.",
@@ -3221,7 +3244,8 @@ Tags: Companion, Cooldown, Damage, Physical.`,
 			"ruRU": "Когда вы наносите критический удар, скорость атаки ваших волков повышается на +20% на 3 сек.",
 			"trTR": "Kritik Vuruş gerçekleştirdiğinde Kurtların 3 saniyeliğine +20% Saldırı Hızı kazanır.",
 			"zhCN": "造成暴击后, 群狼的攻击速度提高 +20%, 持续 3 秒。",
-			"zhTW": "當你爆擊時,你的狼群獲得 +20% 攻擊速度,持續 3 秒。"
+			"zhTW": "當你爆擊時,你的狼群獲得 +20% 攻擊速度,持續 3 秒。",
+			"thTH": "เมื่อคุณทำความเสียหาย Critical, หมาป่าจะได้รับความเร็วในการโจมตี +20% เป็นระยะเวลา 3 วินาที."
 },
 		id: 74,
 		maxPoints: 1,
@@ -3245,7 +3269,8 @@ Tags: Companion, Cooldown, Damage, Physical.`,
 			"ruRU": "Свирепая волчья стая",
 			"trTR": "Gaddar Kurt Sürüsü",
 			"zhCN": "暴躁狼群",
-			"zhTW": "兇猛狼群"
+			"zhTW": "兇猛狼群",
+			"thTH": "Ferocious Wolf Pack"
 },
 		descriptionLocalized: {
 			"deDE": "Glücktreffer: Die Angriffe Eurer Wölfe haben eine Chance von bis zu 10%, Euch Stählung in Höhe von 5% Eures Basislebens zu verleihen.",
@@ -3260,7 +3285,8 @@ Tags: Companion, Cooldown, Damage, Physical.`,
 			"ruRU": "Удачный удар: атаки ваших волков с вероятностью до 10% дают вам укрепление в объеме до 5% базового запаса здоровья.",
 			"trTR": "Şanslı Vuruş: Kurtlarının saldırıları en fazla 10% ihtimalle seni Temel Canının 5% kadarına eşit Güçlendirir.",
 			"zhCN": "幸运一击: 你的群狼 攻击最多有 10% 几率强固你 5% 基础生命。",
-			"zhTW": "幸運觸發:你的狼群攻擊最多有 10% 機率賦予你等同 5% 基礎生命值的強韌。"
+			"zhTW": "幸運觸發:你的狼群攻擊最多有 10% 機率賦予你等同 5% 基礎生命值的強韌。",
+			"thTH": "Lucky Hit: เมื่อหมาป่าโจมตี มีโอกาส 10% ที่คุณจะได้รับ Fortify 5% ของพลังชีวิตพื้นฐาน."
 },
 		id: 73,
 		maxPoints: 1,
@@ -3285,7 +3311,8 @@ Tags: Damage, Crowd Control.`,
 			"ruRU": "Власть природы",
 			"trTR": "Doğanın Eli",
 			"zhCN": "自然延伸",
-			"zhTW": "自然之觸"
+			"zhTW": "自然之觸",
+			"thTH": "Nature's Reach"
 },
 		descriptionLocalized: {
 			"deDE": "Fügt entfernten Gegnern x{3/6/9/12/15/18/21/24/27/30}% mehr Schaden zu. Wenn sie verlangsamt, betäubt, bewegungsunfähig oder zurückgestoßen sind, verdoppelt sich dieser Bonus.\n\nTags: Schaden, Kontrollverlust.",
@@ -3300,7 +3327,8 @@ Tags: Damage, Crowd Control.`,
 			"ruRU": "Вы наносите на x{3/6/9/12/15/18/21/24/27/30}% больше урона находящимся вдалеке противникам. Бонус удваивается, если ваша цель замедлена, оглушена, обездвижена или отброшена.\n\nTags: Урон, Контроль.",
 			"trTR": "Uzak düşmanlara x{3/6/9/12/15/18/21/24/27/30}% artırılmış hasar ver. Düşmanlar ayrıca Yavaşlatılmış, Sersemletilmiş, Sabitlenmiş veya Geri Savrulmuşsa bu bonusu ikiye katla.\n\nTags: Hasar, Kitle Kontrolü.",
 			"zhCN": "对远距敌人造成的伤害提高 x{3/6/9/12/15/18/21/24/27/30}%。如果敌人处于减速、昏迷、定身或击退状态, 则该加成翻倍。\n\nTags: 伤害, 群控.",
-			"zhTW": "對遠程敵人造成的傷害提高 x{3/6/9/12/15/18/21/24/27/30}%。如果敵人也被緩速、擊昏、定身或擊退,則此加成效果加倍。\n\nTags: 傷害, 控場."
+			"zhTW": "對遠程敵人造成的傷害提高 x{3/6/9/12/15/18/21/24/27/30}%。如果敵人也被緩速、擊昏、定身或擊退,則此加成效果加倍。\n\nTags: 傷害, 控場.",
+			"thTH": "ทำความเสียหายแก่ศัตรูที่อยู่ไกลตัวเพิ่มขึ้น x{3/6/9/12/15/18/21/24/27/30}%. เพิ่มจำนวนนี้เป็นสองเท่าหากว่าศัตรูนั้นอยู่ในสถานะ Slowed, Stunned, Immobilized, หรือ Knocked Back."
 },
 		id: 75,
 		maxPoints: 3,
@@ -3325,7 +3353,8 @@ Tags: Spirit, Shapeshifting.`,
 			"ruRU": "Ясность",
 			"trTR": "Netlik",
 			"zhCN": "明澈",
-			"zhTW": "澄明"
+			"zhTW": "澄明",
+			"thTH": "Clarity"
 },
 		descriptionLocalized: {
 			"deDE": "Erhaltet {2/4/6/8/10/12/14/16/18/20} Geisteskraft, wenn Ihr Menschengestalt annehmt.\n\nTags: Geisteskraft, Gestaltwandeln.",
@@ -3340,7 +3369,8 @@ Tags: Spirit, Shapeshifting.`,
 			"ruRU": "Принимая облик человека, вы накапливаете {2/4/6/8/10/12/14/16/18/20} ед. духа.\n\nTags: Дух, Смена облика.",
 			"trTR": "İnsan formuna dönüşürken {2/4/6/8/10/12/14/16/18/20} Ruh kazan.\n\nTags: Ruh, Dönüşme.",
 			"zhCN": "变成人类形态时获得 {2/4/6/8/10/12/14/16/18/20} 点灵力。\n\nTags: 灵力, 变形.",
-			"zhTW": "變回人類形態時獲得 {2/4/6/8/10/12/14/16/18/20} 點靈力。\n\nTags: 靈力, 變形."
+			"zhTW": "變回人類形態時獲得 {2/4/6/8/10/12/14/16/18/20} 點靈力。\n\nTags: 靈力, 變形.",
+			"thTH": "ได้รับ {2/4/6/8/10/12/14/16/18/20} Spirit เมื่อคืนร่างเป็นมนุษย์.\n\nTags: Spirit, Shapeshifting."
 },
 		id: 76,
 		maxPoints: 3,
@@ -3368,7 +3398,8 @@ Tags: Vulnerable, Lucky Hit, Storm, Nature Magic.`,
 			"ruRU": "Сила стихий",
 			"trTR": "Element Maruziyeti",
 			"zhCN": "元素易伤",
-			"zhTW": "元素暴露"
+			"zhTW": "元素暴露",
+			"thTH": "Elemental Exposure"
 },
 		descriptionLocalized: {
 			"deDE": "Glückstreffer: Eure Sturmfertigkeiten verfügen über eine Chance von 10%, Gegner {1/2/3/4/5/6/7/8/9/10} Sek. lang verwundbar zu machen.\n\nTags: Verwundbar, Glückstreffer, Sturm, Naturmagie.",
@@ -3383,7 +3414,8 @@ Tags: Vulnerable, Lucky Hit, Storm, Nature Magic.`,
 			"ruRU": "Удачный удар: ваши умения бури с вероятностью 10% делают противников уязвимыми на {1/2/3/4/5/6/7/8/9/10} сек.\n\nTags: Уязвимость, Удачный удар, Буря, Силы природы.",
 			"trTR": "Şanslı Vuruş: Fırtına Yeteneklerin en fazla %10 ihtimalle düşmanları {1/2/3/4/5/6/7/8/9/10} saniyeliğine Savunmasız hâle getirir.\n\nTags: Savunmasız, Şanslı Vuruş, Fırtına, Doğa Sihri.",
 			"zhCN": "幸运一击: 你的风暴技能最多有 10% 几率使敌人陷入易伤状态, 持续 {1/2/3/4/5/6/7/8/9/10} 秒。\n\nTags: 易伤, 幸运一击, 风暴, 自然魔法.",
-			"zhTW": "幸運觸發:你的風暴技能最高有 10% 機率使敵人易傷,持續 {1/2/3/4/5/6/7/8/9/10} 秒。\n\nTags: 易傷, 幸運觸發, 風暴, 自然魔法."
+			"zhTW": "幸運觸發:你的風暴技能最高有 10% 機率使敵人易傷,持續 {1/2/3/4/5/6/7/8/9/10} 秒。\n\nTags: 易傷, 幸運觸發, 風暴, 自然魔法.",
+			"thTH": "Lucky Hit: สกิล Storm มีโอกาส 10% ที่จะทำให้ศัตรูอยู่ในสถานะ Vulnerable เป็นระยะเวลา {1/2/3/4/5/6/7/8/9/10} วินาที.\n\nTags: Vulnerable, Lucky Hit, Storm, Nature Magic."
 },
 		id: 80,
 		maxPoints: 3,
@@ -3408,7 +3440,8 @@ Tags: Storm, Nature Magic, Damage, Lightning.`,
 			"ruRU": "Атмосферное напряжение",
 			"trTR": "Yüklü Atmosfer",
 			"zhCN": "空气电场",
-			"zhTW": "蓄電大氣"
+			"zhTW": "蓄電大氣",
+			"thTH": "Charged Atmosphere"
 },
 		descriptionLocalized: {
 			"deDE": "Alle {18/15/12/9/6/3/0/-3/-6/-9} Sek. trifft ein Blitzschlag einen Gegner in der Nähe und verursacht 45% Schaden.\n\nTags: Sturm, Naturmagie, Schaden, Blitz.",
@@ -3423,7 +3456,8 @@ Tags: Storm, Nature Magic, Damage, Lightning.`,
 			"ruRU": "Раз в {18/15/12/9/6/3/0/-3/-6/-9} сек. ближайшего противника поражает разряд молнии, наносящий 45% ед. урона.\n\nTags: Буря, Силы природы, Урон, Молния.",
 			"trTR": "{18/15/12/9/6/3/0/-3/-6/-9} saniyede bir Yakındaki bir düşmana Yıldırım çarparak 45% hasar verir.\n\nTags: Fırtına, Doğa Sihri, Hasar, Yıldırım.",
 			"zhCN": "每隔 {18/15/12/9/6/3/0/-3/-6/-9} 秒对附近的敌人射出一支闪电箭, 造成 45% 点伤害。\n\nTags: 风暴, 自然魔法, 伤害, 闪电.",
-			"zhTW": "每 {18/15/12/9/6/3/0/-3/-6/-9} 秒會以閃電擊中一名附近的敵人,造成 45% 點傷害。\n\nTags: 風暴, 自然魔法, 傷害, 閃電."
+			"zhTW": "每 {18/15/12/9/6/3/0/-3/-6/-9} 秒會以閃電擊中一名附近的敵人,造成 45% 點傷害。\n\nTags: 風暴, 自然魔法, 傷害, 閃電.",
+			"thTH": "ทุก {18/15/12/9/6/3/0/-3/-6/-9} วินาที, จะมีสายฟ้าผ่าศัตรูรอบตัว ทำความเสียหาย 45%.\n\nTags: Storm, Nature Magic, Damage, Lightning."
 },
 		id: 81,
 		maxPoints: 3,
@@ -3450,7 +3484,8 @@ Tags: Crowd Control, Lightning, Lucky Hit, Damage.`,
 			"ruRU": "Электрошок",
 			"trTR": "Elektrik Şoku",
 			"zhCN": "电能冲击",
-			"zhTW": "電擊"
+			"zhTW": "電擊",
+			"thTH": "Electric Shock"
 },
 		descriptionLocalized: {
 			"deDE": "Glückstreffer: Wenn Ihr Gegnern Blitzschaden zufügt, besteht eine Chance von bis zu {5/10/15/20/25/30/35/40/45/50}%, sie 3 Sek. lang bewegungsunfähig zu machen.\n\nWenn das Ziel bereits bewegungsunfähig ist, erhöht sich sein erlittener Blitzschaden stattdessen um x{6/12/18/24/30/36/42/48/54/60}%.\n\nTags: Kontrollverlust, Blitz, Glückstreffer, Schaden.",
@@ -3465,7 +3500,8 @@ Tags: Crowd Control, Lightning, Lucky Hit, Damage.`,
 			"ruRU": "Удачный удар: когда вы наносите противникам урон от молнии, вы с вероятностью до {5/10/15/20/25/30/35/40/45/50}% обездвиживаете их на 3 сек.\n\nЕсли цель уже обездвижена, наносимый ей урон от молнии увеличивается на x{6/12/18/24/30/36/42/48/54/60}%.\n\nTags: Контроль, Молния, Удачный удар, Урон.",
 			"trTR": "Şanslı Vuruş: Düşmanlara Yıldırım hasarı vermek, en fazla %{5/10/15/20/25/30/35/40/45/50} ihtimalle onları 3 saniyeliğine Sabitler.\n\nHedef zaten Sabitlenmişse bunun yerine onlara verilen Yıldırım hasarı x{6/12/18/24/30/36/42/48/54/60}% artar.\n\nTags: Kitle Kontrolü, Yıldırım, Şanslı Vuruş, Hasar.",
 			"zhCN": "幸运一击: 对敌人造成闪电伤害最多有 {5/10/15/20/25/30/35/40/45/50}% 几率使其定身 3 秒。\n\n如果目标已经处于定身状态, 则对其造成的闪电伤害提高 x{6/12/18/24/30/36/42/48/54/60}%。\n\nTags: 群控, 闪电, 幸运一击, 伤害.",
-			"zhTW": "幸運觸發:對敵人造成電擊傷害有最多 {5/10/15/20/25/30/35/40/45/50}% 的機率使其定身,持續 3 秒。\n\n如目標已被定身,對目標造成的電擊傷害則會提高 x{6/12/18/24/30/36/42/48/54/60}%。\n\nTags: 控場, 閃電, 幸運觸發, 傷害."
+			"zhTW": "幸運觸發:對敵人造成電擊傷害有最多 {5/10/15/20/25/30/35/40/45/50}% 的機率使其定身,持續 3 秒。\n\n如目標已被定身,對目標造成的電擊傷害則會提高 x{6/12/18/24/30/36/42/48/54/60}%。\n\nTags: 控場, 閃電, 幸運觸發, 傷害.",
+			"thTH": "Lucky Hit: เมื่อทำความเสียหาย Lightning มีโอกาส {5/10/15/20/25/30/35/40/45/50}% ที่จะทำให้ศัตรูอยู่ในสถานะ Immobilize เป็นระยะเวลา 3 วินาที.\n\nหากศัตรูอยู่ในสถานะ Immobilized อยู่แล้ว, ความเสียหาย Lightning นั้นจะเพิ่มขึ้น x{6/12/18/24/30/36/42/48/54/60}%.\n\nTags: Crowd Control, Lightning, Lucky Hit, Damage."
 },
 		id: 82,
 		maxPoints: 3,
@@ -3490,7 +3526,8 @@ Tags: Vulnerable, Lightning, Damage, Nature Magic, Storm, Lucky Hit, Crowd Contr
 			"ruRU": "Дурное знамение",
 			"trTR": "Uğursuzluk",
 			"zhCN": "恶兆",
-			"zhTW": "不祥之兆"
+			"zhTW": "不祥之兆",
+			"thTH": "Bad Omen"
 },
 		descriptionLocalized: {
 			"deDE": "Glückstreffer: Wenn Ihr einem verwundbaren, bewegungsunfähigen oder betäubten Gegner Schaden zufügt, besteht eine Chance von bis zu {10/20/30/40/50/60/70/80/90/100}%, dass ihn auch ein Blitzschlag trifft und ihm 55% Schaden zufügt.\n\nTags: Verwundbar, Blitz, Schaden, Naturmagie, Sturm, Glückstreffer, Kontrollverlust.",
@@ -3505,7 +3542,8 @@ Tags: Vulnerable, Lightning, Damage, Nature Magic, Storm, Lucky Hit, Crowd Contr
 			"ruRU": "Удачный удар: когда вы поражаете уязвимого, обездвиженного или оглушенного противника, с вероятностью {10/20/30/40/50/60/70/80/90/100}% создается разряд молнии, наносящий 55% ед. урона.\n\nTags: Уязвимость, Молния, Урон, Силы природы, Буря, Удачный удар, Контроль.",
 			"trTR": "Şanslı Vuruş: En fazla %{10/20/30/40/50/60/70/80/90/100} ihtimalle Savunmasız, Sabitlenmiş veya Sersemletilmiş bir düşmana hasar verirken bunun yanında bir Yıldırım darbesi vurup 55% hasar verir.\n\nTags: Savunmasız, Yıldırım, Hasar, Doğa Sihri, Fırtına, Şanslı Vuruş, Kitle Kontrolü.",
 			"zhCN": "幸运一击: 对处于易伤、定身或昏迷状态的敌人造成伤害时, 最多有 {10/20/30/40/50/60/70/80/90/100}% 几率对其射出一支闪电箭, 造成 55% 点伤害。\n\nTags: 易伤, 闪电, 伤害, 自然魔法, 风暴, 幸运一击, 群控.",
-			"zhTW": "幸運觸發:對易傷、定身或昏迷的敵人造成傷害時,最多有 {10/20/30/40/50/60/70/80/90/100}% 機率觸發閃電,命中時造成 55% 點傷害。\n\nTags: 易傷, 閃電, 傷害, 自然魔法, 風暴, 幸運觸發, 控場."
+			"zhTW": "幸運觸發:對易傷、定身或昏迷的敵人造成傷害時,最多有 {10/20/30/40/50/60/70/80/90/100}% 機率觸發閃電,命中時造成 55% 點傷害。\n\nTags: 易傷, 閃電, 傷害, 自然魔法, 風暴, 幸運觸發, 控場.",
+			"thTH": "Lucky Hit: มีโอกาส {10/20/30/40/50/60/70/80/90/100}% เมื่อทำความเสียหายศัตรูที่อยู่ในสถานะ Vulnerable, Immobilized, หรือ Stunned ที่จะเรียก Lightning Bolt ที่จะทำความเสียหาย 55% แก่ศัตรูนั้น.\n\nTags: Vulnerable, Lightning, Damage, Nature Magic, Storm, Lucky Hit, Crowd Control."
 },
 		id: 83,
 		maxPoints: 3,
@@ -3530,7 +3568,8 @@ Tags: Damage.`,
 			"ruRU": "Нескончаемый ураган",
 			"trTR": "Sonsuz Fırtına",
 			"zhCN": "无尽风暴",
-			"zhTW": "無盡風暴"
+			"zhTW": "無盡風暴",
+			"thTH": "Endless Tempest"
 },
 		descriptionLocalized: {
 			"deDE": "Erhöht die Dauer von Hurrikan und Kataklysmus um x{5/10/15/20/25/30/35/40/45/50}%.\n\nTags: Schaden.",
@@ -3545,7 +3584,8 @@ Tags: Damage.`,
 			"ruRU": "Время действия \"Урагана\" и \"Катаклизма\" увеличивается на x{5/10/15/20/25/30/35/40/45/50}%.\n\nTags: Урон.",
 			"trTR": "Kasırga ve Afetin süresini x{5/10/15/20/25/30/35/40/45/50}% artır.\n\nTags: Hasar.",
 			"zhCN": "飓风和浩劫的持续时间延长 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 伤害.",
-			"zhTW": "颶風術與災變的持續時間延長 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 傷害."
+			"zhTW": "颶風術與災變的持續時間延長 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 傷害.",
+			"thTH": "เพิ่มระยะเวลาของ Hurricane และ Cataclysm x{5/10/15/20/25/30/35/40/45/50}%.\n\nTags: Damage."
 },
 		id: 84,
 		maxPoints: 3,
@@ -3573,7 +3613,8 @@ Tags: Wrath, Nature Magic, Earth, Physical, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Глыба",
 			"trTR": "Kaya",
 			"zhCN": "滚石",
-			"zhTW": "巨石"
+			"zhTW": "巨石",
+			"thTH": "Boulder"
 },
 		descriptionLocalized: {
 			"deDE": "Attack Speed Multiplier: 1.25\nAbklingzeit: 10 Sek.\nGlückstrefferchance: 4% (per hit)\nBringt einen großen Felsbrocken ins Rollen, der Gegner mehrfach zurückstößt und ihnen mit jedem Treffer {33/36.3/39.6/42.9/46.2/49.5/52.8/56.1/59.4/62.7}% Schaden zufügt.\n\nTags: Zorn, Naturmagie, Erde, Physisch, Schaden, Abklingzeit, Kontrollverlust.",
@@ -3588,7 +3629,8 @@ Tags: Wrath, Nature Magic, Earth, Physical, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Attack Speed Multiplier: 1.25\nВремя восстановления: 10 сек.\nВероятность удачного удара: 4% (per hit)\nПоднимает из-под земли огромный валун, который катится вперед и непрерывно отбрасывает противников, нанося им {33/36.3/39.6/42.9/46.2/49.5/52.8/56.1/59.4/62.7}% ед. урона каждым ударом.\n\nTags: Гнев, Силы природы, Земля, Физический урон, Урон, Время восстановления, Контроль.",
 			"trTR": "Attack Speed Multiplier: 1.25\nBekleme Süresi: 10 saniye\nŞanslı Vuruş İhtimali: 4% (per hit)\nTopraktan düşmanları tekrar tekrar Geri Savurarak her vuruşta {33/36.3/39.6/42.9/46.2/49.5/52.8/56.1/59.4/62.7}% hasar veren büyük bir kaya çıkar.\n\nTags: Gazap, Doğa Sihri, Toprak, Fiziksel, Hasar, Bekleme Süresi, Kitle Kontrolü.",
 			"zhCN": "Attack Speed Multiplier: 1.25\n冷却时间: 10秒\n幸运一击几率: 4% (per hit)\n挖出一块巨大的滚石不断击退敌人, 每次命中造成 {33/36.3/39.6/42.9/46.2/49.5/52.8/56.1/59.4/62.7}% 点伤害。\n\nTags: 愤怒, 自然魔法, 大地, 物理, 伤害, 冷却时间, 群控.",
-			"zhTW": "Attack Speed Multiplier: 1.25\n冷卻時間:10 秒\n幸運觸發機率: 4% (per hit)\n挖出一顆滾動巨石,不斷擊退敵人,每次命中造成 {33/36.3/39.6/42.9/46.2/49.5/52.8/56.1/59.4/62.7}% 點傷害。\n\nTags: 憤怒, 自然魔法, 大地, 物理, 傷害, 冷卻時間, 控場."
+			"zhTW": "Attack Speed Multiplier: 1.25\n冷卻時間:10 秒\n幸運觸發機率: 4% (per hit)\n挖出一顆滾動巨石,不斷擊退敵人,每次命中造成 {33/36.3/39.6/42.9/46.2/49.5/52.8/56.1/59.4/62.7}% 點傷害。\n\nTags: 憤怒, 自然魔法, 大地, 物理, 傷害, 冷卻時間, 控場.",
+			"thTH": "ความเร็วในการโจมตี: 1.25\nCooldown: 10 วินาที\nLucky Hit Chance: 4% (per hit)\nปล่อยหินกลิ้งที่จะคอย Knocked Back ศัตรูอย่างต่อเนื่อง และทำความเสียหาย {33/36.3/39.6/42.9/46.2/49.5/52.8/56.1/59.4/62.7}% ทุกครั้งที่โดนศัตรู.\n\nTags: Wrath, Nature Magic, Earth, Physical, Damage, Cooldown, Crowd Control."
 },
 		id: 85,
 		maxPoints: 5,
@@ -3612,7 +3654,8 @@ Tags: Wrath, Nature Magic, Earth, Physical, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Усиленная глыба",
 			"trTR": "Geliştirilmiş Kaya",
 			"zhCN": "强化滚石",
-			"zhTW": "強化巨石"
+			"zhTW": "強化巨石",
+			"thTH": "Enhanced Boulder"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Felsbrocken das Ende seines Pfads erreicht, werden getroffene Gegner 3 Sek. lang um 30% verlangsamt. Falls Felsbrocken überwältigt, werden Gegner stattdessen 4 Sek. lang betäubt.",
@@ -3627,7 +3670,8 @@ Tags: Wrath, Nature Magic, Earth, Physical, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Когда \"Глыба\" достигает конца пути, пораженные противники замедляются на 30% на 3 сек. Если \"Глыба\" наносит подавляющий урон, вместо этого противники оглушаются на 4 сек.",
 			"trTR": "Kaya yolunun sonuna ulaştığında vurulan düşmanlar 3 saniyeliğine 30% Yavaşlatılır. Kaya Aşırı Güçlenirse düşmanlar bunun yerine 4 saniyeliğine Sersemletilir.",
 			"zhCN": "滚石达到路径终点时, 被命中的敌人会被减速 30%, 持续 3 秒。如果滚石压制了目标, 则敌人会被击晕 4 秒。",
-			"zhTW": "巨石抵達路徑終點時,其擊中的敵人會緩速 30%,持續 3 秒。若巨石造成壓制效果,則敵人改為昏迷 4 秒。"
+			"zhTW": "巨石抵達路徑終點時,其擊中的敵人會緩速 30%,持續 3 秒。若巨石造成壓制效果,則敵人改為昏迷 4 秒。",
+			"thTH": "เมื่อ Boulder กลิ้งไปสุดทาง, ศัตรูที่โดนจะอยู่ในสถานะ Slowed 30% เป็นระยะเวลา 3 วินาที, หรือหาก Boulder ทำความเสียหาย Overpowered, ศัตรูจะอยู่ในสถานะ Stunned 4 วินาที."
 },
 		id: 86,
 		maxPoints: 1,
@@ -3651,7 +3695,8 @@ Tags: Wrath, Nature Magic, Earth, Physical, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Природная глыба",
 			"trTR": "Doğal Kaya",
 			"zhCN": "自然滚石",
-			"zhTW": "自然巨石"
+			"zhTW": "自然巨石",
+			"thTH": "Natural Boulder"
 },
 		descriptionLocalized: {
 			"deDE": "Während Ihr über Stählung verfügt, ist die kritische Trefferchance von Felsbrocken um +20% erhöht.",
@@ -3666,7 +3711,8 @@ Tags: Wrath, Nature Magic, Earth, Physical, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Пока у вас есть эффект укрепления, вероятность критического эффекта \"Глыбы\" повышается на +20%.",
 			"trTR": "Herhangi bir Güçlendirmeye sahip olduğunda Kayanın +20% artırılmış Kritik Vuruş İhtimali vardır.",
 			"zhCN": "当你拥有任意强固效果时, 滚石的暴击几率提高 +20%。",
-			"zhTW": "當你有強韌效果時,巨石的爆擊機率提高 +20%。"
+			"zhTW": "當你有強韌效果時,巨石的爆擊機率提高 +20%。",
+			"thTH": "หากคุณมี Fortify, Boulder มีโอกาสโจมตี Critical เพิ่มขึ้น +20%."
 },
 		id: 87,
 		maxPoints: 1,
@@ -3690,7 +3736,8 @@ Tags: Wrath, Nature Magic, Earth, Physical, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Неистовая глыба",
 			"trTR": "Vahşi Kaya",
 			"zhCN": "野蛮滚石",
-			"zhTW": "野蠻巨石"
+			"zhTW": "野蠻巨石",
+			"thTH": "Savage Boulder"
 },
 		descriptionLocalized: {
 			"deDE": "Die kritische Trefferchance von Felsbrocken erhöht sich jedes Mal, wenn er Schaden verursacht, um +3%.",
@@ -3705,7 +3752,8 @@ Tags: Wrath, Nature Magic, Earth, Physical, Damage, Cooldown, Crowd Control.`,
 			"ruRU": "Вероятность критического эффекта \"Глыбы\" повышается на +3%, когда она наносит урон.",
 			"trTR": "Kayanın Kritik Vuruş İhtimali, her hasar verdiğinde +3% artar.",
 			"zhCN": "滚石每次造成伤害时, 其暴击几率提高 +3%。",
-			"zhTW": "巨石每次造成傷害時,其爆擊機率提高 +3%。"
+			"zhTW": "巨石每次造成傷害時,其爆擊機率提高 +3%。",
+			"thTH": "Boulder มีโอกาสโจมตี Critical เพิ่มขึ้น +3% ต่อจำนวนที่มันทำความเสียหาย."
 },
 		id: 88,
 		maxPoints: 1,
@@ -3734,7 +3782,8 @@ Tags: Wrath, Shapeshifting, Werebear, Unstoppable, Physical, Damage, Cooldown, C
 			"ruRU": "Тяжелый шаг",
 			"trTR": "Ez",
 			"zhCN": "践踏",
-			"zhTW": "踐踏"
+			"zhTW": "踐踏",
+			"thTH": "Trample"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 14 Sek.\nGlückstrefferchance: 20% (per hit)\nVerwandelt Euch in einen Werbären und werdet unaufhaltsam. Ihr stürmt nach vorn, verursacht {75/82.5/90/97.5/105/112.5/120/127.5/135/142.5}% Schaden und stoßt Gegner zurück.\n\nGegner, die in Terrain gestoßen werden, erleiden zusätzlich {45/49.5/54/58.5/63/67.5/72/76.5/81/85.5}% Schaden und sind 3 Sek. lang betäubt.\n\nTags: Zorn, Gestaltwandeln, Werbär, Unaufhaltsam, Physisch, Schaden, Abklingzeit, Kontrollverlust.",
@@ -3749,7 +3798,8 @@ Tags: Wrath, Shapeshifting, Werebear, Unstoppable, Physical, Damage, Cooldown, C
 			"ruRU": "Время восстановления: 14 сек.\nВероятность удачного удара: 20% (per hit)\nВы принимаете облик медведя, получаете неудержимость и устремляетесь вперед, нанося {75/82.5/90/97.5/105/112.5/120/127.5/135/142.5}% ед. урона и отбрасывая противников.\n\nПри столкновении с препятствиями отброшенные противники получают {45/49.5/54/58.5/63/67.5/72/76.5/81/85.5}% ед. урона и оглушаются на 3 сек.\n\nTags: Гнев, Смена облика, Медведь, Неудержимость, Физический урон, Урон, Время восстановления, Контроль.",
 			"trTR": "Bekleme Süresi: 14 saniye\nŞanslı Vuruş İhtimali: 20% (per hit)\nBir Ayı Adama dönüş, Durdurulamaz ol ve ileriye hücum ederek {75/82.5/90/97.5/105/112.5/120/127.5/135/142.5}% hasar verip düşmanları Geriye Savur.\n\nGeriye Savrularak yere çarpan düşmanlar ilave {45/49.5/54/58.5/63/67.5/72/76.5/81/85.5}% hasar alır ve 3 saniyeliğine Sersemletilir.\n\nTags: Gazap, Dönüşme, Ayı Adam, Durdurulamaz, Fiziksel, Hasar, Bekleme Süresi, Kitle Kontrolü.",
 			"zhCN": "冷却时间: 14 秒\n幸运一击几率: 20% (per hit)\n变成不可阻挡的熊人并向前冲锋, 造成 {75/82.5/90/97.5/105/112.5/120/127.5/135/142.5}% 点伤害并将敌人击退。\n\n被击退到地形上的敌人将额外受到 {45/49.5/54/58.5/63/67.5/72/76.5/81/85.5}% 点伤害并昏迷 3 秒。\n\nTags: 愤怒, 变形, 熊人, 不可阻挡, 物理, 伤害, 冷却时间, 群控.",
-			"zhTW": "冷卻時間:14 秒\n幸運觸發機率: 20% (per hit)\n變身為熊人,進入無阻狀態並向前衝鋒,造成 {75/82.5/90/97.5/105/112.5/120/127.5/135/142.5}% 點傷害並擊退敵人。\n\n敵人被擊退撞到地形時,會額外受到 {45/49.5/54/58.5/63/67.5/72/76.5/81/85.5}% 點傷害並昏迷 3 秒。\n\nTags: 憤怒, 變形, 熊人, 無阻, 物理, 傷害, 冷卻時間, 控場."
+			"zhTW": "冷卻時間:14 秒\n幸運觸發機率: 20% (per hit)\n變身為熊人,進入無阻狀態並向前衝鋒,造成 {75/82.5/90/97.5/105/112.5/120/127.5/135/142.5}% 點傷害並擊退敵人。\n\n敵人被擊退撞到地形時,會額外受到 {45/49.5/54/58.5/63/67.5/72/76.5/81/85.5}% 點傷害並昏迷 3 秒。\n\nTags: 憤怒, 變形, 熊人, 無阻, 物理, 傷害, 冷卻時間, 控場.",
+			"thTH": "Cooldown: 14 วินาที\nLucky Hit Chance: 20% (per hit)\nกลายร่างเป็นหมี, ได้รับสถานะ Unstoppable, และพุ่งตัวไปข้างหน้า, ทำความเสียหาย {75/82.5/90/97.5/105/112.5/120/127.5/135/142.5}% และ Knocked Back ศัตรูออก.\n\nศัตรูที่ถูก Knocked Back ไปชนกับสิ่งแวดล้อมจะได้รับความเสียหายเพิ่มเติม {45/49.5/54/58.5/63/67.5/72/76.5/81/85.5}% และอยู่ในสถานะ Stunned 3 วินาที.\n\nTags: Wrath, Shapeshifting, Werebear, Unstoppable, Physical, Damage, Cooldown, Crowd Control."
 },
 		id: 89,
 		maxPoints: 5,
@@ -3773,7 +3823,8 @@ Tags: Wrath, Shapeshifting, Werebear, Unstoppable, Physical, Damage, Cooldown, C
 			"ruRU": "Усиленный тяжелый шаг",
 			"trTR": "Geliştirilmiş Ez",
 			"zhCN": "强化践踏",
-			"zhTW": "強化踐踏"
+			"zhTW": "強化踐踏",
+			"thTH": "Enhanced Trample"
 },
 		descriptionLocalized: {
 			"deDE": "Niedertrampeln fügt x150% Bonusschaden zu. Dieser Bonus wird für jeden getroffenen Gegner nach dem ersten Ziel um x50% reduziert.",
@@ -3788,7 +3839,8 @@ Tags: Wrath, Shapeshifting, Werebear, Unstoppable, Physical, Damage, Cooldown, C
 			"ruRU": "\"Тяжелый шаг\" наносит на x150% больше урона. Прибавка к урону уменьшается на x50% за каждого пораженного противника после первого.",
 			"trTR": "Ez x150% bonus hasar verir. Bu hasar, ilk düşmandan sonra vurulan her düşman başına x50% azalır.",
 			"zhCN": "践踏造成的伤害提高 x150%。在首次命中后, 每命中一名敌人都会使该加成降低 x50%。",
-			"zhTW": "踐踏造成 x150% 額外傷害。在擊中第一個敵人之後,每個敵人使此額外傷害降低 x50%。"
+			"zhTW": "踐踏造成 x150% 額外傷害。在擊中第一個敵人之後,每個敵人使此額外傷害降低 x50%。",
+			"thTH": "Trample ทำความเสียหายเพิ่มเติม x150%. ความเสียหายนี้ลดลง x50% ต่อจำนวนที่ได้รับความเสียหายหลังจากตัวแรก."
 },
 		id: 90,
 		maxPoints: 1,
@@ -3812,7 +3864,8 @@ Tags: Wrath, Shapeshifting, Werebear, Unstoppable, Physical, Damage, Cooldown, C
 			"ruRU": "Природный тяжелый шаг",
 			"trTR": "Doğal Ez",
 			"zhCN": "自然践踏",
-			"zhTW": "自然踐踏"
+			"zhTW": "自然踐踏",
+			"thTH": "Natural Trample"
 },
 		descriptionLocalized: {
 			"deDE": "Der Einsatz von Niedertrampeln verleiht Euch 20% Eures Basislebens als Stählung.",
@@ -3827,7 +3880,8 @@ Tags: Wrath, Shapeshifting, Werebear, Unstoppable, Physical, Damage, Cooldown, C
 			"ruRU": "\"Тяжелый шаг\" дает вам укрепление в объеме 20% базового запаса здоровья.",
 			"trTR": "Ez kullanmak 20% Temel Canı Güçlendirme olarak kazandırır.",
 			"zhCN": "施放践踏强固你 20% 基础生命。",
-			"zhTW": "施放踐踏可賦予你等同 20% 基礎生命值的強韌。"
+			"zhTW": "施放踐踏可賦予你等同 20% 基礎生命值的強韌。",
+			"thTH": "เมื่อใช้สกิล Trample จะได้รับ Fortify 20% ของพลังชีวิตพื้นฐาน."
 },
 		id: 91,
 		maxPoints: 1,
@@ -3851,7 +3905,8 @@ Tags: Wrath, Shapeshifting, Werebear, Unstoppable, Physical, Damage, Cooldown, C
 			"ruRU": "Неистовый тяжелый шаг",
 			"trTR": "Vahşi Ez",
 			"zhCN": "野蛮践踏",
-			"zhTW": "野蠻踐踏"
+			"zhTW": "野蠻踐踏",
+			"thTH": "Savage Trample"
 },
 		descriptionLocalized: {
 			"deDE": "Das Wirken von Niedertrampeln verleiht 20 Geisteskraft.",
@@ -3866,7 +3921,8 @@ Tags: Wrath, Shapeshifting, Werebear, Unstoppable, Physical, Damage, Cooldown, C
 			"ruRU": "\"Тяжелый шаг\" позволяет накопить 20 ед. духа.",
 			"trTR": "Ez kullanmak, 20 Ruh kazandırır.",
 			"zhCN": "施放践踏获得 20 点灵力。",
-			"zhTW": "施放踐踏會獲得 20 點靈力。"
+			"zhTW": "施放踐踏會獲得 20 點靈力。",
+			"thTH": "เมื่อใช้สกิล Trample จะได้รับ 20 Spirit."
 },
 		id: 92,
 		maxPoints: 1,
@@ -3891,7 +3947,8 @@ Tags: Damage, Crowd Control, Earth, Nature Magic.`,
 			"ruRU": "Сокрушающая земля",
 			"trTR": "Ezici Toprak",
 			"zhCN": "破碎大地",
-			"zhTW": "粉碎大地"
+			"zhTW": "粉碎大地",
+			"thTH": "Crushing Earth"
 },
 		descriptionLocalized: {
 			"deDE": "Erdfertigkeiten fügen verlangsamten, betäubten, bewegungsunfähigen oder zurückgestoßenen Gegnern x{5/10/15/20/25/30/35/40/45/50}% mehr Schaden zu.\n\nTags: Schaden, Kontrollverlust, Erde, Naturmagie.",
@@ -3906,7 +3963,8 @@ Tags: Damage, Crowd Control, Earth, Nature Magic.`,
 			"ruRU": "Умения земли наносят на x{5/10/15/20/25/30/35/40/45/50}% больше урона замедленным, оглушенным, обездвиженным или отброшенным противникам.\n\nTags: Урон, Контроль, Земля, Силы природы.",
 			"trTR": "Toprak Yetenekleri Yavaşlatılmış, Sersemletilmiş, Sabitlenmiş veya Geri Savrulmuş düşmanlara x{5/10/15/20/25/30/35/40/45/50}% artırılmış hasar verir.\n\nTags: Hasar, Kitle Kontrolü, Toprak, Doğa Sihri.",
 			"zhCN": "大地技能对减速、昏迷、定身或击退的敌人造成的伤害提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 伤害, 群控, 大地, 自然魔法.",
-			"zhTW": "大地技能對被緩速、擊昏、定身或擊退的敵人造成的傷害提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 傷害, 控場, 大地, 自然魔法."
+			"zhTW": "大地技能對被緩速、擊昏、定身或擊退的敵人造成的傷害提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 傷害, 控場, 大地, 自然魔法.",
+			"thTH": "สกิล Earth ทำความเสียหายเพิ่มขึ้น x{5/10/15/20/25/30/35/40/45/50}% แก่ศัตรูที่อยู่ในสถานะ Slowed, Stunned, Immobilized, หรือ Knocked Back.\n\nTags: Damage, Crowd Control, Earth, Nature Magic."
 },
 		id: 93,
 		maxPoints: 3,
@@ -3931,7 +3989,8 @@ Tags: Fortify, Critical Strikes, Earth, Nature Magic.`,
 			"ruRU": "Защитные меры",
 			"trTR": "Önlem",
 			"zhCN": "护卫",
-			"zhTW": "安全守護"
+			"zhTW": "安全守護",
+			"thTH": "Safeguard"
 },
 		descriptionLocalized: {
 			"deDE": "Kritische Treffer mit Erdfertigkeiten verleihen Euch Stählung in Höhe von {2.2/4.4/6.6/8.8/11/13.2/15.4/17.6/19.8/22}% Eures Basislebens.\n\nTags: Stählung, Kritische Treffer, Erde, Naturmagie.",
@@ -3946,7 +4005,8 @@ Tags: Fortify, Critical Strikes, Earth, Nature Magic.`,
 			"ruRU": "Критические удары умениями земли дают укрепление в объеме {2.2/4.4/6.6/8.8/11/13.2/15.4/17.6/19.8/22}% базового запаса здоровья.\n\nTags: Укрепление, Критические удары, Земля, Силы природы.",
 			"trTR": "Toprak Yetenekleri ile gerçekleştirilen Kritik Vuruşlar, seni Temel Canının {2.2/4.4/6.6/8.8/11/13.2/15.4/17.6/19.8/22}% kadarına eşit Güçlendirir.\n\nTags: Güçlendirme, Kritik Vuruşlar, Toprak, Doğa Sihri.",
 			"zhCN": "使用大地技能造成暴击可以强固你 {2.2/4.4/6.6/8.8/11/13.2/15.4/17.6/19.8/22}% 基础生命。\n\nTags: 强固, 暴击, 大地, 自然魔法.",
-			"zhTW": "以大地技能造成爆擊時,會賦予你等同 {2.2/4.4/6.6/8.8/11/13.2/15.4/17.6/19.8/22}% 基礎生命值的強韌。\n\nTags: 強韌, 爆擊, 大地, 自然魔法."
+			"zhTW": "以大地技能造成爆擊時,會賦予你等同 {2.2/4.4/6.6/8.8/11/13.2/15.4/17.6/19.8/22}% 基礎生命值的強韌。\n\nTags: 強韌, 爆擊, 大地, 自然魔法.",
+			"thTH": "เมื่อทำความเสียหาย Critical ด้วยสกิล Earth คุณจะได้รับ Fortify {2.2/4.4/6.6/8.8/11/13.2/15.4/17.6/19.8/22}% ของพลังชีวิตพื้นฐาน.\n\nTags: Fortify, Critical Strikes, Earth, Nature Magic."
 },
 		id: 94,
 		maxPoints: 3,
@@ -3971,7 +4031,8 @@ Tags: Fortify, Damage, Life, Earth, Nature Magic.`,
 			"ruRU": "Каменный страж",
 			"trTR": "Taş Muhafız",
 			"zhCN": "石土之御",
-			"zhTW": "石衛士"
+			"zhTW": "石衛士",
+			"thTH": "Stone Guard"
 },
 		descriptionLocalized: {
 			"deDE": "Solange Ihr um mindestens 50% Eures maximalen Lebens gestählt seid, verursachen Eure Erdfertigkeiten x{4/8/12/16/20/24/28/32/36/40}% mehr Schaden.\n\nTags: Stählung, Schaden, Leben, Erde, Naturmagie.",
@@ -3986,7 +4047,8 @@ Tags: Fortify, Damage, Life, Earth, Nature Magic.`,
 			"ruRU": "Пока ваш показатель укрепления превышает 50% максимального запаса здоровья, ваши умения земли наносят на x{4/8/12/16/20/24/28/32/36/40}% больше урона.\n\nTags: Укрепление, Урон, Здоровье, Земля, Силы природы.",
 			"trTR": "Maksimum Canının 50% kadarının üstünde Güçlendirmeye sahip olduğunda Toprak Yeteneklerin x{4/8/12/16/20/24/28/32/36/40}% artırılmış hasar verir.\n\nTags: Güçlendirme, Hasar, Can, Toprak, Doğa Sihri.",
 			"zhCN": "当你获得的强固超过 50% 生命上限时, 你的大地技能造成的伤害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 强固, 伤害, 生命, 大地, 自然魔法.",
-			"zhTW": "當你的強韌高於生命值上限的 50% 時,你的大地技能造成的傷害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 強韌, 傷害, 生命值, 大地, 自然魔法."
+			"zhTW": "當你的強韌高於生命值上限的 50% 時,你的大地技能造成的傷害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 強韌, 傷害, 生命值, 大地, 自然魔法.",
+			"thTH": "เมื่อมี Fortify มากกว่า 50% ของพลังชีวิตสูงสุด, สกิล Earth จะทำคความเสียหายเพิ่มขึ้น x{4/8/12/16/20/24/28/32/36/40}%.\n\nTags: Fortify, Damage, Life, Earth, Nature Magic."
 },
 		id: 95,
 		maxPoints: 3,
@@ -4013,7 +4075,8 @@ Tags: Wrath, Nature Magic, Storm, Physical, Damage, Cooldown.`,
 			"ruRU": "Ураган",
 			"trTR": "Kasırga",
 			"zhCN": "飓风",
-			"zhTW": "颶風術"
+			"zhTW": "颶風術",
+			"thTH": "Hurricane"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 20 Sek.\nGlückstrefferchance: 21.48% (per use)\nBildet einen Hurrikan um Euch herum, der Gegnern in der Nähe im Verlauf von 8 Sek. {97.5/107.2/117/126.8/136.5/146.2/156/165.8/175.5/185.2}% Schaden zufügt.\n\nTags: Zorn, Naturmagie, Sturm, Physisch, Schaden, Abklingzeit.",
@@ -4028,7 +4091,8 @@ Tags: Wrath, Nature Magic, Storm, Physical, Damage, Cooldown.`,
 			"ruRU": "Время восстановления: 20 сек.\nВероятность удачного удара: 21.48% (per use)\nВы создаете вокруг себя ураган, наносящий противникам {97.5/107.2/117/126.8/136.5/146.2/156/165.8/175.5/185.2}% ед. урона за 8 сек.\n\nTags: Гнев, Силы природы, Буря, Физический урон, Урон, Время восстановления.",
 			"trTR": "Bekleme Süresi: 20 saniye\nŞanslı Vuruş İhtimali: 21.48% (per use)\nÇevrende 8 saniye boyunca etrafındaki düşmanlara {97.5/107.2/117/126.8/136.5/146.2/156/165.8/175.5/185.2}% hasar veren bir kasırga oluştur.\n\nTags: Gazap, Doğa Sihri, Fırtına, Fiziksel, Hasar, Bekleme Süresi.",
 			"zhCN": "冷却时间: 20 秒\n幸运一击几率: 21.48% (per use)\n在你的身边生成一道飓风, 在 8 秒内对周围的敌人造成 {97.5/107.2/117/126.8/136.5/146.2/156/165.8/175.5/185.2}% 点伤害。\n\nTags: 愤怒, 自然魔法, 风暴, 物理, 伤害, 冷却时间.",
-			"zhTW": "冷卻時間:20 秒\n幸運觸發機率:21.48% (per use)\n生成颶風環繞你周圍,在 8 秒內對附近的敵人造成 {97.5/107.2/117/126.8/136.5/146.2/156/165.8/175.5/185.2}% 點傷害。\n\nTags: 憤怒, 自然魔法, 風暴, 物理, 傷害, 冷卻時間."
+			"zhTW": "冷卻時間:20 秒\n幸運觸發機率:21.48% (per use)\n生成颶風環繞你周圍,在 8 秒內對附近的敵人造成 {97.5/107.2/117/126.8/136.5/146.2/156/165.8/175.5/185.2}% 點傷害。\n\nTags: 憤怒, 自然魔法, 風暴, 物理, 傷害, 冷卻時間.",
+			"thTH": "Cooldown: 20 วินาที\nLucky Hit Chance: 21.48% (per use)\nสร้างพายุรอบตัวที่จะคอยทำความเสียหาย {97.5/107.2/117/126.8/136.5/146.2/156/165.8/175.5/185.2}% ภายในระยะเวลา 8 วินาที.\n\nTags: Wrath, Nature Magic, Storm, Physical, Damage, Cooldown."
 },
 		id: 99,
 		maxPoints: 5,
@@ -4052,7 +4116,8 @@ Tags: Wrath, Nature Magic, Storm, Physical, Damage, Cooldown.`,
 			"ruRU": "Усиленный ураган",
 			"trTR": "Geliştirilmiş Kasırga",
 			"zhCN": "强化飓风",
-			"zhTW": "強化颶風術"
+			"zhTW": "強化颶風術",
+			"thTH": "Enhanced Hurricane"
 },
 		descriptionLocalized: {
 			"deDE": "Gegner, die durch Hurrikan Schaden erleiden, werden 2 Sek. lang um 25% verlangsamt.",
@@ -4067,7 +4132,8 @@ Tags: Wrath, Nature Magic, Storm, Physical, Damage, Cooldown.`,
 			"ruRU": "Противники, получившие урон от \"Урагана\", замедляются на 25% на 2 сек.",
 			"trTR": "Kasırga ile hasar verilen düşmanlar 2 saniyeliğine 25% Yavaşlatılır.",
 			"zhCN": "飓风命中敌人时会使其减速 25%, 持续 2 秒。",
-			"zhTW": "受到颶風術傷害的敵人會緩速 25%,持續 2 秒。"
+			"zhTW": "受到颶風術傷害的敵人會緩速 25%,持續 2 秒。",
+			"thTH": "ศัตรูที่ได้รับความเสียหายจาก Hurricane จะอยู่ในสถานะ Slowed 25% เป็นระยะเวลา 2 วินาที."
 },
 		id: 100,
 		maxPoints: 1,
@@ -4091,7 +4157,8 @@ Tags: Wrath, Nature Magic, Storm, Physical, Damage, Cooldown.`,
 			"ruRU": "Природный ураган",
 			"trTR": "Doğal Kasırga",
 			"zhCN": "自然飓风",
-			"zhTW": "自然颶風術"
+			"zhTW": "自然颶風術",
+			"thTH": "Natural Hurricane"
 },
 		descriptionLocalized: {
 			"deDE": "Hurrikan verfügt über eine Chance von 15%, Gegner 3 Sek. lang verwundbar zu machen.",
@@ -4106,7 +4173,8 @@ Tags: Wrath, Nature Magic, Storm, Physical, Damage, Cooldown.`,
 			"ruRU": "\"Ураган\" с вероятностью 15% делает противников уязвимыми на 3 сек.",
 			"trTR": "Kasırga 15% ihtimalle 3 saniyeliğine düşmanları Savunmasız hâle getirir.",
 			"zhCN": "飓风有 15% 几率使敌人陷入易伤状态, 持续 3 秒。",
-			"zhTW": "颶風術有 15% 機率使敵人易傷,持續 3 秒。"
+			"zhTW": "颶風術有 15% 機率使敵人易傷,持續 3 秒。",
+			"thTH": "Hurricane มีโอกาส 15% ที่จะทำให้ศัตรูอยู่ในสถานะ Vulnerable 3 วินาที."
 },
 		id: 101,
 		maxPoints: 1,
@@ -4130,7 +4198,8 @@ Tags: Wrath, Nature Magic, Storm, Physical, Damage, Cooldown.`,
 			"ruRU": "Неистовый ураган",
 			"trTR": "Vahşi Kasırga",
 			"zhCN": "野蛮飓风",
-			"zhTW": "野蠻颶風術"
+			"zhTW": "野蠻颶風術",
+			"thTH": "Savage Hurricane"
 },
 		descriptionLocalized: {
 			"deDE": "Von Hurrikan betroffene Gegner verursachen 20% weniger Schaden.",
@@ -4145,7 +4214,8 @@ Tags: Wrath, Nature Magic, Storm, Physical, Damage, Cooldown.`,
 			"ruRU": "Противники под действием \"Урагана\" наносят на x20% меньше урона.",
 			"trTR": "Kasırga etkisi altındaki düşmanlar 20% daha az hasar verir.",
 			"zhCN": "受飓风影响的敌人造成的伤害降低 20%。",
-			"zhTW": "受颶風術影響的敵人造成的傷害降低 20%。"
+			"zhTW": "受颶風術影響的敵人造成的傷害降低 20%。",
+			"thTH": "ศัตรูที่อยู่ในผลของ Hurricane จะทำความเสียหายน้อยลง 20%."
 },
 		id: 102,
 		maxPoints: 1,
@@ -4174,7 +4244,8 @@ Tags: Wrath, Shapeshifting, Werewolf, Poison, Damage, Cooldown.`,
 			"ruRU": "Звериное бешенство",
 			"trTR": "Kuduz",
 			"zhCN": "狂犬撕咬",
-			"zhTW": "狂犬撕咬"
+			"zhTW": "狂犬撕咬",
+			"thTH": "Rabies"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 12 Sek.\nGlückstrefferchance: 50% (per use)\nVerwandelt Euch in einen Werwolf und fügt dem Ziel mit einem infektiösen Biss {28/30.8/33.6/36.4/39.2/42/44.8/47.6/50.4/53.2}% Schaden zu und verursacht zusätzlich {52.8/58.2/63.6/69/74.4/79.2/84.6/90/95.4/100.8}% Giftschaden im Verlauf von 6 Sek.\n\nInfizierte Gegner verbreiten Tollwut auf andere Ziele in der Nähe.\n\nTags: Zorn, Gestaltwandeln, Werwolf, Gift, Schaden, Abklingzeit.",
@@ -4189,7 +4260,8 @@ Tags: Wrath, Shapeshifting, Werewolf, Poison, Damage, Cooldown.`,
 			"ruRU": "Время восстановления: 12 сек.\nВероятность удачного удара: 50% (per use)\nВы принимаете облик волка и кусаете противника, нанося {28/30.8/33.6/36.4/39.2/42/44.8/47.6/50.4/53.2}% ед. урона сразу и еще {52.8/58.2/63.6/69/74.4/79.2/84.6/90/95.4/100.8}% ед. урона от отравления за 6 сек.\n\nЗараженные противники распространяют эффект \"Звериного бешенства\" на другие ближайшие цели.\n\nTags: Гнев, Смена облика, Облик волка, Яд, Урон, Время восстановления.",
 			"trTR": "Bekleme Süresi: 12 saniye\nŞanslı Vuruş İhtimali: 50% (per use)\nBir Kurt Adama dönüşüp bulaşıcı bir ısırıkla hedefe saldırarak {28/30.8/33.6/36.4/39.2/42/44.8/47.6/50.4/53.2}% hasar ver ve 6 saniye boyunca ilave {52.8/58.2/63.6/69/74.4/79.2/84.6/90/95.4/100.8}% Zehirleme hasarı uygula.\n\nEnfekte düşmanlar Kuduzu etraftaki diğer hedeflere yayarlar.\n\nTags: Gazap, Dönüşme, Kurt Adam, Zehir, Hasar, Bekleme Süresi.",
 			"zhCN": "冷却时间: 12 秒\n幸运一击几率: 50% (per use)\n变成狼人对目标施加感染撕咬, 造成 {28/30.8/33.6/36.4/39.2/42/44.8/47.6/50.4/53.2}% 点伤害, 并在 6 秒内造成 {52.8/58.2/63.6/69/74.4/79.2/84.6/90/95.4/100.8}% 点毒素伤害。\n\n被感染的敌人会向周围的其他目标传染狂犬撕咬。\n\nTags: 愤怒, 变形, 狼人, 毒素, 伤害, 冷却时间.",
-			"zhTW": "冷卻時間:12 秒\n幸運觸發機率:50% (per use)\n變身為狼人並施展會傳染疾病的咬擊,對目標造成 {28/30.8/33.6/36.4/39.2/42/44.8/47.6/50.4/53.2}% 點傷害,並額外在 6 秒內造成 {52.8/58.2/63.6/69/74.4/79.2/84.6/90/95.4/100.8}% 點中毒傷害。\n\n被感染的敵人會把狂犬撕咬傳染給附近其他目標。\n\nTags: 憤怒, 變形, 狼人, 毒素, 傷害, 冷卻時間."
+			"zhTW": "冷卻時間:12 秒\n幸運觸發機率:50% (per use)\n變身為狼人並施展會傳染疾病的咬擊,對目標造成 {28/30.8/33.6/36.4/39.2/42/44.8/47.6/50.4/53.2}% 點傷害,並額外在 6 秒內造成 {52.8/58.2/63.6/69/74.4/79.2/84.6/90/95.4/100.8}% 點中毒傷害。\n\n被感染的敵人會把狂犬撕咬傳染給附近其他目標。\n\nTags: 憤怒, 變形, 狼人, 毒素, 傷害, 冷卻時間.",
+			"thTH": "Cooldown: 12 วินาที\nLucky Hit Chance: 50% (per use)\nกลายร่างเป็นหมาป่า และกัดศัตรู ทำความเสียหาย {28/30.8/33.6/36.4/39.2/42/44.8/47.6/50.4/53.2}% และศัตรูจะได้รับเชื้อทำความเสียหาย Poison เพิ่มเติม {52.8/58.2/63.6/69/74.4/79.2/84.6/90/95.4/100.8}% ภายในระยะเวลา 6 วินาที.\n\nเชื้อ Rabies จะแพร่กระจายไปสู่ศัตรูรอบๆ\n\nTags: Wrath, Shapeshifting, Werewolf, Poison, Damage, Cooldown."
 },
 		id: 103,
 		maxPoints: 5,
@@ -4213,7 +4285,8 @@ Tags: Wrath, Shapeshifting, Werewolf, Poison, Damage, Cooldown.`,
 			"ruRU": "Усиленное звериное бешенство",
 			"trTR": "Geliştirilmiş Kuduz",
 			"zhCN": "强化狂犬撕咬",
-			"zhTW": "強化狂犬撕咬"
+			"zhTW": "強化狂犬撕咬",
+			"thTH": "Enhanced Rabies"
 },
 		descriptionLocalized: {
 			"deDE": "Der Giftschaden von Tollwut erhöht sich zudem mit der Lebensdauer der Krankheit und fügt bei maximaler Dauer x30% Bonusschaden zu.",
@@ -4228,7 +4301,8 @@ Tags: Wrath, Shapeshifting, Werewolf, Poison, Damage, Cooldown.`,
 			"ruRU": "Наносимый \"Звериным бешенством\" урон от отравления постепенно увеличивается. В конце действия прибавка к урону достигает x30%.",
 			"trTR": "Kuduzun Zehirleme hasarı ayrıca hastalığın ömrü boyunca artarak maksimum sürede x30% bonus hasar verir.",
 			"zhCN": "狂犬撕咬的毒素伤害也会随着时间提高, 持续时间达到上限时造成 x30% 的加成伤害。",
-			"zhTW": "狂犬撕咬的中毒傷害會隨持續時間提高,在持續時間結束時造成 x30% 額外傷害。"
+			"zhTW": "狂犬撕咬的中毒傷害會隨持續時間提高,在持續時間結束時造成 x30% 額外傷害。",
+			"thTH": "ความเสียหาย Poison ของสกิล Rabies จะเพิ่มขึ้นตามระยะเวลา, สูงสุด x30% ที่ระยะเวลาสูงสุด"
 },
 		id: 104,
 		maxPoints: 1,
@@ -4252,7 +4326,8 @@ Tags: Wrath, Shapeshifting, Werewolf, Poison, Damage, Cooldown.`,
 			"ruRU": "Природное звериное бешенство",
 			"trTR": "Doğal Kuduz",
 			"zhCN": "自然狂犬撕咬",
-			"zhTW": "自然狂犬撕咬"
+			"zhTW": "自然狂犬撕咬",
+			"thTH": "Natural Rabies"
 },
 		descriptionLocalized: {
 			"deDE": "Tollwut verbreitet sich 100% schneller.",
@@ -4267,7 +4342,8 @@ Tags: Wrath, Shapeshifting, Werewolf, Poison, Damage, Cooldown.`,
 			"ruRU": "Эффект \"Звериного бешенства\" распространяется на 100% быстрее.",
 			"trTR": "Kuduz 100% daha hızlı yayılır.",
 			"zhCN": "狂犬撕咬传播速度加快 100%。",
-			"zhTW": "狂犬撕咬擴散速度加快 100%。"
+			"zhTW": "狂犬撕咬擴散速度加快 100%。",
+			"thTH": "เชื้อ Rabies กระจายเร็วขึ้น 100%"
 },
 		id: 105,
 		maxPoints: 1,
@@ -4291,7 +4367,8 @@ Tags: Wrath, Shapeshifting, Werewolf, Poison, Damage, Cooldown.`,
 			"ruRU": "Неистовое звериное бешенство",
 			"trTR": "Vahşi Kuduz",
 			"zhCN": "野蛮狂犬撕咬",
-			"zhTW": "野蠻狂犬撕咬"
+			"zhTW": "野蠻狂犬撕咬",
+			"thTH": "Savage Rabies"
 },
 		descriptionLocalized: {
 			"deDE": "Tollwut verursacht den gesamten Giftschaden innerhalb von 4 Sek. anstatt 6 Sek.",
@@ -4306,7 +4383,8 @@ Tags: Wrath, Shapeshifting, Werewolf, Poison, Damage, Cooldown.`,
 			"ruRU": "\"Звериное бешенство\" наносит весь урон от отравления за 4, а не за 6 сек.",
 			"trTR": "Kuduz toplam Zehirleme hasarını 6 yerine 4 saniyede verir.",
 			"zhCN": "狂犬撕咬会在 4 秒而不是 6 秒内造成全部的毒素伤害。",
-			"zhTW": "狂犬撕咬改為在 4 秒內造成全部的中毒傷害,而非 6 秒。"
+			"zhTW": "狂犬撕咬改為在 4 秒內造成全部的中毒傷害,而非 6 秒。",
+			"thTH": "Rabies ทำความเสียหาย Poison ภายในระยะเวลา 4 วินาที จากเดิม 6 วินาที"
 },
 		id: 106,
 		maxPoints: 1,
@@ -4331,7 +4409,8 @@ Tags: Shapeshifting, Healing, Werebear.`,
 			"ruRU": "Исправление",
 			"trTR": "Onarım",
 			"zhCN": "疗愈",
-			"zhTW": "癒合"
+			"zhTW": "癒合",
+			"thTH": "Mending"
 },
 		descriptionLocalized: {
 			"deDE": "In Werbärgestalt erhaltet Ihr +{5/10/15/20/25/30/35/40/45/50}% zusätzliche Heilung aus allen Quellen.\n\nTags: Gestaltwandeln, Heilung, Werbär.",
@@ -4346,7 +4425,8 @@ Tags: Shapeshifting, Healing, Werebear.`,
 			"ruRU": "В облике медведя вы получаете на +{5/10/15/20/25/30/35/40/45/50}% больше исцеления от любых источников.\n\nTags: Смена облика, Исцеление, Медведь.",
 			"trTR": "Ayı Adam formundayken tüm kaynaklardan ilave +{5/10/15/20/25/30/35/40/45/50}% İyileşme alırsın.\n\nTags: Dönüşme, İyileşme, Ayı Adam.",
 			"zhCN": "熊人形态下, 你从所有来源获得的生命恢复效果提高 +{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 变形, 治疗, 熊人.",
-			"zhTW": "在熊人形態下,你從所有來源獲得的恢復效果提高 +{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 變形, 治療, 熊人."
+			"zhTW": "在熊人形態下,你從所有來源獲得的恢復效果提高 +{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 變形, 治療, 熊人.",
+			"thTH": "เมื่ออยู่ในร่างหมี, คุณจะได้รับการฟื้นฟูพลังชีวิตเพิ่มขึ้น +{5/10/15/20/25/30/35/40/45/50}%. \n\nTags: Shapeshifting, Healing, Werebear."
 },
 		id: 97,
 		maxPoints: 3,
@@ -4371,7 +4451,8 @@ Tags: Overpower, Shapeshifting, Werebear.`,
 			"ruRU": "Провокация",
 			"trTR": "Provokasyon",
 			"zhCN": "挑衅",
-			"zhTW": "挑釁"
+			"zhTW": "挑釁",
+			"thTH": "Provocation"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr mindestens {30/25/20/15/10/5/0/-5/-10/-15} Sek. lang in Werbärgestalt bleibt, wird Eure nächste Fertigkeit überwältigen.\n\nTags: Überwältigen, Gestaltwandeln, Werbär.",
@@ -4386,7 +4467,8 @@ Tags: Overpower, Shapeshifting, Werebear.`,
 			"ruRU": "Когда вы проводите в облике медведя {30/25/20/15/10/5/0/-5/-10/-15} сек., ваше следующее умение наносит подавляющий урон.\n\nTags: Подавление, Смена облика, Медведь.",
 			"trTR": "En az {30/25/20/15/10/5/0/-5/-10/-15} saniye boyunca Ayı Adam formunda kaldığında sonraki Yeteneğin Aşırı Güçlenir.\n\nTags: Aşırı Güç, Dönüşme, Ayı Adam.",
 			"zhCN": "至少保持熊人形态 {30/25/20/15/10/5/0/-5/-10/-15} 秒, 则你的下一个技能必定压制敌人。\n\nTags: 压制, 变形, 熊人.",
-			"zhTW": "當你維持在熊人形態下至少 {30/25/20/15/10/5/0/-5/-10/-15} 秒,你的下一個技能會 壓制。\n\nTags: 壓制, 變形, 熊人."
+			"zhTW": "當你維持在熊人形態下至少 {30/25/20/15/10/5/0/-5/-10/-15} 秒,你的下一個技能會 壓制。\n\nTags: 壓制, 變形, 熊人.",
+			"thTH": "เมื่ออยู่ในร่างหมีเป็นระยะเวลาอย่างน้อย {30/25/20/15/10/5/0/-5/-10/-15} วินาที, สกิลครั้งต่อไปจะ Overpower.\n\nTags: Overpower, Shapeshifting, Werebear."
 },
 		id: 98,
 		maxPoints: 3,
@@ -4411,7 +4493,8 @@ Tags: Poison, Crowd Control.`,
 			"ruRU": "Нейротоксин",
 			"trTR": "Nörotoksin",
 			"zhCN": "神经毒素",
-			"zhTW": "神經毒素"
+			"zhTW": "神經毒素",
+			"thTH": "Neurotoxin"
 },
 		descriptionLocalized: {
 			"deDE": "Vergiftete Gegner werden um {8/16/24/32/40/48/56/64/72/80}% verlangsamt.\n\nTags: Gift, Kontrollverlust.",
@@ -4426,7 +4509,8 @@ Tags: Poison, Crowd Control.`,
 			"ruRU": "Отравленные противники замедляются на {8/16/24/32/40/48/56/64/72/80}%.\n\nTags: Яд, Контроль.",
 			"trTR": "Zehirlenmiş düşmanlar {8/16/24/32/40/48/56/64/72/80}% yavaşlatılır.\n\nTags: Zehir, Kitle Kontrolü.",
 			"zhCN": "使中毒的敌人减速 {8/16/24/32/40/48/56/64/72/80}%。\n\nTags: 毒素, 群控.",
-			"zhTW": "中毒的敵人會緩速 {8/16/24/32/40/48/56/64/72/80}%。\n\nTags: 毒素, 控場."
+			"zhTW": "中毒的敵人會緩速 {8/16/24/32/40/48/56/64/72/80}%。\n\nTags: 毒素, 控場.",
+			"thTH": "ศัตรูที่อยู่ในสถานะ Poisoned จะอยู่ในสถานะ Slowed {8/16/24/32/40/48/56/64/72/80}%.\n\nTags: Poison, Crowd Control."
 },
 		id: 79,
 		maxPoints: 3,
@@ -4451,7 +4535,8 @@ Tags: Critical Strikes, Werewolf, Poison, Damage, Shapeshifting.`,
 			"ruRU": "Ядовитые когти",
 			"trTR": "Zehirli Pençeler",
 			"zhCN": "毒素之爪",
-			"zhTW": "毒爪"
+			"zhTW": "毒爪",
+			"thTH": "Toxin Claws"
 },
 		descriptionLocalized: {
 			"deDE": "Kritische Treffer mit Werwolffertigkeiten verursachen im Verlauf von 4 Sek. {7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}% des Basisschadens als Giftschaden.\n\nTags: Kritische Treffer, Werwolf, Gift, Schaden, Gestaltwandeln.",
@@ -4466,7 +4551,8 @@ Tags: Critical Strikes, Werewolf, Poison, Damage, Shapeshifting.`,
 			"ruRU": "Критические удары умений волка наносят еще {7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}% базового урона как урон от отравления за 4 сек.\n\nTags: Критические удары, Облик волка, Яд, Урон, Смена облика.",
 			"trTR": "Kurt Adam Yetenekleriyle gerçekleştirilen Kritik Vuruşlar, Temel hasarının {7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}% kadarını 4 saniye boyunca Zehirleme hasarı olarak verir.\n\nTags: Kritik Vuruşlar, Kurt Adam, Zehir, Hasar, Dönüşme.",
 			"zhCN": "狼人技能暴击时, 在 4 秒内持续造成 {7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}% 基础伤害的毒素伤害。\n\nTags: 暴击, 狼人, 毒素, 伤害, 变形.",
-			"zhTW": "狼人技能爆擊後會在 4 秒內造成等同其基礎傷害 {7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}% 的中毒傷害。\n\nTags: 爆擊, 狼人, 毒素, 傷害, 變形."
+			"zhTW": "狼人技能爆擊後會在 4 秒內造成等同其基礎傷害 {7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}% 的中毒傷害。\n\nTags: 爆擊, 狼人, 毒素, 傷害, 變形.",
+			"thTH": "สกิล Werewolf ที่ทำความเสียหาย Critical จะทำความเสียหาย Poison เพิ่มเติมเป็นจำนวน {7.5/15/22.5/30/37.5/45/52.5/60/67.5/75}% ของความเสียหายแรกที่ทำได้ ภายในระยะเวลา 4 วินาที.\n\nTags: Critical Strikes, Werewolf, Poison, Damage, Shapeshifting."
 },
 		id: 78,
 		maxPoints: 3,
@@ -4491,7 +4577,8 @@ Tags: Poison, Critical Strikes, Damage.`,
 			"ruRU": "Наполнение ядом",
 			"trTR": "Zehirle",
 			"zhCN": "毒伤",
-			"zhTW": "毒化"
+			"zhTW": "毒化",
+			"thTH": "Envenom"
 },
 		descriptionLocalized: {
 			"deDE": "Vergiftete Gegner erleiden x{10/20/30/40/50/60/70/80/90/100}% zusätzlichen kritischen Trefferschaden.\n\nTags: Gift, Kritische Treffer, Schaden.",
@@ -4506,7 +4593,8 @@ Tags: Poison, Critical Strikes, Damage.`,
 			"ruRU": "Отравленные противники получают на x{10/20/30/40/50/60/70/80/90/100}% больше критического урона.\n\nTags: Яд, Критические удары, Урон.",
 			"trTR": "Zehirlenmiş düşmanlar ilave x{10/20/30/40/50/60/70/80/90/100}% Kritik Vuruş Hasarı alır.\n\nTags: Zehir, Kritik Vuruşlar, Hasar.",
 			"zhCN": "中毒敌人受到的暴击伤害提高 x{10/20/30/40/50/60/70/80/90/100}%。\n\nTags: 毒素, 暴击, 伤害.",
-			"zhTW": "中毒的敵人受到 x{10/20/30/40/50/60/70/80/90/100}% 額外的爆擊傷害。\n\nTags: 毒素, 爆擊, 傷害."
+			"zhTW": "中毒的敵人受到 x{10/20/30/40/50/60/70/80/90/100}% 額外的爆擊傷害。\n\nTags: 毒素, 爆擊, 傷害.",
+			"thTH": "ศัตรูที่อยู่ในสถานะ Poisoned จะได้รับความเสียหาย Critical เพิ่มขึ้น x{10/20/30/40/50/60/70/80/90/100}%.\n\nTags: Poison, Critical Strikes, Damage."
 },
 		id: 166,
 		maxPoints: 3,
@@ -4537,7 +4625,8 @@ Tags: Ultimate, Shapeshifting, Werebear, Damage Reduction, Damage, Cooldown.`,
 			"ruRU": "Ярость гризли",
 			"trTR": "Bozayı Öfkesi",
 			"zhCN": "灰熊狂怒",
-			"zhTW": "灰熊狂怒"
+			"zhTW": "灰熊狂怒",
+			"thTH": "Grizzly Rage"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 50 Sek.\nVerwandelt Euch 10 Sek. lang in einen Todeswerbären. Ihr erhaltet x20% Bonusschaden und 20% Schadensreduktion. In dieser Gestalt erhöht sich der Bonusschaden jede Sek. um 3%.\n\nWenn Ihr Gegner tötet, verlängert sich die Dauer um 1 Sek. bis zu 5 zusätzlichen Sek.\n\nTags: Ultimativ, Gestaltwandeln, Werbär, Schadensreduktion, Schaden, Abklingzeit.",
@@ -4552,7 +4641,8 @@ Tags: Ultimate, Shapeshifting, Werebear, Damage Reduction, Damage, Cooldown.`,
 			"ruRU": "Время восстановления: 50 сек.\nВы принимаете облик лютого медведя на 10 сек. Наносимый урон увеличивается на x20%, а получаемый урон уменьшается на 20%. Прибавка к урону увеличивается на 3% с каждой секундой, проведенной в этом облике.\n\nУбийства продлевают время действия эффекта на 1 сек. вплоть до 5 сек.\n\nTags: Мощное умение, Смена облика, Медведь, Уменьшение урона, Урон, Время восстановления.",
 			"trTR": "Bekleme Süresi: 50 saniye\n10 saniyeliğine bir Korkunç Ayı Adama dönüşüp x20% bonus hasar ve 20% Hasar Azaltma kazan. Hasar bonusu bu formdayken her saniye 3% artar.\n\nÖldürmeler süreyi 1 saniye artırır ve saniye artışı en fazla 5 olabilir.\n\nTags: Ulti, Dönüşme, Ayı Adam, Hasar Azaltma, Hasar, Bekleme Süresi.",
 			"zhCN": "冷却时间: 50 秒\n变成一只恐怖熊人, 持续 10 秒, 获得 x20% 伤害加成和 20% 伤害减免。在该形态下, 伤害加成每秒提高 3%。\n\n消灭会使持续时间延长 1 秒, 最多延长 5 秒。\n\nTags: 终极技能, 变形, 熊人, 伤害减免, 伤害, 冷却时间.",
-			"zhTW": "冷卻時間:50 秒\n變身為兇蠻熊人,持續 10 秒。獲得 x20% 傷害加成與 20% 傷害減免。在此形態下,每秒傷害加成提高 3%。\n\n擊殺可以使持續時間延長 1 秒,最多延長 5 秒。\n\nTags: 絕招, 變形, 熊人, 傷害減免, 傷害, 冷卻時間."
+			"zhTW": "冷卻時間:50 秒\n變身為兇蠻熊人,持續 10 秒。獲得 x20% 傷害加成與 20% 傷害減免。在此形態下,每秒傷害加成提高 3%。\n\n擊殺可以使持續時間延長 1 秒,最多延長 5 秒。\n\nTags: 絕招, 變形, 熊人, 傷害減免, 傷害, 冷卻時間.",
+			"thTH": "กลายร่างเป็นหมีเป็นระยะเวลา 10 วินาที ได้รับพลังโจมตีเพิ่มขึ้น x20% และ 20% Damage Reduction. พลังโจมตีจะเพิ่มขึ้น 3% ทุกวินาทีที่อยู่ในร่างนี้.\n\nเมื่อสังหารศัตรูได้จะเพิ่มระยะเวลาของสกิลนี้ 1 วินาที สูงสุด 5 วินาที.\n\nTags: Ultimate, Shapeshifting, Werebear, Damage Reduction, Damage, Cooldown."
 },
 		id: 107,
 		maxPoints: 1,
@@ -4576,7 +4666,8 @@ Tags: Ultimate, Shapeshifting, Werebear, Damage Reduction, Damage, Cooldown.`,
 			"ruRU": "Первородная ярость гризли",
 			"trTR": "Üstün Bozayı Öfkesi",
 			"zhCN": "至尊灰熊狂怒",
-			"zhTW": "強烈灰熊狂怒"
+			"zhTW": "強烈灰熊狂怒",
+			"thTH": "Prime Grizzly Rage"
 },
 		descriptionLocalized: {
 			"deDE": "Ihr seid unaufhaltsam, solange Euer Grizzlyzorn aktiv ist.",
@@ -4591,7 +4682,8 @@ Tags: Ultimate, Shapeshifting, Werebear, Damage Reduction, Damage, Cooldown.`,
 			"ruRU": "\"Ярость гризли\" также дает неудержимость.",
 			"trTR": "Bozayı Öfkesi etkinken Durdurulamaz olursun.",
 			"zhCN": "灰熊狂怒激活时, 你获得不可阻挡。",
-			"zhTW": "在灰熊狂怒啟動期間,你將進入無阻狀態。"
+			"zhTW": "在灰熊狂怒啟動期間,你將進入無阻狀態。",
+			"thTH": "คุณจะอยู่ในสถานะ Unstoppable ขณะที่อยู่ในผลของสกิล Grizzly Rage."
 },
 		id: 108,
 		maxPoints: 1,
@@ -4615,7 +4707,8 @@ Tags: Ultimate, Shapeshifting, Werebear, Damage Reduction, Damage, Cooldown.`,
 			"ruRU": "Неотвратимая ярость гризли",
 			"trTR": "Yüce Bozayı Öfkesi",
 			"zhCN": "至极灰熊狂怒",
-			"zhTW": "終極灰熊狂怒"
+			"zhTW": "終極灰熊狂怒",
+			"thTH": "Supreme Grizzly Rage"
 },
 		descriptionLocalized: {
 			"deDE": "Erhaltet pro Sekunde 8% Eures Basislebens als Stählung, solange Grizzlyzorn aktiv ist.",
@@ -4630,7 +4723,8 @@ Tags: Ultimate, Shapeshifting, Werebear, Damage Reduction, Damage, Cooldown.`,
 			"ruRU": "Пока действует \"Ярость гризли\", вы получаете укрепление в объеме 8% базового запаса здоровья раз в сек.",
 			"trTR": "Bozayı Öfkesi etkinken saniye başına 8% Temel Canı Güçlendirme olarak kazan.",
 			"zhCN": "灰熊狂怒激活时, 每秒强固你 8% 基础生命。",
-			"zhTW": "在灰熊狂怒啟動期間,每秒獲得等同 8% 基礎生命值的強韌。"
+			"zhTW": "在灰熊狂怒啟動期間,每秒獲得等同 8% 基礎生命值的強韌。",
+			"thTH": "ได้รับ Fortify 8% ของพลังชีวิตพื้นฐาน ทุกวินาทีที่อยู่ในผลของสกิล Grizzly Rage."
 },
 		id: 109,
 		maxPoints: 1,
@@ -4658,7 +4752,8 @@ Tags: Ultimate, Nature Magic, Earth, Crowd Control, Cooldown, Critical Strikes.`
 			"ruRU": "Окаменение",
 			"trTR": "Taşlaştır",
 			"zhCN": "石化",
-			"zhTW": "石化"
+			"zhTW": "石化",
+			"thTH": "Petrify"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 50 Sek.\nHüllt alle Gegner in der Nähe in Stein und betäubt sie 3 Sek. lang. Ihr fügt Gegnern, die von Versteinern betroffen sind, x25% mehr kritischen Trefferschaden zu.\n\nGegen Bosse ist der Bonus auf kritischen Trefferschaden auf x50% und seine Dauer auf 6 Sek. erhöht.\n\nTags: Ultimativ, Naturmagie, Erde, Kontrollverlust, Abklingzeit, Kritische Treffer.",
@@ -4673,7 +4768,8 @@ Tags: Ultimate, Nature Magic, Earth, Crowd Control, Cooldown, Critical Strikes.`
 			"ruRU": "Время восстановления: 50 сек.\nВы заключаете ближайших противников в камень, оглушая их на 3 сек. Цели под действием \"Окаменения\" получают от вас на x25% больше критического урона.\n\nПротив боссов бонус к критическому урону увеличивается до x50%, а время действия эффекта продлевается до 6 сек.\n\nTags: Мощное умение, Силы природы, Земля, Контроль, Время восстановления, Критические удары.",
 			"trTR": "Bekleme Süresi: 50 saniye\nYakındaki tüm düşmanları taşlaştırarak 3 saniyeliğine Sersemlet. Taşlaştırma etkisi altındaki düşmanlara x25% artırılmış Kritik Vuruş Hasarı verirsin.\n\nPatronlara karşı Kritik Vuruş Hasarı bonusu artarak x50%, süresi ise artarak 6 saniye olur.\n\nTags: Ulti, Doğa Sihri, Toprak, Kitle Kontrolü, Bekleme Süresi, Kritik Vuruşlar.",
 			"zhCN": "冷却时间: 50 秒\n石化附近所有敌人, 使其昏迷 3 秒。你对被石化的敌人造成的暴击伤害提高 x25%。\n\n目标为首领时, 暴击伤害加成提高至 x50%, 并且其持续时间提高至 6 秒。\n\nTags: 终极技能, 自然魔法, 大地, 群控, 冷却时间, 暴击.",
-			"zhTW": "冷卻時間:50 秒\n以岩石包覆附近所有敵人,使其昏迷 3 秒。你對石化敵人造成的爆擊傷害提高 x25%。\n\n對上首領時,此爆擊傷害加成提高至 x50%,持續時間延長至 6 秒。\n\nTags: 絕招, 自然魔法, 大地, 控場, 冷卻時間, 爆擊."
+			"zhTW": "冷卻時間:50 秒\n以岩石包覆附近所有敵人,使其昏迷 3 秒。你對石化敵人造成的爆擊傷害提高 x25%。\n\n對上首領時,此爆擊傷害加成提高至 x50%,持續時間延長至 6 秒。\n\nTags: 絕招, 自然魔法, 大地, 控場, 冷卻時間, 爆擊.",
+			"thTH": "ทำให้ศัตรูรอบตัวทั้งหมดแข็งเป็นหิน, ศัตรูจะอยู่ในสถานะ Stun 3 วินาที. คุณจะทำความเสียหาย Critical เพิ่มขึ้น x25% แก่ศัตรูที่ได้รับผลของสกิล Petrify.\n\nศัตรูที่เป็น Bosses จะได้รับผลของสกิลเพิ่มเป็น 6 วินาที, และคุณจะทำความเสียหาย Critical เพิ่มขึ้นเป็น x50%.\n\nTags: Ultimate, Nature Magic, Earth, Crowd Control, Cooldown, Critical Strikes."
 },
 		id: 110,
 		maxPoints: 1,
@@ -4697,7 +4793,8 @@ Tags: Ultimate, Nature Magic, Earth, Crowd Control, Cooldown, Critical Strikes.`
 			"ruRU": "Первородное окаменение",
 			"trTR": "Üstün Taşlaştır",
 			"zhCN": "至尊石化",
-			"zhTW": "強烈石化"
+			"zhTW": "強烈石化",
+			"thTH": "Prime Petrify"
 },
 		descriptionLocalized: {
 			"deDE": "Die Dauer der Effekte von Versteinern erhöht sich um 1 Sek.",
@@ -4712,7 +4809,8 @@ Tags: Ultimate, Nature Magic, Earth, Crowd Control, Cooldown, Critical Strikes.`
 			"ruRU": "Время действия \"Окаменения\" увеличивается на 1 сек.",
 			"trTR": "Taşlaştır yeteneğinin etki süreleri 1 saniye artar.",
 			"zhCN": "石化效果的持续时间延长 1 秒。",
-			"zhTW": "石化效果的持續時間延長 1 秒。"
+			"zhTW": "石化效果的持續時間延長 1 秒。",
+			"thTH": "เพิ่มระยะเวลาผลของสกิล Petrify 1 วินาที."
 },
 		id: 111,
 		maxPoints: 1,
@@ -4736,7 +4834,8 @@ Tags: Ultimate, Nature Magic, Earth, Crowd Control, Cooldown, Critical Strikes.`
 			"ruRU": "Неотвратимое окаменение",
 			"trTR": "Yüce Taşlaştır",
 			"zhCN": "至极石化",
-			"zhTW": "終極石化"
+			"zhTW": "終極石化",
+			"thTH": "Supreme Petrify"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr einen Gegner tötet, der von Versteinern betroffen ist, erhaltet Ihr 25 Geisteskraft.",
@@ -4751,7 +4850,8 @@ Tags: Ultimate, Nature Magic, Earth, Crowd Control, Cooldown, Critical Strikes.`
 			"ruRU": "Убив противника, пораженного \"Окаменением\", вы накапливаете 25 ед. духа.",
 			"trTR": "Taşlaştır etkisi altındaki bir düşmanı öldürmek 25 Ruh kazandırır.",
 			"zhCN": "消灭一名被石化的敌人可以获得 25 点灵力。",
-			"zhTW": "殺死石化的敵人可獲得 25 點靈力。"
+			"zhTW": "殺死石化的敵人可獲得 25 點靈力。",
+			"thTH": "เมื่อสังหารศัตรูที่อยู่ในผลของสกิล Petrify จะได้รับ 25 Spirit."
 },
 		id: 112,
 		maxPoints: 1,
@@ -4776,7 +4876,8 @@ Tags: Fortify.`,
 			"ruRU": "Защитная стойка",
 			"trTR": "Savunma Duruşu",
 			"zhCN": "防御姿态",
-			"zhTW": "防禦態勢"
+			"zhTW": "防禦態勢",
+			"thTH": "Defensive Posture"
 },
 		descriptionLocalized: {
 			"deDE": "Erhöht die Menge an Stählung, die Ihr aus allen Quellen erhaltet, um +{5/10/15/20/25/30/35/40/45/50}%.\n\nTags: Stählung.",
@@ -4791,7 +4892,8 @@ Tags: Fortify.`,
 			"ruRU": "Вы получаете на +{5/10/15/20/25/30/35/40/45/50}% больше укрепления от любых источников.\n\nTags: Укрепление.",
 			"trTR": "Tüm kaynaklardan kazandığın Güçlendirmeyi +{5/10/15/20/25/30/35/40/45/50}% artırır.\n\nTags: Güçlendirme.",
 			"zhCN": "你从所有来源获得的强固数值提高 +{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 强固.",
-			"zhTW": "使你從各種所有獲得的強韌提高 +{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 強韌."
+			"zhTW": "使你從各種所有獲得的強韌提高 +{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 強韌.",
+			"thTH": "เพิ่มจำนวน Fortify ที่คุณได้รับ +{5/10/15/20/25/30/35/40/45/50}%."
 },
 		id: 113,
 		maxPoints: 3,
@@ -4816,7 +4918,8 @@ Tags: Fortify, Crowd Control.`,
 			"ruRU": "Плотная шкура",
 			"trTR": "Kalın Deri",
 			"zhCN": "厚皮",
-			"zhTW": "厚皮"
+			"zhTW": "厚皮",
+			"thTH": "Thick Hide"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr betäubt, bewegungsunfähig oder niedergeschlagen werdet, erhaltet Ihr Stählung in Höhe von {6.4/12.8/19.2/25.6/32/38.4/44.8/51.2/57.6/64}% Eures Basislebens.\n\nTags: Stählung, Kontrollverlust.",
@@ -4831,7 +4934,8 @@ Tags: Fortify, Crowd Control.`,
 			"ruRU": "Когда вас оглушают, обездвиживают или сбивают с ног, вы получаете укрепление в объеме {6.4/12.8/19.2/25.6/32/38.4/44.8/51.2/57.6/64}% базового запаса здоровья.\n\nTags: Укрепление, Контроль.",
 			"trTR": "Her Sersemletildiğinde, Sabitlendiğinde veya Yere Serildiğinde Temel Canının {6.4/12.8/19.2/25.6/32/38.4/44.8/51.2/57.6/64}% kadarına eşit Güçlendirme kazan.\n\nTags: Güçlendirme, Kitle Kontrolü.",
 			"zhCN": "每当你被击晕、定身或击倒时, 强固你 {6.4/12.8/19.2/25.6/32/38.4/44.8/51.2/57.6/64}% 基础生命。\n\nTags: 强固, 群控.",
-			"zhTW": "每當你被擊昏、定身或擊倒時,會獲得等同 {6.4/12.8/19.2/25.6/32/38.4/44.8/51.2/57.6/64}% 基礎生命值的強韌。\n\nTags: 強韌, 控場."
+			"zhTW": "每當你被擊昏、定身或擊倒時,會獲得等同 {6.4/12.8/19.2/25.6/32/38.4/44.8/51.2/57.6/64}% 基礎生命值的強韌。\n\nTags: 強韌, 控場.",
+			"thTH": "หากคุณได้รับสถานะ Stunned, Immobilized หรือ Knocked, จะได้รับ Fortify {6.4/12.8/19.2/25.6/32/38.4/44.8/51.2/57.6/64}% ของพลังชีวิตพื้นฐาน.\n\nTags: Fortify, Crowd Control."
 },
 		id: 114,
 		maxPoints: 3,
@@ -4856,7 +4960,8 @@ Tags: Fortify, Life, Crowd Control.`,
 			"ruRU": "Необузданная сила",
 			"trTR": "Kontrolsüz",
 			"zhCN": "狂野不羁",
-			"zhTW": "無縛"
+			"zhTW": "無縛",
+			"thTH": "Unrestrained"
 },
 		descriptionLocalized: {
 			"deDE": "Verringert die Dauer von Kontrollverlusteffekten um {3/6/9/12/15/18/21/24/27/30}%. Solange Ihr um mindestens 50% Eures maximalen Lebens gestählt seid, verdreifacht sich dieser Effekt.\n\nTags: Stählung, Leben, Kontrollverlust.",
@@ -4871,7 +4976,8 @@ Tags: Fortify, Life, Crowd Control.`,
 			"ruRU": "Время действия эффектов контроля сокращается на {3/6/9/12/15/18/21/24/27/30}%. Эффект утраивается, если у вас есть укрепление, превышающее 50% максимального запаса здоровья.\n\nTags: Укрепление, Здоровье, Контроль.",
 			"trTR": "Kontrol Engelleyici Etkilerin süresini {3/6/9/12/15/18/21/24/27/30}% azalt. Maksimum Canının 50% kadarının üstünde Güçlendirmeye sahip olduğunda bu etki üçe katlanır.\n\nTags: Güçlendirme, Can, Kitle Kontrolü.",
 			"zhCN": "控制类限制效果的持续时间缩短 {3/6/9/12/15/18/21/24/27/30}%。当你获得的强固数值超过 50% 生命上限时, 此效果变为三倍。\n\nTags: 强固, 生命, 群控.",
-			"zhTW": "控場效果的持續時間縮短 {3/6/9/12/15/18/21/24/27/30}%。當你具有高於生命值上限 50% 的強韌時,此效果變成三倍。\n\nTags: 強韌, 生命值, 控場."
+			"zhTW": "控場效果的持續時間縮短 {3/6/9/12/15/18/21/24/27/30}%。當你具有高於生命值上限 50% 的強韌時,此效果變成三倍。\n\nTags: 強韌, 生命值, 控場.",
+			"thTH": "ลดระยะเวลาผลของ Control Imparing Effects {3/6/9/12/15/18/21/24/27/30}% (ผลที่เกี่ยวกับการลดการควบคุมตัวละคร). เพิ่มจำนวนนี้เป็นสามเท่าหากมี Fortify มากกว่า 50% ของพลังชีวิตสูงสุด.\n\nTags: Fortify, Life, Crowd Control."
 },
 		id: 115,
 		maxPoints: 3,
@@ -4896,7 +5002,8 @@ Tags: Fortify.`,
 			"ruRU": "Стойкость природы",
 			"trTR": "Doğanın Azmi",
 			"zhCN": "自然意志",
-			"zhTW": "自然決心"
+			"zhTW": "自然決心",
+			"thTH": "Nature's Resolve"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr getroffen werdet, besteht eine Chance von {5/10/15/20/25/30/35/40/45/50}%, Stählung in Höhe von 4.4% Eures Basislebens zu erhalten.\n\nTags: Stählung.",
@@ -4911,7 +5018,8 @@ Tags: Fortify.`,
 			"ruRU": "Получив урон от атаки, вы с вероятностью {5/10/15/20/25/30/35/40/45/50}% получаете укрепление в объеме 4.4% базового запаса здоровья.\n\nTags: Укрепление.",
 			"trTR": "İsabet aldığında {5/10/15/20/25/30/35/40/45/50}% ihtimalle Temel Canının 4.4% kadarına eşit Güçlendirme kazan.\n\nTags: Güçlendirme.",
 			"zhCN": "受到攻击时有 {5/10/15/20/25/30/35/40/45/50}% 几率强固你 4.4% 基础生命。\n\nTags: 强固.",
-			"zhTW": "當你被擊中時,有 {5/10/15/20/25/30/35/40/45/50}% 機率賦予你等同 4.4% 基礎生命值的強韌。\n\nTags: 強韌."
+			"zhTW": "當你被擊中時,有 {5/10/15/20/25/30/35/40/45/50}% 機率賦予你等同 4.4% 基礎生命值的強韌。\n\nTags: 強韌.",
+			"thTH": "เมื่อได้รับความเสียหาย มีโอกาส {5/10/15/20/25/30/35/40/45/50}% ที่จะได้รับ Fortify 4.4% ของพลังชีวิตพื้นฐาน.\n\nTags: Fortify."
 },
 		id: 116,
 		maxPoints: 3,
@@ -4936,7 +5044,8 @@ Tags: Shapeshifting, Damage.`,
 			"ruRU": "Быстрое преображение",
 			"trTR": "Hızlı Değişim",
 			"zhCN": "快速变形",
-			"zhTW": "迅變"
+			"zhTW": "迅變",
+			"thTH": "Quickshift"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn eine Verwandlungsfertigkeit Euch eine andere Gestalt verleiht, verursacht sie x{5/10/15/20/25/30/35/40/45/50}% mehr Schaden.\n\nTags: Gestaltwandeln, Schaden.",
@@ -4951,7 +5060,8 @@ Tags: Shapeshifting, Damage.`,
 			"ruRU": "Если умение смены облика заставляет вас совершить превращение, оно наносит на x{5/10/15/20/25/30/35/40/45/50}% больше урона.\n\nTags: Смена облика, Урон.",
 			"trTR": "Bir Şekil Değiştirme Yeteneği sana başka bir form kazandırdığında x{5/10/15/20/25/30/35/40/45/50}% artırılmış hasar verir.\n\nTags: Dönüşme, Hasar.",
 			"zhCN": "当变形技能使你变为另一个形态, 该技能造成的伤害提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 变形, 伤害.",
-			"zhTW": "當你使用變形技能改變形態,該技能造成的傷害提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 變形, 傷害."
+			"zhTW": "當你使用變形技能改變形態,該技能造成的傷害提高 x{5/10/15/20/25/30/35/40/45/50}%。\n\nTags: 變形, 傷害.",
+			"thTH": "เมื่อใช้สกิล Shapeshifting กลายร่างเป็นร่างอื่นที่ไม่ซ้ำกัน, สกิลนั้นจะทำความเสียหายเพิ่มขึ้น x{5/10/15/20/25/30/35/40/45/50}%.\n\nTags: Shapeshifting, Damage."
 },
 		id: 117,
 		maxPoints: 3,
@@ -4960,7 +5070,7 @@ Tags: Shapeshifting, Damage.`,
 	},
 	"Natural Fortitude": {
 		connections: [ "Quickshift" ],
-		description: `Shapeshifting Fortifies you for {1.4/2.8/4.2/5.6/7/8.4/9.8/11.2/12.6/14}% Base Life.
+		description: `Shapeshifting Fortifies you for A{1.4/2.8/4.2/5.6/7/8.4/9.8/11.2/12.6/14}% Base Life.
 
 Tags: Fortify, Shapeshifting.`,
 		nameLocalized: {
@@ -4976,7 +5086,8 @@ Tags: Fortify, Shapeshifting.`,
 			"ruRU": "Природная выносливость",
 			"trTR": "Doğal Metanet",
 			"zhCN": "自然坚毅",
-			"zhTW": "自然剛毅"
+			"zhTW": "自然剛毅",
+			"thTH": "Natural Fortitude"
 },
 		descriptionLocalized: {
 			"deDE": "Gestaltwandeln verleiht Euch Stählung in Höhe von {1.4/2.8/4.2/5.6/7/8.4/9.8/11.2/12.6/14}% Eures Basislebens.\n\nTags: Stählung, Gestaltwandeln.",
@@ -4991,7 +5102,8 @@ Tags: Fortify, Shapeshifting.`,
 			"ruRU": "При смене облика вы получаете укрепление в объеме {1.4/2.8/4.2/5.6/7/8.4/9.8/11.2/12.6/14}% базового запаса здоровья.\n\nTags: Укрепление, Смена облика.",
 			"trTR": "Şekil Değiştirme seni {1.4/2.8/4.2/5.6/7/8.4/9.8/11.2/12.6/14}% Temel Can oranında Güçlendirir.\n\nTags: Güçlendirme, Dönüşme.",
 			"zhCN": "变形强固你 {1.4/2.8/4.2/5.6/7/8.4/9.8/11.2/12.6/14}% 基础生命。\n\nTags: 强固, 变形.",
-			"zhTW": "變形使你獲得等同 {1.4/2.8/4.2/5.6/7/8.4/9.8/11.2/12.6/14}% 基礎生命值的強韌。\n\nTags: 強韌, 變形."
+			"zhTW": "變形使你獲得等同 {1.4/2.8/4.2/5.6/7/8.4/9.8/11.2/12.6/14}% 基礎生命值的強韌。\n\nTags: 強韌, 變形.",
+			"thTH": "เมื่อใช้สกิล Shapeshifting กลายร่างเป็นร่างอื่นที่ไม่ซ้ำกัน จะได้รับ Fortify {1.4/2.8/4.2/5.6/7/8.4/9.8/11.2/12.6/14}% ของพลังชีวิตพื้นฐาน.\n\nTags: Fortify, Shapeshifting."
 },
 		id: 118,
 		maxPoints: 3,
@@ -5016,7 +5128,8 @@ Tags: Damage Reduction, Shapeshifting, Elite Monsters, Werebear, Werewolf.`,
 			"ruRU": "Обостренные чувства",
 			"trTR": "Keskinleşmiş Duyular",
 			"zhCN": "敏锐感知",
-			"zhTW": "增強感官"
+			"zhTW": "增強感官",
+			"thTH": "Heightened Senses"
 },
 		descriptionLocalized: {
 			"deDE": "Bei der Verwandlung in einen Werwolf oder Werbären erhaltet Ihr 5 Sek. lang {4/8/12/16/20/24/28/32/36/40}% Schadensreduktion gegen Elitegegner.\n\nTags: Schadensreduktion, Gestaltwandeln, Elitemonster, Werbär, Werwolf.",
@@ -5031,7 +5144,8 @@ Tags: Damage Reduction, Shapeshifting, Elite Monsters, Werebear, Werewolf.`,
 			"ruRU": "Когда вы принимаете облик волка или медведя, получаемый вами урон от особых противников уменьшается на {4/8/12/16/20/24/28/32/36/40}% на 5 сек.\n\nTags: Уменьшение урона, Смена облика, Особые монстры, Медведь, Облик волка.",
 			"trTR": "Kurt Adama ya da Ayı Adama Dönüşünce Seçkinlere karşı 5 saniyeliğine {4/8/12/16/20/24/28/32/36/40}% Hasar Azaltma kazan.\n\nTags: Hasar Azaltma, Dönüşme, Seçkin Canavarlar, Ayı Adam, Kurt Adam.",
 			"zhCN": "变成狼人或熊人时, 获得 {4/8/12/16/20/24/28/32/36/40}%对精英怪的伤害减免, 持续 5 秒。\n\nTags: 伤害减免, 变形, 精英怪物, 熊人, 狼人.",
-			"zhTW": "變形為狼人或熊人時,獲得對精英怪物的 {4/8/12/16/20/24/28/32/36/40}% 傷害減免效果,持續 5 秒。\n\nTags: 傷害減免, 變形, 精英怪物, 熊人, 狼人."
+			"zhTW": "變形為狼人或熊人時,獲得對精英怪物的 {4/8/12/16/20/24/28/32/36/40}% 傷害減免效果,持續 5 秒。\n\nTags: 傷害減免, 變形, 精英怪物, 熊人, 狼人.",
+			"thTH": "เมื่อกลายร่างเป็นหมาป่าหรือหมี, จะได้รับ {4/8/12/16/20/24/28/32/36/40}% Damage Reduction จากศัตรู Elites เป็นระยะเวลา 5 วินาที.\n\nTags: Damage Reduction, Shapeshifting, Elite Monsters, Werebear, Werewolf."
 },
 		id: 119,
 		maxPoints: 3,
@@ -5058,7 +5172,8 @@ Tags: Ultimate, Shapeshifting, Werewolf, Immune, Physical, Damage, Cooldown, Dam
 			"ruRU": "Раздирание",
 			"trTR": "Tırmala",
 			"zhCN": "疯狂撕咬",
-			"zhTW": "割裂"
+			"zhTW": "割裂",
+			"thTH": "Lacerate"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 45 Sek.\nGlückstrefferchance: 7% (per hit)\nVerwandelt Euch in einen Werwolf, werdet immun, springt 10-mal schnell zwischen Gegnern im Wirkungsbereich hin und her und verursacht bis zu 400% Schaden.\n\nTags: Ultimativ, Gestaltwandeln, Werwolf, Immun, Physisch, Schaden, Abklingzeit, Schadensreduktion.",
@@ -5073,7 +5188,8 @@ Tags: Ultimate, Shapeshifting, Werewolf, Immune, Physical, Damage, Cooldown, Dam
 			"ruRU": "Время восстановления: 45 сек.\nВероятность удачного удара: 7% (per hit)\nВы принимаете облик волка, получаете невосприимчивость и совершаете 10 стремительных рывка:стремительных рывков между ближайшими противниками, нанося до 400% ед. урона.\n\nTags: Мощное умение, Смена облика, Облик волка, Невосприимчивость, Физический урон, Урон, Время восстановления, Уменьшение урона.",
 			"trTR": "Bekleme Süresi: 45 saniye\nŞanslı Vuruş İhtimali: 7% (per hit)\nBir Kurt Adama dönüş, Bağışık hâle gel ve bölgedeki düşmanların arasında 10 kez hızlıca atılarak en fazla 400% hasar ver.\n\nTags: Ulti, Dönüşme, Kurt Adam, Bağışık, Fiziksel, Hasar, Bekleme Süresi, Hasar Azaltma.",
 			"zhCN": "冷却时间: 45 秒\n幸运一击几率: 7% (per hit)\n变成狼人, 获得免疫并在区域内的敌人身边快速冲刺 10 次, 最多造成 400% 点伤害。\n\nTags: 终极技能, 变形, 狼人, 免疫, 物理, 伤害, 冷却时间, 伤害减免.",
-			"zhTW": "冷卻時間:45 秒\n幸運觸發機率: 7% (per hit)\n變身為狼人,進入免疫狀態,並快速在範圍內的敵人之間衝刺 10 次,造成最多 400% 點傷害。\n\nTags: 絕招, 變形, 狼人, 免疫, 物理, 傷害, 冷卻時間, 傷害減免."
+			"zhTW": "冷卻時間:45 秒\n幸運觸發機率: 7% (per hit)\n變身為狼人,進入免疫狀態,並快速在範圍內的敵人之間衝刺 10 次,造成最多 400% 點傷害。\n\nTags: 絕招, 變形, 狼人, 免疫, 物理, 傷害, 冷卻時間, 傷害減免.",
+			"thTH": "Cooldown: 45 วินาที\nLucky Hit Chance: 7% (per hit)\nกลายร่างเป็นหมาป่า, ได้รับสถานะ Immune (ไม่รับความเสียหาย) และพุ่งเข้าหาศัตรูภายในพื้นที่ 10 ครั้ง ทำความเสียหายสูงสุด 400%.\n\nTags: Ultimate, Shapeshifting, Werewolf, Immune, Physical, Damage, Cooldown, Damage Reduction."
 },
 		id: 120,
 		maxPoints: 1,
@@ -5097,7 +5213,8 @@ Tags: Ultimate, Shapeshifting, Werewolf, Immune, Physical, Damage, Cooldown, Dam
 			"ruRU": "Первородное раздирание",
 			"trTR": "Üstün Tırmala",
 			"zhCN": "至尊疯狂撕咬",
-			"zhTW": "強烈割裂"
+			"zhTW": "強烈割裂",
+			"thTH": "Prime Lacerate"
 },
 		descriptionLocalized: {
 			"deDE": "Jedes Mal, wenn Zerreißen einen kritischen Treffer erzielt, werdet Ihr um 3% eures maximalen Lebens geheilt.",
@@ -5112,7 +5229,8 @@ Tags: Ultimate, Shapeshifting, Werewolf, Immune, Physical, Damage, Cooldown, Dam
 			"ruRU": "Каждый раз, когда \"Раздирание\" наносит критический удар, вы восполняете 3% максимального запаса здоровья.",
 			"trTR": "Tırmala her Kritik Vuruş gerçekleştirdiğinde Maksimum Canının 3% kadarına eşit İyileş.",
 			"zhCN": "疯狂撕咬每次对敌人造成暴击都会为你恢复 3% 生命上限。",
-			"zhTW": "割裂每次造成爆擊時,使你恢復生命值上限的 3%。"
+			"zhTW": "割裂每次造成爆擊時,使你恢復生命值上限的 3%。",
+			"thTH": "ทุกครั้งที่ Lacerate ทำความเสียหาย Critical, ฟื้นฟูพลังชีวิต 3% ของพลังชีวิตสูงสุด."
 },
 		id: 121,
 		maxPoints: 1,
@@ -5136,7 +5254,8 @@ Tags: Ultimate, Shapeshifting, Werewolf, Immune, Physical, Damage, Cooldown, Dam
 			"ruRU": "Неотвратимое раздирание",
 			"trTR": "Yüce Tırmala",
 			"zhCN": "至极疯狂撕咬",
-			"zhTW": "終極割裂"
+			"zhTW": "終極割裂",
+			"thTH": "Supreme Lacerate"
 },
 		descriptionLocalized: {
 			"deDE": "Der erste Treffer mit Zerreißen erzielt garantiert einen kritischen Treffer und verursacht x150% mehr Schaden.",
@@ -5151,7 +5270,8 @@ Tags: Ultimate, Shapeshifting, Werewolf, Immune, Physical, Damage, Cooldown, Dam
 			"ruRU": "Первый удар \"Раздирания\" гарантированно наносит критический урон, увеличенный на x150%.",
 			"trTR": "Tırmalanın ilk vuruşu garanti Kritik Vuruş olur ve x150% artırılmış hasar verir.",
 			"zhCN": "疯狂撕咬的初始打击必定暴击并且造成的伤害提高 x150%。",
-			"zhTW": "割裂的第一擊必定爆擊,且造成的傷害提高 x150%。"
+			"zhTW": "割裂的第一擊必定爆擊,且造成的傷害提高 x150%。",
+			"thTH": "ความเสียหายแรกของ Lacerate จะเป็น Critical และทำความเสียหายเพิ่มขึ้น x150%."
 },
 		id: 122,
 		maxPoints: 1,
@@ -5178,7 +5298,8 @@ Tags: Ultimate, Nature Magic, Storm, Lightning, Damage, Cooldown, Crowd Control.
 			"ruRU": "Катаклизм",
 			"trTR": "Afet",
 			"zhCN": "浩劫",
-			"zhTW": "災變"
+			"zhTW": "災變",
+			"thTH": "Cataclysm"
 },
 		descriptionLocalized: {
 			"deDE": "Abklingzeit: 60 Sek.\nGlückstrefferchance: 62.175% (per use)\nEin massiver Sturm folgt Euch 8 Sek. lang. Wirbel stoßen Gegner zurück und wilde Blitzschläge verursachen 52% Schaden.\n\nTags: Ultimativ, Naturmagie, Sturm, Blitz, Schaden, Abklingzeit, Kontrollverlust.",
@@ -5193,7 +5314,8 @@ Tags: Ultimate, Nature Magic, Storm, Lightning, Damage, Cooldown, Crowd Control.
 			"ruRU": "Время восстановления: 60 сек.\nВероятность удачного удара: 62.175% (per use)\nПризывает разрушительную бурю, которая следует за вами в течение 8 сек. Появляющиеся вихри отбрасывают противников, а яростные разряды молнии наносят целям 52% ед. урона.\n\nTags: Мощное умение, Силы природы, Буря, Молния, Урон, Время восстановления, Контроль.",
 			"trTR": "Bekleme Süresi: 60 saniye\nŞanslı Vuruş İhtimali: 62.175% (per use)\nBüyük bir fırtına 8 saniye boyunca seni takip eder. Hortumlar düşmanları Geri Savurur ve şimşek darbeleri vahşice 52% hasar verir.\n\nTags: Ulti, Doğa Sihri, Fırtına, Yıldırım, Hasar, Bekleme Süresi, Kitle Kontrolü.",
 			"zhCN": "冷却时间: 60 秒\n幸运一击几率: 62.175% (per use)\n一场巨大的风暴跟随着你, 持续 8 秒。龙卷风会击退敌人, 并用闪电狂野地打击敌人, 造成 52% 点伤害。\n\nTags: 终极技能, 自然魔法, 风暴, 闪电, 伤害, 冷却时间, 群控.",
-			"zhTW": "冷卻時間:60 秒\n幸運觸發機率:62.175% (per use)\n巨大風暴會跟隨你,持續 8 秒。旋風術會擊退敵人,並降下猛烈閃電造成 52% 點傷害。\n\nTags: 絕招, 自然魔法, 風暴, 閃電, 傷害, 冷卻時間, 控場."
+			"zhTW": "冷卻時間:60 秒\n幸運觸發機率:62.175% (per use)\n巨大風暴會跟隨你,持續 8 秒。旋風術會擊退敵人,並降下猛烈閃電造成 52% 點傷害。\n\nTags: 絕招, 自然魔法, 風暴, 閃電, 傷害, 冷卻時間, 控場.",
+			"thTH": "Cooldown: 60 วินาที\nLucky Hit Chance: 62:175% (per use)\nลมมรสุมคอยตามคุณ 8 วินาที. พายุจะ Knock Back ศัตรู, และสายฟ้าฟาดศัตรูทำความเสียหาย 52%.\n\nTags: Ultimate, Nature Magic, Storm, Lightning, Damage, Cooldown, Crowd Control."
 },
 		id: 123,
 		maxPoints: 1,
@@ -5217,7 +5339,8 @@ Tags: Ultimate, Nature Magic, Storm, Lightning, Damage, Cooldown, Crowd Control.
 			"ruRU": "Первозданный катаклизм",
 			"trTR": "Üstün Afet",
 			"zhCN": "至尊浩劫",
-			"zhTW": "強烈災變"
+			"zhTW": "強烈災變",
+			"thTH": "Prime Cataclysm"
 },
 		descriptionLocalized: {
 			"deDE": "Die Dauer von Kataklysmus wird um 2 Sek. erhöht.",
@@ -5232,7 +5355,8 @@ Tags: Ultimate, Nature Magic, Storm, Lightning, Damage, Cooldown, Crowd Control.
 			"ruRU": "Время действия \"Катаклизма\" увеличивается на 2 сек.",
 			"trTR": "Afetin süresi 2 saniye artar.",
 			"zhCN": "浩劫的持续时间延长 2 秒。",
-			"zhTW": "災變持續時間延長 2 秒。"
+			"zhTW": "災變持續時間延長 2 秒。",
+			"thTH": "เพิ่มระยะเวลาของ Cataclysm 2 วินาที."
 },
 		id: 124,
 		maxPoints: 1,
@@ -5256,7 +5380,8 @@ Tags: Ultimate, Nature Magic, Storm, Lightning, Damage, Cooldown, Crowd Control.
 			"ruRU": "Неотвратимый катаклизм",
 			"trTR": "Yüce Afet",
 			"zhCN": "至极浩劫",
-			"zhTW": "終極災變"
+			"zhTW": "終極災變",
+			"thTH": "Supreme Cataclysm"
 },
 		descriptionLocalized: {
 			"deDE": "Von Kataklysmus verursachte Blitzschläge machen Gegner 2 Sek. lang verwundbar.",
@@ -5271,7 +5396,8 @@ Tags: Ultimate, Nature Magic, Storm, Lightning, Damage, Cooldown, Crowd Control.
 			"ruRU": "Удары молнии от \"Катаклизма\" делают противников уязвимыми на 2 сек.",
 			"trTR": "Afetin şimşek darbeleri düşmanları 2 saniyeliğine Savunmasız hâle getirir.",
 			"zhCN": "浩劫造成的闪电打击会使敌人陷入易伤状态, 持续 2 秒。",
-			"zhTW": "災變的閃電使敵人易傷 2 秒。"
+			"zhTW": "災變的閃電使敵人易傷 2 秒。",
+			"thTH": "สายฟ้าจาก Cataclysm จะทำให้ศัตรูอยู่ในสถานะ VUlnerable 2 วินาที."
 },
 		id: 125,
 		maxPoints: 1,
@@ -5296,7 +5422,8 @@ Tags: Damage, Elite Monsters, Nature Magic.`,
 			"ruRU": "Непокорность",
 			"trTR": "İsyan",
 			"zhCN": "蔑视",
-			"zhTW": "反抗"
+			"zhTW": "反抗",
+			"thTH": "Defiance"
 },
 		descriptionLocalized: {
 			"deDE": "Naturmagiefertigkeiten fügen Elitegegnern x{4/8/12/16/20/24/28/32/36/40}% mehr Schaden zu.\n\nTags: Schaden, Elitemonster, Naturmagie.",
@@ -5311,7 +5438,8 @@ Tags: Damage, Elite Monsters, Nature Magic.`,
 			"ruRU": "Умения сил природы наносят на x{4/8/12/16/20/24/28/32/36/40}% больше урона особым противникам.\n\nTags: Урон, Особые монстры, Силы природы.",
 			"trTR": "Doğa Sihri Yetenekleri Seçkinlere x{4/8/12/16/20/24/28/32/36/40}% artırılmış hasar verir.\n\nTags: Hasar, Seçkin Canavarlar, Doğa Sihri.",
 			"zhCN": "自然魔法技能对精英怪造成的伤害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 伤害, 精英怪物, 自然魔法.",
-			"zhTW": "自然魔法技能對精英怪物的傷害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 傷害, 精英怪物, 自然魔法."
+			"zhTW": "自然魔法技能對精英怪物的傷害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 傷害, 精英怪物, 自然魔法.",
+			"thTH": "สกิล Nature Magic ทำความเสียหายแก่ศัตรู Elites เพิ่มขึ้น x{4/8/12/16/20/24/28/32/36/40}%.\n\nTags: Damage, Elite Monster, Nature Magic."
 },
 		id: 126,
 		maxPoints: 3,
@@ -5336,7 +5464,8 @@ Tags: Healing, Nature Magic, Spirit.`,
 			"ruRU": "Круг жизни",
 			"trTR": "Yaşam Döngüsü",
 			"zhCN": "生命循环",
-			"zhTW": "生生不息"
+			"zhTW": "生生不息",
+			"thTH": "Circle of Life"
 },
 		descriptionLocalized: {
 			"deDE": "Naturmagiefertigkeiten, die Geisteskraft verbrauchen, heilen Euch um {1/2/3/4/5/6/7/8/9/10}% Eures maximalen Lebens.\n\nTags: Heilung, Naturmagie, Geisteskraft.",
@@ -5351,7 +5480,8 @@ Tags: Healing, Nature Magic, Spirit.`,
 			"ruRU": "Умения сил природы, расходующие дух, восполняют вам {1/2/3/4/5/6/7/8/9/10}% максимального запаса здоровья.\n\nTags: Исцеление, Силы природы, Дух.",
 			"trTR": "Ruh tüketen Doğa Sihri Yetenekleri seni Maksimum Canının {1/2/3/4/5/6/7/8/9/10}% kadarına eşit İyileştirir.\n\nTags: İyileşme, Doğa Sihri, Ruh.",
 			"zhCN": "消耗灵力的自然魔法技能恢复你 {1/2/3/4/5/6/7/8/9/10}% 生命上限。\n\nTags: 治疗, 自然魔法, 灵力.",
-			"zhTW": "消耗靈力的自然魔法技能可使你恢復生命值上限的 {1/2/3/4/5/6/7/8/9/10}%。\n\nTags: 治療, 自然魔法, 靈力."
+			"zhTW": "消耗靈力的自然魔法技能可使你恢復生命值上限的 {1/2/3/4/5/6/7/8/9/10}%。\n\nTags: 治療, 自然魔法, 靈力.",
+			"thTH": "สกิล Nature Magic ที่ใช้ Spirit จะฟื้นฟูพลังชีวิตของคุณ {1/2/3/4/5/6/7/8/9/10}% ของพลังชีวิตสูงสุด.\n\nTags: Healing, Nature Magic, Spirit."
 },
 		id: 127,
 		maxPoints: 3,
@@ -5376,7 +5506,8 @@ Tags: Damage, Nature Magic, Earth, Storm.`,
 			"ruRU": "Резонанс",
 			"trTR": "Rezonans",
 			"zhCN": "共鸣",
-			"zhTW": "共鳴"
+			"zhTW": "共鳴",
+			"thTH": "Resonance"
 },
 		descriptionLocalized: {
 			"deDE": "Naturmagiefertigkeiten verursachen x{2/4/6/8/10/12/14/16/18/20}% mehr Schaden. Dieser Bonus verdreifacht sich, wenn nach einer Sturmfertigkeit eine Erdfertigkeit gewirkt wird oder nach einer Erdfertigkeit eine Sturmfertigkeit gewirkt wird.\n\nTags: Schaden, Naturmagie, Erde, Sturm.",
@@ -5391,7 +5522,8 @@ Tags: Damage, Nature Magic, Earth, Storm.`,
 			"ruRU": "Умения сил природы наносят на x{2/4/6/8/10/12/14/16/18/20}% больше урона. Бонус к урону утраивается, когда вы применяете умение земли сразу после умения бури или умение бури сразу после умения земли.\n\nTags: Урон, Силы природы, Земля, Буря.",
 			"trTR": "Doğa Sihri Yetenekleri x{2/4/6/8/10/12/14/16/18/20}% artırılmış hasar verir. Bir Fırtına Yeteneğinden sonra kullanılan Yetenek Toprak Yeteneğiyse veya bir Toprak Yeteneğinden sonra kullanılan Yetenek Fırtına Yeteneğiyse bu bonus üçe katlanır.\n\nTags: Hasar, Doğa Sihri, Toprak, Fırtına.",
 			"zhCN": "自然魔法技能造成的伤害提高 x{2/4/6/8/10/12/14/16/18/20}%。在施放大地技能后施放风暴技能, 或在施放风暴技能之后施放大地技能, 可以使该加成变为原来的三倍。\n\nTags: 伤害, 自然魔法, 大地, 风暴.",
-			"zhTW": "自然魔法技能的傷害提高 x{2/4/6/8/10/12/14/16/18/20}%。如果先施放風暴技能再施放大地技能,或先施放大地技能再施放風暴技能,此傷害加成將會變成三倍。\n\nTags: 傷害, 自然魔法, 大地, 風暴."
+			"zhTW": "自然魔法技能的傷害提高 x{2/4/6/8/10/12/14/16/18/20}%。如果先施放風暴技能再施放大地技能,或先施放大地技能再施放風暴技能,此傷害加成將會變成三倍。\n\nTags: 傷害, 自然魔法, 大地, 風暴.",
+			"thTH": "สกิล Nature Magic ทำความเสียหายเพิ่มขึ้น x{2/4/6/8/10/12/14/16/18/20}%. เพิ่มจำนวนนี้สามเท่าหากใช้สกิล Earth ต่อจากสกิล Storm, หรือใช้สกิล Storm ต่อจากสกิล Earth.\n\nTags: Damage, Nature Magic, Earth, Storm."
 },
 		id: 128,
 		maxPoints: 3,
@@ -5418,7 +5550,8 @@ Tags: Vulnerable, Damage, Crowd Control, Earth, Storm, Nature Magic.`,
 			"ruRU": "Природная катастрофа",
 			"trTR": "Doğal Afet",
 			"zhCN": "自然灾害",
-			"zhTW": "自然災害"
+			"zhTW": "自然災害",
+			"thTH": "Natural Disaster"
 },
 		descriptionLocalized: {
 			"deDE": "Eure Erdfertigkeiten fügen verwundbaren Gegnern x{4/8/12/16/20/24/28/32/36/40}% mehr Schaden zu.\n\nEure Sturmfertigkeiten fügen betäubten, bewegungsunfähigen oder zurückgestoßenen Gegnern x{4/8/12/16/20/24/28/32/36/40}% mehr Schaden zu.\n\nTags: Verwundbar, Schaden, Kontrollverlust, Erde, Sturm, Naturmagie.",
@@ -5433,7 +5566,8 @@ Tags: Vulnerable, Damage, Crowd Control, Earth, Storm, Nature Magic.`,
 			"ruRU": "Ваши умения земли наносят на x{4/8/12/16/20/24/28/32/36/40}% больше урона уязвимым противникам.\n\nВаши умения бури наносят на x{4/8/12/16/20/24/28/32/36/40}% больше урона оглушенным, обездвиженным и отброшенным противникам.\n\nTags: Уязвимость, Урон, Контроль, Земля, Буря, Силы природы.",
 			"trTR": "Toprak Yeteneklerin Savunmasız düşmanlara x{4/8/12/16/20/24/28/32/36/40}% hasar verir.\n\nFırtına Yetenekleri Sersemletilmiş, Sabitlenmiş veya Geri Savrulmuş düşmanlara x{4/8/12/16/20/24/28/32/36/40}% artırılmış hasar verir.\n\nTags: Savunmasız, Hasar, Kitle Kontrolü, Toprak, Fırtına, Doğa Sihri.",
 			"zhCN": "你的大地技能对处于易伤状态的敌人造成的伤害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\n你的风暴技能对处于昏迷、定身或击退状态的敌人造成的伤害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 易伤, 伤害, 群控, 大地, 风暴, 自然魔法.",
-			"zhTW": "你的大地技能對易傷敵人造成的傷害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\n你的風暴技能對被擊昏、定身或擊退的敵人造成的傷害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 易傷, 傷害, 控場, 大地, 風暴, 自然魔法."
+			"zhTW": "你的大地技能對易傷敵人造成的傷害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\n你的風暴技能對被擊昏、定身或擊退的敵人造成的傷害提高 x{4/8/12/16/20/24/28/32/36/40}%。\n\nTags: 易傷, 傷害, 控場, 大地, 風暴, 自然魔法.",
+			"thTH": "สกิล Earth ทำความเสียหายเพิ่มขึ้น x{4/8/12/16/20/24/28/32/36/40}% แก่ศัตรูที่อยู่ในสถานะ Vulnerable.\n\nสกิล Storm ทำความเสียหายเพิ่มขึ้น x{4/8/12/16/20/24/28/32/36/40}% แก่ศัตรูที่อยู่ในสถานะ Stunned, Immobilized, หรือ Knocked Back.\n\nTags: Vulnerable, Damage, Crowd Control, Earth, Storm, Nature Magic."
 },
 		id: 129,
 		maxPoints: 3,
@@ -5463,7 +5597,8 @@ Tags: Earth, Storm, Damage, Nature Magic.`,
 			"ruRU": "Гнев природы",
 			"trTR": "Doğanın Hiddeti",
 			"zhCN": "自然之怒",
-			"zhTW": "自然之怒"
+			"zhTW": "自然之怒",
+			"thTH": "Nature's Fury"
 },
 		descriptionLocalized: {
 			"deDE": "Beim Wirken einer Erdfertigkeit besteht eine Chance von 20%, eine kostenlose Sturmfertigkeit derselben Kategorie auszulösen.\n\nAußerdem besteht beim Wirken einer Sturmfertigkeit eine Chance von 20%, eine kostenlose Erdfertigkeit derselben Kategorie auszulösen.\n\nTags: Erde, Sturm, Schaden, Naturmagie.",
@@ -5478,7 +5613,8 @@ Tags: Earth, Storm, Damage, Nature Magic.`,
 			"ruRU": "Ваши умения земли с вероятностью 20% также активируют умение бури той же категории без затрат ресурса.\n\nКроме того, ваши умения бури с вероятностью 20% активируют умение земли той же категории без затрат ресурса.\n\nTags: Земля, Буря, Урон, Силы природы.",
 			"trTR": "Bir Toprak Yeteneği kullanmak, %20 ihtimalle aynı kategoride bedelsiz olarak bir Fırtına Yeteneği tetikler.\n\nEk olarak bir Fırtına Yeteneği kullanmak %20 ihtimalle aynı kategoride bedelsiz olarak bir Toprak Yeteneği tetikler.\n\nTags: Toprak, Fırtına, Hasar, Doğa Sihri.",
 			"zhCN": "施放一个大地技能有 20% 的几率触发一个免费的同类别风暴技能。\n\n此外, 施放一个风暴技能有 20% 的几率触发一个免费的同类别大地技能。\n\nTags: 大地, 风暴, 伤害, 自然魔法.",
-			"zhTW": "施展大地技能有 20% 機率觸發一次同類別的無消耗風暴技能。\n\n此外,施展風暴技能有 20% 機率觸發一次同類別的無消耗大地技能。\n\nTags: 大地, 風暴, 傷害, 自然魔法."
+			"zhTW": "施展大地技能有 20% 機率觸發一次同類別的無消耗風暴技能。\n\n此外,施展風暴技能有 20% 機率觸發一次同類別的無消耗大地技能。\n\nTags: 大地, 風暴, 傷害, 自然魔法.",
+			"thTH": "เมื่อใช้สกิล Earth มีโอกาส 20% ที่จะใช้สกิล Storm ในกลุ่มเดียวกัน.\n\nและเมื่อใช้สกิล Storm มีโอกาส 20% ที่จะใช้สกิล Earth ในกลุ่มเดียวกัน.\n\nTags: Earth, Storm, Damage, Nature Magic."
 },
 		id: 130,
 		maxPoints: 1,
@@ -5509,7 +5645,8 @@ Tags: Critical Strikes, Damage, Spirit, Lucky Hit, Earth, Crowd Control, Nature 
 			"ruRU": "Мощь земли",
 			"trTR": "Toprak Kudreti",
 			"zhCN": "大地之力",
-			"zhTW": "大地之力"
+			"zhTW": "大地之力",
+			"thTH": "Earthen Might"
 },
 		descriptionLocalized: {
 			"deDE": "Glückstreffer: Wenn Ihr Gegnern mit Erdfertigkeiten Schaden zufügt, besteht eine Chance von bis zu 5%, dass:\n• Eure gesamte Geisteskraft wiederhergestellt wird\n• Eure Angriffe 5 Sek. lang garantiert kritische Treffer erzielen\n\nDiese Chance erhöht sich um:\n• 10% für kritische Treffer\n• 10%, wenn das Ziel betäubt, bewegungsunfähig oder zurückgestoßen ist.\n\nTags: Kritische Treffer, Schaden, Geisteskraft, Glückstreffer, Erde, Kontrollverlust, Naturmagie.",
@@ -5524,7 +5661,8 @@ Tags: Critical Strikes, Damage, Spirit, Lucky Hit, Earth, Crowd Control, Nature 
 			"ruRU": "Удачный удар: когда вы наносите урон умениями земли, с вероятностью до 5% срабатывают следующие эффекты:\n• Вы полностью восполняете дух.\n• Ваши атаки гарантированно наносят критический урон в течение 5 сек.\n\nВероятность увеличивается:\n• На 10% в случае критического удара.\n• На 10%, если цель оглушена, обездвижена или отброшена.\n\nTags: Критические удары, Урон, Дух, Удачный удар, Земля, Контроль, Силы природы.",
 			"trTR": "Şanslı Vuruş: Düşmanlara Toprak Yetenekleriyle hasar vermek en fazla %5 ihtimalle:\n• Tüm Ruhlarını yeniler\n• 5 saniyeliğine tüm saldırılarının garanti olarak Kritik Vuruş gerçekleştirmesini sağlar\n\nBu ihtimal şu şekilde artar:\n• Kritik Vuruşlar için %10\n• Hedef Sersemletilmiş, Sabitlenmiş veya Geri Savrulmuşsa %10\n\nTags: Kritik Vuruşlar, Hasar, Ruh, Şanslı Vuruş, Toprak, Kitle Kontrolü, Doğa Sihri.",
 			"zhCN": "幸运一击: 使用大地技能对敌人造成伤害时, 最多有 5% 几率:\n• 恢复你的所有灵力\n• 使你的攻击必定暴击, 持续 5 秒\n\n该几率提高:\n• 造成暴击时, 几率提高 10%\n• 对处于昏迷、定身或击退状态的目标, 几率提高 10%\n\nTags: 暴击, 伤害, 灵力, 幸运一击, 大地, 群控, 自然魔法.",
-			"zhTW": "幸運觸發:以大地技能對敵人造成傷害,最高有 5% 機率可以:\n• 恢復你所有靈力\n• 使你的攻擊必定爆擊,持續 5 秒\n\n此機率可提高:\n• 爆擊提高 10%\n• 目標遭擊昏、定身或擊退提高 10%\n\nTags: 爆擊, 傷害, 靈力, 幸運觸發, 大地, 控場, 自然魔法."
+			"zhTW": "幸運觸發:以大地技能對敵人造成傷害,最高有 5% 機率可以:\n• 恢復你所有靈力\n• 使你的攻擊必定爆擊,持續 5 秒\n\n此機率可提高:\n• 爆擊提高 10%\n• 目標遭擊昏、定身或擊退提高 10%\n\nTags: 爆擊, 傷害, 靈力, 幸運觸發, 大地, 控場, 自然魔法.",
+			"thTH": "Lucky Hit: เมื่อทำความเสียหายด้วยสกิล Earth มีโอกาส 5% ที่จะ:\n• ได้รับ Spirit ทั้งหมด\n• ทำให้การโจมตีของคุณทั้งหมดเป็น Critical 5 วินาที\n\nมีโอกาสเพิ่มขึ้นดังนี้:\n• 10% หากเป็นการโจมตี Critical\n• 10% หากศัตรูอยู่ในสถานะ Stunned, Immobilized, หรือ Knocked Back\n\nTags: Critical Strikes, Damage, Spirit, Lucky Hit, Earth, Crowd Control, Nature Magic."
 },
 		id: 131,
 		maxPoints: 1,
@@ -5549,7 +5687,8 @@ Tags: Critical Strikes, Damage, Werewolf, Shapeshifting.`,
 			"ruRU": "Волчья свирепость",
 			"trTR": "Kurt Vahşiliği",
 			"zhCN": "凶残狼性",
-			"zhTW": "狼之怒"
+			"zhTW": "狼之怒",
+			"thTH": "Lupine Ferocity"
 },
 		descriptionLocalized: {
 			"deDE": "Jeder 6. Treffer mit einer Werwolffertigkeit erzielt einen kritischen Treffer und verursacht x60% mehr Schaden.\n\nTags: Kritische Treffer, Schaden, Werwolf, Gestaltwandeln.",
@@ -5564,7 +5703,8 @@ Tags: Critical Strikes, Damage, Werewolf, Shapeshifting.`,
 			"ruRU": "Каждый 6-й удар умения волка становится критическим и наносит на x60% больше урона.\n\nTags: Критические удары, Урон, Облик волка, Смена облика.",
 			"trTR": "Her 6. Kurt Adam Yeteneği vuruşu, Kritik Vuruş gerçekleştirir ve x60% artırılmış hasar verir.\n\nTags: Kritik Vuruşlar, Hasar, Kurt Adam, Dönüşme.",
 			"zhCN": "每第 6 次狼人技能会暴击, 并且造成的伤害提高 x60%。\n\nTags: 暴击, 伤害, 狼人, 变形.",
-			"zhTW": "每第 6 個狼人技能會爆擊,造成的傷害提高 x60%。\n\nTags: 爆擊, 傷害, 狼人, 變形."
+			"zhTW": "每第 6 個狼人技能會爆擊,造成的傷害提高 x60%。\n\nTags: 爆擊, 傷害, 狼人, 變形.",
+			"thTH": "สกิล Werewolf ครั้งที่ 6 จะทำความเสียหาย Critical และทำความเสียหายเพิ่มขึ้น x60%.\n\nTags: Critical Strikes, Damage, Werewolf, Shapeshifting."
 },
 		id: 132,
 		maxPoints: 1,
@@ -5591,7 +5731,8 @@ Tags: Shapeshifting, Attack Speed, Damage, Werewolf, Werebear.`,
 			"ruRU": "Звериное буйство",
 			"trTR": "Hayvani Taşkınlık",
 			"zhCN": "兽性狂暴",
-			"zhTW": "野獸狂暴"
+			"zhTW": "野獸狂暴",
+			"thTH": "Bestial Rampage"
 },
 		descriptionLocalized: {
 			"deDE": "Nach 2.5 Sek. in Werwolfgestalt erhaltet Ihr 15 Sek. lang +20% Angriffsgeschwindigkeit.\n\nNach 2.5 Sek. in Werbärgestalt verursacht Ihr 15 Sek. lang x20% mehr Schaden.\n\nTags: Gestaltwandeln, Angriffsgeschwindigkeit, Schaden, Werwolf, Werbär.",
@@ -5606,7 +5747,8 @@ Tags: Shapeshifting, Attack Speed, Damage, Werewolf, Werebear.`,
 			"ruRU": "Если вы пробудете в облике волка в течение 2.5 сек., ваша скорость атаки повысится на +20% на 15 сек.\n\nПробыв в облике медведя в течение 2.5 сек., вы наносите на x20% больше урона в течение 15 сек.\n\nTags: Смена облика, Скорость атаки, Урон, Облик волка, Медведь.",
 			"trTR": "2.5 saniye boyunca bir Kurt Adam olduktan sonra 15 saniyeliğine +20% Saldırı Hızı kazan.\n\n2.5 saniye boyunca bir Ayı Adam olduktan sonra 15 saniyeliğine x20% artırılmış hasar ver.\n\nTags: Dönüşme, Saldırı Hızı, Hasar, Kurt Adam, Ayı Adam.",
 			"zhCN": "变成狼人 2.5 秒后, 攻击速度提高 +20%, 持续 15 秒。\n\n变成熊人 2.5 秒后, 造成的伤害提高 x20%, 持续 15 秒。\n\nTags: 变形, 攻击速度, 伤害, 狼人, 熊人.",
-			"zhTW": "在變身狼人 2.5 秒後,獲得 +20% 攻擊速度,持續 15 秒。\n\n在變身熊人 2.5 秒後,造成的傷害提高 x20%,持續 15 秒。\n\nTags: 變形, 攻擊速度, 傷害, 狼人, 熊人."
+			"zhTW": "在變身狼人 2.5 秒後,獲得 +20% 攻擊速度,持續 15 秒。\n\n在變身熊人 2.5 秒後,造成的傷害提高 x20%,持續 15 秒。\n\nTags: 變形, 攻擊速度, 傷害, 狼人, 熊人.",
+			"thTH": "เมื่ออยู่ในร่างหมาป่า 2.5 วินาที, ได้รับความเร็วในการโจมตีเพิ่มขึ้น +20% เป็นระยะเวลา 15 วินาที.\n\nเมื่ออยู่ในร่างหมี 2.5 วินาที, ทำความเสียหายเพิ่มขึ้น x20% เป็นระยะเวลา 15 วินาที.\n\nTags: Shapeshifting, Attack Speed, Damage, Werewolf, Werebear."
 },
 		id: 133,
 		maxPoints: 1,
@@ -5631,7 +5773,8 @@ Tags: Vulnerable, Damage, Spirit, Storm, Crowd Control, Nature Magic.`,
 			"ruRU": "Буря в разгаре",
 			"trTR": "Mükemmel Fırtına",
 			"zhCN": "完美风暴",
-			"zhTW": "完美風暴"
+			"zhTW": "完美風暴",
+			"thTH": "Perfect Storm"
 },
 		descriptionLocalized: {
 			"deDE": "Von Euch gewirkte Sturmfertigkeiten verleihen 1 Geisteskraft und fügen einem verwundbaren, bewegungsunfähigen oder verlangsamten Gegner x15% mehr Schaden zu.\n\nTags: Verwundbar, Schaden, Geisteskraft, Sturm, Kontrollverlust, Naturmagie.",
@@ -5646,7 +5789,8 @@ Tags: Vulnerable, Damage, Spirit, Storm, Crowd Control, Nature Magic.`,
 			"ruRU": "Примененные вами умения бури восполняют 1 ед. духа и наносят на x15% больше урона уязвимым, обездвиженным и замедленным противникам.\n\nTags: Уязвимость, Урон, Дух, Буря, Контроль, Силы природы.",
 			"trTR": "Kullandığın Fırtına Yetenekleri 1 Ruh kazandırır ve Savunmasız, Sabitlenmiş veya Yavaşlatılmış düşmanlara verilen hasarı x15% artırır.\n\nTags: Savunmasız, Hasar, Ruh, Fırtına, Kitle Kontrolü, Doğa Sihri.",
 			"zhCN": "你施放的风暴技能给予 1 点灵力, 并且对处于易伤、定身或减速状态的敌人造成的伤害提高 x15%。\n\nTags: 易伤, 伤害, 灵力, 风暴, 群控, 自然魔法.",
-			"zhTW": "你施放的風暴技能會賦予 1 點靈力,對易傷、定身或緩速敵人的傷害提高 x15%。\n\nTags: 易傷, 傷害, 靈力, 風暴, 控場, 自然魔法."
+			"zhTW": "你施放的風暴技能會賦予 1 點靈力,對易傷、定身或緩速敵人的傷害提高 x15%。\n\nTags: 易傷, 傷害, 靈力, 風暴, 控場, 自然魔法.",
+			"thTH": "ได้รับ 1 Spirit เมื่อคุณใช้สกิล Storm, และสกิล Storm ที่คุณใช้จะทำความเสียหายเพิ่มขึ้น x15% แก่ศัตรูที่อยู่ในสถานะ Vulnerable, Immobilized, หรือ Slowed.\n\nTags: Vulnerable, Damage, Spirit, Storm, Crowd Control, Nature Magic."
 },
 		id: 134,
 		maxPoints: 1,
@@ -5673,7 +5817,8 @@ Tags: Healthy, Shapeshifting, Life, Werebear, Damage.`,
 			"ruRU": "Медвежья сила",
 			"trTR": "Ayı Kuvveti",
 			"zhCN": "巨熊之力",
-			"zhTW": "熊之力"
+			"zhTW": "熊之力",
+			"thTH": "Ursine Strength"
 },
 		descriptionLocalized: {
 			"deDE": "Erhaltet in Werbärgestalt sowie 3 Sek. nach dem Verlassen der Werbärgestalt zusätzlich x20% maximales Leben.\n\nWenn Ihr gesund seid, verursacht Ihr x30% mehr Schaden.\n\nTags: Gesund, Gestaltwandeln, Leben, Werbär, Schaden.",
@@ -5688,7 +5833,8 @@ Tags: Healthy, Shapeshifting, Life, Werebear, Damage.`,
 			"ruRU": "Ваш максимальный запас здоровья увеличивается на x20%, пока вы находитесь в облике медведя и еще в течение 3 сек. после смены облика.\n\nПока у вас высокий уровень здоровья, вы наносите на x30% больше урона.\n\nTags: Высокое здоровье, Смена облика, Здоровье, Медведь, Урон.",
 			"trTR": "Ayı Adam formundayken ve Ayı Adam formundan çıktıktan sonraki 3 saniye boyunca x20% ilave Maksimum Can kazan.\n\nSağlıklıyken x30% artırılmış hasar ver.\n\nTags: Sağlıklı, Dönüşme, Can, Ayı Adam, Hasar.",
 			"zhCN": "熊人形态下的生命上限额外提高 x20%, 离开熊人形态后, 该效果还会持续 3 秒。\n\n健康状态下, 造成的伤害提高 x30%。\n\nTags: 健康, 变形, 生命, 熊人, 伤害.",
-			"zhTW": "在熊人形態下與解除熊人形態後 3 秒內,你的生命值上限提高 x20%。\n\n在健康狀態下,你造成的傷害提高 x30%。\n\nTags: 健康, 變形, 生命值, 熊人, 傷害."
+			"zhTW": "在熊人形態下與解除熊人形態後 3 秒內,你的生命值上限提高 x20%。\n\n在健康狀態下,你造成的傷害提高 x30%。\n\nTags: 健康, 變形, 生命值, 熊人, 傷害.",
+			"thTH": "ได้รับพลังชีวิตสูงสุดเพิ่มขึ้น x20% เมื่ออยู่ในร่างหมี, ผลจะคงอยู่ 3 วินาทีหลังออกจากร่างหมี.\n\nเมื่ออยู่ในสถานะ Healthy, ทำความเสียหายเพิ่มขึ้น x30%.\n\nTags: Healthy, Shapeshifting, Life, Werebear, Damage."
 },
 		id: 135,
 		maxPoints: 1,
@@ -5702,76 +5848,76 @@ druidData["Spirit Boons"] = {
 		id: 158,
 		"Prickleskin": {
 			values: [ "" ],
-			description: `Gain {#} Thorns.`,
-			id: 142
+			description: `ได้รับ {#} Thorns.`,
+			id: 142,
 		},
 		"Gift of the Stag": {
-			description: `Gain +10 Maximum Spirit.`,
+			description: `ได้รับ +10 จำนวน Spirit สูงสุด.`,
 			id: 143
 		},
 		"Wariness": {
-			description: `Take 10% reduced damage from Elites.`,
+			description: `ได้รับความเสียหายลดลง 10% จากศัตรู Elites.`,
 			id: 144
 		},
 		"Advantageous Beast": {
-			description: `Reduce the duration of Control Impairing Effects by 15%.`,
+			description: `ลดระยะเวลาผลของ Control Imparing Effect 15%.`,
 			id: 145
 		}
 	},
 	"Eagle": {
 		id: 159,
 		"Scythe Talons": {
-			description: `Gain +5% increased Critical Strike Chance.`,
+			description: `ได้รับ +5% โอกาสโจมตี Critical.`,
 			id: 146
 		},
 		"Iron Feather": {
-			description: `Gain x10% Maximum Life.`,
+			description: `ได้รับ x10% พลังชีวิตสูงสุด.`,
 			id: 147
 		},
 		"Swooping Attacks": {
-			description: `Gain +10% Attack Speed.`,
+			description: `ได้รับ +10% ความเร็วในการโจมตี.`,
 			id: 148
 		},
 		"Avian Wrath": {
-			description: `Gain x30% Critical Strike Damage.`,
+			description: `ได้รับ x30% ความเสียหายการโจมตี Critical.`,
 			id: 149
 		}
 	},
 	"Snake": {
 		id: 161,
 		"Obsidian Slam": {
-			description: `Every 20th kill will cause your next Earth Skill to Overpower.`,
+			description: `เมื่อสังหารศัตรู 20 ตัว สกิล Earth ครั้งต่อไปจะ Overpower.`,
 			id: 154
 		},
 		"Overload": {
-			description: `Lucky Hit: Dealing Lightning damage has up to a 20% chance to cause the target to emit a static discharge, dealing 20% Lightning damage to surrounding enemies.`,
+			description: `Lucky Hit: ความเสียหาย Lightning มีโอกาส 20% ที่จะทำให้ศัตรูปล่อยสายฟ้าออกมา, ทำความเสียหาย Lightning 20% แก่ศัตรูรอบๆ.`,
 			id: 155
 		},
 		"Masochistic": {
-			description: `Critical Strikes with Shapeshifting Skills Heal you for 3% Maximum Life.`,
+			description: `เมื่อทำความเสียหาย Critical ด้วยสกิล Shapeshifting จะฟื้นฟูพลังชีวิต 3% ของพลังชีวิตสูงสุด.`,
 			id: 156
 		},
 		"Calm Before the Storm": {
-			description: `Lucky Hit: Nature Magic Skills have up to a 10% chance to reduce the Cooldown of your Ultimate Skill by 2 seconds.`,
+			description: `Lucky Hit: สกิล Nature Magic มีโอกาส 10% ที่จะลด Cooldown ของสกิล Ultimate 2 วินาที.`,
 			id: 157
 		}
 	},
 	"Wolf": {
 		id: 160,
 		"Packleader": {
-			description: `Lucky Hit: Critical Strikes have up to a 20% chance to reset the Cooldowns of your Companion Skills.`,
+			description: `Lucky Hit: เมื่อทำความเสียหาย Critical มีโอกาส 20% ที่จะลด Cooldowns ทั้งหมดของสกิล Companion.`,
 			id: 150
 		},
 		"Energize": {
-			description: `Lucky Hit: Dealing damage has up to a 15% chance to restore 10 Spirit.`,
+			description: `Lucky Hit: เมื่อทำความเสียหายมีโอกาส 15% ที่จะได้รับ 10 Spirit.`,
 			id: 151
 		},
 		"Bolster": {
-			description: `Fortify for 10% of your Maximum Life when you use a Defensive Skill.`,
+			description: `Fortify 10% ของพลังชีวิตสูงสุด เมื่อใช้สกิล Defensive.`,
 			id: 152
 		},
 		"Calamity": {
-			description: `Extend the duration of Ultimate Skills by 25%.`,
+			description: `เพิ่มระยะเวลาของสกิล Ultimate 25%.`,
 			id: 153
 		}
 	}

@@ -4117,7 +4117,7 @@ Tags: Ultimate, Blood, Damage, Cooldown, Crowd Control, Physical.`,
 			"trTR": "Bekleme Süresi: 50 saniye\nŞanslı Vuruş İhtimali: 20% (per hit)\n120% hasar veren ve düşmanları Geri Savuran bir kan dalgası oluştur.\n\nTags: Ulti, Kan, Hasar, Bekleme Süresi, Kitle Kontrolü, Fiziksel.",
 			"zhCN": "冷却时间: 50 秒\n幸运一击几率: 20% (per hit)\n召唤一道鲜血浪潮, 造成 120% 点伤害并将敌人击退。\n\nTags: 终极技能, 鲜血, 伤害, 冷却时间, 群控, 物理.",
 			"zhTW": "冷卻時間:50 秒\n幸運觸發機率: 20% (per hit)\n呼喚一波血浪,造成 120% 點傷害並擊退敵人。\n\nTags: 絕招, 鮮血, 傷害, 冷卻時間, 控場, 物理.",
-			"thTH": "Cooldown: 50 วินาที\nLucky Hit Chance: 20% (per hit)\nสร้างคลื่นเลือดที่จะทำความเสียหาย 120% และผลักศัตรูออก.\n\nTags: Ultimate, Blood, Damage, Cooldown, Crowd Control, Physical."
+			"thTH": "Cooldown: 50 วินาที\nLucky Hit Chance: 20% (per hit)\nสร้างคลื่นเลือดที่จะทำความเสียหาย 120% และ Knocked Back ศัตรู.\n\nTags: Ultimate, Blood, Damage, Cooldown, Crowd Control, Physical."
 },
 		id: 96,
 		maxPoints: 1,

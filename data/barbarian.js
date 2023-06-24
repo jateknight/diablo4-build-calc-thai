@@ -2519,7 +2519,7 @@ Tags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown.`,
 			"trTR": "Attack Speed Multiplier: 1.5\nBekleme Süresi: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} saniye\nŞanslı Vuruş İhtimali: 33% (per hit)\nDurdurulamaz ol ve ileri hücum ederek düşmanları beraberinde sürükledikten sonra onlara darbe indirerek {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% hasar verip onları Geri Savur.\n\nTags: Kapışma, Durdurulamaz, Kitle Kontrolü, Hasar, Fiziksel, Bekleme Süresi.",
 			"zhCN": "Attack Speed Multiplier: 1.5\n冷却时间: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸运一击几率: 33% (per hit)\n变得不可阻挡并向前冲锋, 推动接触到的敌人然后从其中间穿过, 造成 {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% 点伤害并将其击退。\n\nTags: 搏斗, 不可阻挡, 群控, 伤害, 物理, 冷却时间.",
 			"zhTW": "Attack Speed Multiplier: 1.5\n冷卻時間:{17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸運觸發機率: 33% (per hit)\n獲得無阻狀態,向前衝刺推動敵人,然後再揮擊武器穿越,造成 {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% 點傷害並擊退他們。\n\nTags: 爭鬥, 無阻, 控場, 傷害, 物理, 冷卻時間.",
-			"thTH": "ความเร็วในการโจมตี: 1.5\nCooldown: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} วินาที\nLucky Hit: 33% (per hit)\nเข้าสู่สถานะ Unstoppable และพุ่งชนศัตรู, ศัตรูที่ถูกชนจะได้รับความเสียหาย {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% และถูกผลักออก. \n\nTags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown."
+			"thTH": "ความเร็วในการโจมตี: 1.5\nCooldown: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} วินาที\nLucky Hit: 33% (per hit)\nเข้าสู่สถานะ Unstoppable และพุ่งชนศัตรู, ศัตรูที่ถูกชนจะได้รับความเสียหาย {25/27.5/30/32.5/35/37.5/40/42.5/45/47.5}% และถูก Knocked Back . \n\nTags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown."
 },
 		id: 58,
 		maxPoints: 5,
@@ -2560,7 +2560,7 @@ Tags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown.`,
 			"trTR": "Hücum ile Geri Savrularak yere çarpan düşmanlar 15% hasar alır ve 3 saniyeliğine Sersemletilir.",
 			"zhCN": "被冲锋的击退效果撞到地形上的敌人受到 15% 点伤害并陷入昏迷状态, 持续 3 秒。",
 			"zhTW": "被衝鋒擊退撞到地形的敵人會受到 15% 點傷害並被擊昏 3 秒。",
-			"thTH": "ศัตรูที่ถูกผลักออกชนกับสิ่งแวดล้อมจะได้รับความเสียหาย 15% และ Stun เป็นระยะเวลา 3 วินาที"
+			"thTH": "ศัตรูที่ถูก Knocked Back ชนกับสิ่งแวดล้อมจะได้รับความเสียหาย 15% และ Stun เป็นระยะเวลา 3 วินาที"
 },
 		id: 59,
 		maxPoints: 1,
@@ -2601,7 +2601,7 @@ Tags: Brawling, Unstoppable, Crowd Control, Damage, Physical, Cooldown.`,
 			"trTR": "Hücum, bir düşmanı Geri Savurarak yere çarptırırsa Hücumun Bekleme Süresini 3 saniye azalt.",
 			"zhCN": "如果将敌人击退至地形上, 则冲锋的冷却时间缩短 3 秒。",
 			"zhTW": "若衝鋒將敵人擊退並撞至地形上,其冷卻時間縮短 3 秒。",
-			"thTH": "ลด Cooldown สกิล Charge 3 วินาที หากศัตรูถูกผลักออกชนกับสิ่งแวดล้อม"
+			"thTH": "ลด Cooldown สกิล Charge 3 วินาที หากศัตรูถูก Knocked Back ชนกับสิ่งแวดล้อม"
 },
 		id: 60,
 		maxPoints: 1,
@@ -2979,7 +2979,7 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"trTR": "Attack Speed Multiplier: 1.3\nBekleme Süresi: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} saniye\nŞanslı Vuruş İhtimali: 66% (per hit)\nİleri sıçrayıp yere vurarak {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% hasar ver ve çarpma anında etraftaki düşmanları Geriye Savur.\n\nTags: Kapışma, Kitle Kontrolü, Hasar, Fiziksel, Bekleme Süresi.",
 			"zhCN": "Attack Speed Multiplier: 1.3\n冷却时间: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸运一击几率: 66% (per hit)\n向前跳跃然后落地猛击, 造成 {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% 点伤害并在命中时击退周围的敌人。\n\nTags: 搏斗, 群控, 伤害, 物理, 冷却时间.",
 			"zhTW": "Attack Speed Multiplier: 1.3\n冷卻時間:{17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸運觸發機率: 66% (per hit)\n猛力一躍並向下重擊,落地時造成 {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% 點傷害並擊退附近的敵人。\n\nTags: 爭鬥, 控場, 傷害, 物理, 冷卻時間.",
-			"thTH": "ความเร็วในการโจมตี: 1.3\nCooldown: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} วินาที\nLucky Hit:  66% (per hit)\nกระโดดเข้าหาศัตรู ทำความเสียหาย {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% และศัตรูรอบตัวจะถูกผลักออก. \n\nTags: Brawling, Crowd Control, Damage, Physical, Cooldown."
+			"thTH": "ความเร็วในการโจมตี: 1.3\nCooldown: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} วินาที\nLucky Hit:  66% (per hit)\nกระโดดเข้าหาศัตรู ทำความเสียหาย {32.5/35.8/39/42.3/45.5/48.8/52/55.2/58.5/61.7}% และศัตรูรอบตัวจะถูก Knocked Back . \n\nTags: Brawling, Crowd Control, Damage, Physical, Cooldown."
 },
 		id: 69,
 		maxPoints: 5,
@@ -3147,7 +3147,7 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"trTR": "Yük: 2\nYük Bekleme Süresi: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} saniye\nŞanslı Vuruş İhtimali: 40% (per hit)\n18% hasar veren ve önündeki düşmanları Geri Savuran güçlü bir tekme at. Geri Savrularak yeren çarpan düşmanlar ilave 54% hasar alır ve 3 saniyeliğine Sersemletilir.\n\nTags: Kapışma, Kitle Kontrolü, Hasar, Fiziksel, Bekleme Süresi.",
 			"zhCN": "使用次数: 2\n充能冷却时间: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸运一击几率: 40% (per hit)\n发起一次强力踢击, 对你面前的敌人造成 18% 点伤害并将其击退。被击退至地形上的敌人额外受到 54% 点伤害并陷入昏迷, 持续 3 秒。\n\nTags: 搏斗, 群控, 伤害, 物理, 冷却时间.",
 			"zhTW": "使用次數:2\n使用次數恢復時間:{17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} 秒\n幸運觸發機率: 40% (per hit)\n對你前方的敵人施展踢擊,造成 18% 點傷害並將敵人擊退。遭擊退時撞到地形的敵人會額外受到 54% 點傷害,並被擊昏 3 秒。\n\nTags: 爭鬥, 控場, 傷害, 物理, 冷卻時間.",
-			"thTH": "Charges: 2\nCharge Cooldown: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} วินาที\nLucky Hit Chance: 40% (per hit)\n ทำความเสียหาย 18% แก่ศัตรูด้านหน้า และผลักออก, ศัตรูที่ถูกผลักออกชนกับสิ่งแวดล้อมจะได้รับความเสียหายเพิ่มเติม 54% และ Stun เป็นระยะเวลา 3 วินาที\n\nTags: Brawling, Crowd Control, Damage, Physical, Cooldown."
+			"thTH": "Charges: 2\nCharge Cooldown: {17/16.15/15.3/14.62/13.94/13.43/12.92/12.58/12.24/11.9/11.56/11.22/11.05/10.88/10.71/10.54/10.455/10.37/10.285/10.2} วินาที\nLucky Hit Chance: 40% (per hit)\n ทำความเสียหาย 18% แก่ศัตรูด้านหน้า และ Knock Back , ศัตรูที่ถูก Knock Back ชนกับสิ่งแวดล้อมจะได้รับความเสียหายเพิ่มเติม 54% และ Stun เป็นระยะเวลา 3 วินาที\n\nTags: Brawling, Crowd Control, Damage, Physical, Cooldown."
 },
 		id: 73,
 		maxPoints: 5,
@@ -3229,7 +3229,7 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"trTR": "Tekmelenmiş düşmanlar Geri Savrulurken çarptıkları düşmanlara 54% hasar verir. Bu şekilde hasar alan düşmanlar 2 saniyeliğine Yere Serilir.",
 			"zhCN": "被踢击击退的敌人碰撞到其他敌人时对其造成 54% 点伤害。受到该伤害的敌人会被击倒 2 秒。",
 			"zhTW": "遭踢擊擊退的敵人撞到其他敵人時會造成 54% 點傷害。受到此傷害的敵人會被擊倒 2 秒。",
-			"thTH": "เมื่อศัตรูที่ถูกผลักออกจะทำความเสียหาย 54% แก่ศัตรูที่ขวางทาง, ศัตรูที่ได้รับความเสียหายนี้จะอยู่ในสถานะ Knocked Down เป็นระยะเวลา 2 วินาที"
+			"thTH": "ศัตรูที่ถูก Knocked Back จะทำความเสียหาย 54% แก่ศัตรูที่ขวางทาง, ศัตรูที่ได้รับความเสียหายนี้จะอยู่ในสถานะ Knocked Down เป็นระยะเวลา 2 วินาที"
 },
 		id: 75,
 		maxPoints: 1,
@@ -3270,7 +3270,7 @@ Tags: Brawling, Crowd Control, Damage, Physical, Cooldown.`,
 			"trTR": "Tekme bir düşmana hasar verirse tüm Hiddetini tüketir ve harcanan 10 Hiddet başına ilave 20% hasar verir. Tekme artık düşmanları Geri Savurmaz.",
 			"zhCN": "踢击对一名敌人造成伤害会消耗你的所有怒气, 并且每消耗 10 点怒气造成额外 20% 点伤害。踢击不再击退敌人。",
 			"zhTW": "踢擊對敵人造成傷害時會消耗所有怒氣,每消耗 10 點怒氣便額外造成 20% 點傷害。但踢擊不再擊退敵人。",
-			"thTH": "เมื่อสกิล Kick ทำความเสียหาย, จะใช้ Fury ทั้งหมดที่คุณมี และทำความเสียหายเพิ่มเติม 20% ต่อจำนวน 10 Fury ที่ใช้, สกิล Kick จะไม่ผลักศัตรูออก."
+			"thTH": "เมื่อสกิล Kick ทำความเสียหาย, จะใช้ Fury ทั้งหมดที่คุณมี และทำความเสียหายเพิ่มเติม 20% ต่อจำนวน 10 Fury ที่ใช้, สกิล Kick จะไม่ Knocked Back ศัตรู."
 },
 		id: 76,
 		maxPoints: 1,
@@ -4715,7 +4715,7 @@ Tags: Ultimate, Unstoppable, Berserking, Cooldown, Basic.`,
 			"trTR": "Bekleme Süresi: 60 saniye\nÖfkeyle patlayarak çevredeki düşmanları geri savur ve 5 saniye boyunca Başıbozukluk ve Durdurulamaz kazan. Sonraki 10 saniye boyunca Temel Yeteneklerle doğrudan hasar vermek 5 saniyeliğine Başıbozukluk kazandırır.\n\nTags: Ulti, Durdurulamaz, Başıbozukluk, Bekleme Süresi, Temel.",
 			"zhCN": "冷却时间:60 秒\n变得怒不可遏,击退周围的敌人并获得狂暴和不可阻挡,持续 5 秒。在接下来的 10 秒内,使用基础技能造成直接伤害可以获得狂暴,持续 5 秒。\n\nTags: 终极技能, 不可阻挡, 狂暴, 冷却时间, 基础.",
 			"zhTW": "冷卻時間:60 秒\n陷入狂怒,擊退附近的敵人並獲得狂暴與無阻狀態,持續 5 秒。在接下來 10 秒內,以基本技能造成直接傷害可獲得狂暴,持續 5秒。\n\nTags: 絕招, 無阻, 狂暴, 冷卻時間, 基本.",
-			"thTH": "Cooldown: 60 วินาที\nผลักศัตรูรอบตัวออก ได้รับสถานะ Berserking และ Unstoppable เป็นระยะเวลา 5 วินาที, ภายใน 10 วินาที หลังจากใช้สกิลนี้ เมื่อทำความเสียหายด้วยสกิล Basic จะเได้รับ Berserking 5 วินาที\n\nTags: Ultimate, Unstoppable, Berserking, Cooldown, Basic."
+			"thTH": "Cooldown: 60 วินาที\n Knocked Back ศัตรูรอบตัว ได้รับสถานะ Berserking และ Unstoppable เป็นระยะเวลา 5 วินาที, ภายใน 10 วินาที หลังจากใช้สกิลนี้ เมื่อทำความเสียหายด้วยสกิล Basic จะเได้รับ Berserking 5 วินาที\n\nTags: Ultimate, Unstoppable, Berserking, Cooldown, Basic."
 },
 		id: 110,
 		maxPoints: 1,
