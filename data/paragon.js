@@ -5888,8 +5888,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte verursacht Ihr +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% Schaden, während Ihr eine Axt tragt.",
-					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño al usar un hacha.",
-					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño al usar un hacha.",
+					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño al usar un hacha.",
+					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño al usar un hacha.",
 					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% de dégâts lorsque vous maniez une hache.",
 					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% di danni aggiuntivi usando un'ascia.",
 					"jaJP": "範囲内で筋力5が購入されるごとに、斧使用中に与えるダメージが+{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%増加する。",
@@ -5899,7 +5899,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон с топором увеличивается на +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%.",
 					"trTR": "Menzilde satın alınan her 5 Kuvvet başına bir Balta kullanıyorken +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点力量,你手持斧类武器时造成的伤害提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
-					"zhTW": "在範圍內每購買 5 點力量,使用斧頭時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"zhTW": "在範圍內每購買 5 點力量,使用斧頭時造成的傷害就會提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
 					"thTH": "ทุก 5 Strength ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่ใช้ขวานเพิ่มขึ้น +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%."
 				},
 				"bonusLocalized": {
@@ -5942,8 +5942,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte verursacht Ihr +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% Schaden, während Ihr ein Schwert tragt.",
-					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño al usar una espada.",
-					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño al usar una espada.",
+					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño al usar una espada.",
+					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño al usar una espada.",
 					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% de dégâts lorsque vous maniez une épée.",
 					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% di danni aggiuntivi usando una spada.",
 					"jaJP": "範囲内で筋力5が購入されるごとに、剣使用中に与えるダメージが+{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%増加する。",
@@ -5953,7 +5953,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон с мечом увеличивается на +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%.",
 					"trTR": "Menzilde satın alınan her 5 Kuvvet başına bir Kılıç kullanıyorken +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点力量,你手持剑类武器时造成的伤害提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
-					"zhTW": "在範圍內每購買 5 點力量,使用劍時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"zhTW": "在範圍內每購買 5 點力量,使用劍時造成的傷害就會提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
 					"thTH": "ทุก 5 Strength ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่ใช้ดาบเพิ่มขึ้น +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%."
 				},
 				"bonusLocalized": {
@@ -5996,8 +5996,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte verursacht Ihr +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% Schaden, wenn Ihr einen Streitkolben tragt.",
-					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño al usar una maza.",
-					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño al usar una maza.",
+					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño al usar una maza.",
+					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño al usar una maza.",
 					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% de dégâts lorsque vous maniez une masse.",
 					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% di danni aggiuntivi usando una mazza.",
 					"jaJP": "範囲内で筋力5が購入されるごとに、メイス使用中に与えるダメージが+{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%増加する。",
@@ -6007,7 +6007,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон с булавой увеличивается на +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%.",
 					"trTR": "Menzilde satın alınan her 5 Kuvvet başına bir Gürz kullanıyorken +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点力量,你手持锤类武器时造成的伤害提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
-					"zhTW": "在範圍內每購買 5 點力量,使用釘鎚時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"zhTW": "在範圍內每購買 5 點力量,使用釘鎚時造成的傷害就會提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
 					"thTH": "ทุก 5 Strength ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่ใช้ Mace เพิ่มขึ้น +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%."
 				},
 				"bonusLocalized": {
@@ -6050,8 +6050,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte verursacht Ihr +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% Schaden, während Ihr eine Stangenwaffe tragt.",
-					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño al usar un arma de asta.",
-					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño al usar un arma de asta.",
+					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño al usar un arma de asta.",
+					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño al usar un arma de asta.",
 					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% de dégâts lorsque vous maniez une arme d'hast.",
 					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% di danni aggiuntivi usando un'arma in asta.",
 					"jaJP": "範囲内で筋力5が購入されるごとに、長柄武器使用中に与えるダメージが+{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%増加する。",
@@ -6061,7 +6061,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон с древковым оружием увеличивается на +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%.",
 					"trTR": "Menzilde satın alınan her 5 Kuvvet başına bir Gönderli Silah kullanıyorken +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点力量,你手持长柄武器时造成的伤害提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
-					"zhTW": "在範圍內每購買 5 點力量,使用長柄武器時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"zhTW": "在範圍內每購買 5 點力量,使用長柄武器時造成的傷害就會提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
 					"thTH": "ทุก 5 Strength ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่ใช้ Polearm เพิ่มขึ้น +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%."
 				},
 				"bonusLocalized": {
@@ -6104,8 +6104,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte verursacht Ihr +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% Schaden, während Ihr im im Berserkermodus seid.",
-					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño mientras tienes vesania.",
-					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño mientras tienes enajenación.",
+					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño mientras tienes vesania.",
+					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño mientras tienes enajenación.",
 					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% de dégâts tant que vous êtes sous l'effet de Rage du berserker.",
 					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% di danni aggiuntivi mentre Berserk è attivo.",
 					"jaJP": "範囲内で筋力5が購入されるごとに、バーサーク中に与えるダメージが+{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%増加する。",
@@ -6115,7 +6115,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы, открытые в радиусе действия, наносимый урон в состоянии берсерка увеличивается на +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%.",
 					"trTR": "Menzilde satın alınan her 5 Kuvvet başına Başıbozukluk sırasında +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点力量,你在狂暴状态下造成的伤害提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
-					"zhTW": "在範圍內每購買 5 點力量,狂暴時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"zhTW": "在範圍內每購買 5 點力量,狂暴時造成的傷害就會提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
 					"thTH": "ทุก 5 Strength ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่ Berserking เพิ่มขึ้น +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%."
 				},
 				"bonusLocalized": {
@@ -6212,7 +6212,7 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr blutenden Gegnern +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% Schaden zu.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño a objetivos con sangrado.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño a objetivos con sangrado.",
 					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño a los objetivos que sangran.",
 					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% de dégâts aux cibles qui saignent.",
 					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% di danni aggiuntivi ai bersagli sanguinanti.",
@@ -6223,7 +6223,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый целям с кровотечением, увеличивается на +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Kanayan hedeflere +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,你对流血目标造成的伤害提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對流血目標造成的傷害提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,你對流血目標造成的傷害提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
 					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูที่ Bleeding เพิ่มขึ้น +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%."
 				},
 				"bonusLocalized": {
@@ -6482,8 +6482,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% Schaden, während Ihr gestählt seid.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño mientras tienes fortificación.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño mientras tienes fortificación.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño mientras tienes fortificación.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño mientras tienes fortificación.",
 					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% de dégâts quand vous bénéficiez d'une fortification.",
 					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% di danni aggiuntivi quando hai Fortificazione.",
 					"jaJP": "範囲内で意志力5が購入されるごとに、強化中に与えるダメージが+{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%増加する。",
@@ -6493,7 +6493,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, наносимый урон во время эффекта укрепления увеличивается на +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%.",
 					"trTR": "Menzilde satın alınan her 5 İrade başına Güçlendirilmişken +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点意力,你在强固状态下造成的伤害提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
-					"zhTW": "在範圍內每購買 5 點意志,強韌時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"zhTW": "在範圍內每購買 5 點意志,強韌時造成的傷害就會提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
 					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่ Fortified เพิ่มขึ้น +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%."
 				},
 				"bonusLocalized": {
@@ -6590,8 +6590,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% Blutungsschaden.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño de sangrado.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño de sangrado.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño de sangrado.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño de sangrado.",
 					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% de dégâts de saignement.",
 					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% di danni da sanguinamento aggiuntivi.",
 					"jaJP": "範囲内で意志力5が購入されるごとに、与える出血ダメージが+{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%増加する。",
@@ -6601,7 +6601,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон от кровотечения увеличивается на +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%.",
 					"trTR": "Menzilde satın alınan her 5 İrade başına +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% artırılmış Kanama hasarı verirsin.",
 					"zhCN": "每购买辐射范围内 5 点意力,你造成的流血伤害提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
-					"zhTW": "在範圍內每購買 5 點意志,造成的流血傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"zhTW": "在範圍內每購買 5 點意志,造成的流血傷害就會提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
 					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหาย Bleeding เพิ่มขึ้น +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%."
 				},
 				"bonusLocalized": {
@@ -24588,8 +24588,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% Schaden, während Ihr gestählt seid.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño mientras tienes fortificación.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}% más de daño mientras tienes fortificación.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño mientras tienes fortificación.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% más de daño mientras tienes fortificación.",
 					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% de dégâts quand vous bénéficiez d'une fortification.",
 					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% di danni aggiuntivi quando hai Fortificazione.",
 					"jaJP": "範囲内で意志力5が購入されるごとに、強化中に与えるダメージが+{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%増加する。",
@@ -24599,7 +24599,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, наносимый урон во время эффекта укрепления увеличивается на +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%.",
 					"trTR": "Menzilde satın alınan her 5 İrade başına Güçlendirilmişken +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点意力,你在强固状态下造成的伤害提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
-					"zhTW": "在範圍內每購買 5 點意志,強韌時造成的傷害就會提高 {3/3.45/3.9/4.35/4.8/5.25/5.7/6.15/6.6/7.05/7.5/7.95/8.4/8.85/9.3/9.75/10.2/10.65/11.1/11.55/12}%。",
+					"zhTW": "在範圍內每購買 5 點意志,強韌時造成的傷害就會提高 +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%。",
 					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่ Fortified เพิ่มขึ้น +{2/2.3/2.6/2.9/3.2/3.5/3.8/4.1/4.4/4.7/5/5.3/5.6/5.9/6.2/6.5/6.8/7.1/7.4/7.7/8}%."
 				},
 				"bonusLocalized": {
