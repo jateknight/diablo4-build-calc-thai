@@ -6266,7 +6266,7 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Kernfertigkeiten +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}% kritischen Trefferschaden.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades principales infligen un {2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}% más de daño de golpe crítico.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades principales infligen un +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}%% más de daño de golpe crítico.",
 					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, las habilidades principales infligen un +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}% más de daño de golpe crítico.",
 					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vos compétences principales infligent +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}% de dégâts critiques.",
 					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, le abilità Primarie infliggono il +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}% di danni critici aggiuntivi.",
@@ -6277,7 +6277,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, критический урон от основных умений увеличивается на +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Çekirdek Yetenekler +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}% artırılmış Kritik Vuruş Hasarı verir.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,核心技能造成的暴击伤害提高 +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,核心技能造成的爆擊傷害就會提高 {2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,核心技能造成的爆擊傷害就會提高 +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}%%。",
 					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, สกิล Core ทำความเสียหาย Critical เพิ่มขึ้น +{2.25/2.7/3.15/3.6/4.05/4.5/4.95/5.4/5.85/6.3/6.75/7.2/7.65/8.1/8.55/9/9.45/9.9/10.35/10.8/11.25}%."
 				},
 				"bonusLocalized": {
@@ -6300,7 +6300,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_031": {
 				"name": "Weapon Master",
-				"desc": "Paragon nodes within range gain +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% bonus to their Physical damage and damage reduction modifiers.",
+				"desc": "Paragon nodes within range gain +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% bonus to their Physical damage and damage reduction modifiers.",
 				"bonus": "Hitting with a Weapon Mastery Skill reduces the active Cooldown of another random Weapon Mastery Skill by 2 seconds.",
 				"nameLocalized": {
 					"deDE": "Waffenmeister",
@@ -6319,20 +6319,20 @@ let paragonData = {
 					"thTH": "Weapon Master"
 				},
 				"descLocalized": {
-					"deDE": "Paragonknoten in Reichweite erhalten einen Bonus von +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% auf ihre Modifikatoren für physischen Schaden und Schadensreduktion.",
-					"esES": "Los nodos de leyenda al alcance obtienen un bonus de un {17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% para sus modificadores de daño físico y de reducción de daño.",
-					"esMX": "Los nodos Paragón dentro del alcance obtienen una bonificación del +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% en sus modificadores de daño físico y de reducción de daño.",
-					"frFR": "Les modificateurs de dégâts physiques et de réduction des dégâts des nœuds de parangon à l'intérieur de l'ensemble obtiennent un bonus de {17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%.",
-					"itIT": "I nodi dell'Eccellenza a portata ottengono un bonus del +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% ai danni fisici e ai modificatori di riduzione danni.",
-					"jaJP": "範囲内のパラゴン・ノードが、物理ダメージおよびダメージ低減について+{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%のボーナスを獲得する。",
-					"koKR": "범위 내의 정복자 노드에서 물리 피해 및 피해 감소 속성이 추가로 +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% 증가합니다.",
-					"plPL": "Węzły mistrzowskie w zasięgu zyskują +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% do modyfikatorów obrażeń Fizycznych oraz redukcji obrażeń.",
-					"ptBR": "Nódulos de Excelência em alcance recebem +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% de bônus para modificadores de dano físico e redução de dano.",
-					"ruRU": "Модификации увеличения и уменьшения физического урона усиливаются на +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% для узлов совершенствования в радиусе действия.",
-					"trTR": "Menzildeki mükemmeliyet düğümleri, Fiziksel hasar ve hasar azaltma düzenleyicilerine +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% bonus kazanır.",
-					"zhCN": "辐射范围内的巅峰节点获得 +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% 加成至物理伤害和伤害减免。",
-					"zhTW": "範圍內顛峰節點的物理傷害和傷害減免屬性 +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%。",
-					"thTH": "Paragon nodes ภายในระยะจะได้รับการเพิ่มความเสียหาย Physical และ Damage Reduction เพิ่มขึ้น +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%"
+					"deDE": "Paragonknoten in Reichweite erhalten einen Bonus von +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% auf ihre Modifikatoren für physischen Schaden und Schadensreduktion.",
+					"esES": "Los nodos de leyenda al alcance obtienen un bonus de un +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}%% para sus modificadores de daño físico y de reducción de daño.",
+					"esMX": "Los nodos Paragón dentro del alcance obtienen una bonificación del +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% en sus modificadores de daño físico y de reducción de daño.",
+					"frFR": "Les modificateurs de dégâts physiques et de réduction des dégâts des nœuds de parangon à l'intérieur de l'ensemble obtiennent un bonus de +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}%%.",
+					"itIT": "I nodi dell'Eccellenza a portata ottengono un bonus del +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% ai danni fisici e ai modificatori di riduzione danni.",
+					"jaJP": "範囲内のパラゴン・ノードが、物理ダメージおよびダメージ低減について+{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}%のボーナスを獲得する。",
+					"koKR": "범위 내의 정복자 노드에서 물리 피해 및 피해 감소 속성이 추가로 +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% 증가합니다.",
+					"plPL": "Węzły mistrzowskie w zasięgu zyskują +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% do modyfikatorów obrażeń Fizycznych oraz redukcji obrażeń.",
+					"ptBR": "Nódulos de Excelência em alcance recebem +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% de bônus para modificadores de dano físico e redução de dano.",
+					"ruRU": "Модификации увеличения и уменьшения физического урона усиливаются на +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% для узлов совершенствования в радиусе действия.",
+					"trTR": "Menzildeki mükemmeliyet düğümleri, Fiziksel hasar ve hasar azaltma düzenleyicilerine +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% bonus kazanır.",
+					"zhCN": "辐射范围内的巅峰节点获得 +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% 加成至物理伤害和伤害减免。",
+					"zhTW": "範圍內顛峰節點的物理傷害和傷害減免屬性 +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}%。",
+					"thTH": "Paragon nodes ภายในระยะจะได้รับการเพิ่มความเสียหาย Physical และ Damage Reduction เพิ่มขึ้น +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}%"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr mit einer Waffenbeherrschungsfertigkeit trefft, verringert sich die aktive Abklingzeit einer anderen zufälligen Waffenbeherrschungsfertigkeit um 2 Sek.",
@@ -6354,7 +6354,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_032": {
 				"name": "Mortal Draw",
-				"desc": "For every 5 Dexterity purchased within range, Skills that Swap to a different weapon deal +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}% increased damage.",
+				"desc": "For every 5 Dexterity purchased within range, Skills that Swap to a different weapon deal +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}% increased damage.",
 				"bonus": "Swapping weapons has a 18% chance to cause the Skill's damage to Critically Strike.",
 				"nameLocalized": {
 					"deDE": "Tödliche Flinkheit",
@@ -6373,20 +6373,20 @@ let paragonData = {
 					"thTH": "Mortal Draw"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Fertigkeiten, die zu einer anderen Waffe wechseln, +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}% Schaden.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades que cambian a un arma diferente infligen un {4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}% más de daño.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, las habilidades que hacen cambiar de arma infligen un +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}% más de daño.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, les compétences qui vous font changer d'arme infligent +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}% de dégâts.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, le abilità che cambiano arma infliggono il +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}% di danni aggiuntivi.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、別の武器への切り替えスキルの与えるダメージが+{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다, 다른 무기로 변경하는 기술로 주는 피해가 +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupione w zasięgu umiejętności, które powodują zmianę broni, zyskują premię +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}% do obrażeń.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, habilidades com troca de arma causam +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}% de dano aumentado.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон от умений, меняющих оружие, увеличивается на +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına başka bir silaha Geçiş Yapan Yetenekler +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}% artırılmış hasar verir.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,切换至不同武器的技能造成的伤害提高 +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,切換不同武器的技能造成的傷害就會提高 {4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}%。",
-					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, สกิลที่สลับอาวุธจะทำความเสียหายเพิ่มขึ้น +{4.02/5.071/6.123/7.175/8.226/9.277/10.329/11.381/12.432/13.484/14.535/15.587/16.638/17.69/18.741/19.793/20.844/21.896/22.947/23.998/25.05}%"
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Fertigkeiten, die zu einer anderen Waffe wechseln, +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}% Schaden.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades que cambian a un arma diferente infligen un +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}%% más de daño.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, las habilidades que hacen cambiar de arma infligen un +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}% más de daño.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, les compétences qui vous font changer d'arme infligent +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}% de dégâts.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, le abilità che cambiano arma infliggono il +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}% di danni aggiuntivi.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、別の武器への切り替えスキルの与えるダメージが+{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다, 다른 무기로 변경하는 기술로 주는 피해가 +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupione w zasięgu umiejętności, które powodują zmianę broni, zyskują premię +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}% do obrażeń.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, habilidades com troca de arma causam +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}% de dano aumentado.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон от умений, меняющих оружие, увеличивается на +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına başka bir silaha Geçiş Yapan Yetenekler +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}% artırılmış hasar verir.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,切换至不同武器的技能造成的伤害提高 +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,切換不同武器的技能造成的傷害就會提高 +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}%%。",
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, สกิลที่สลับอาวุธจะทำความเสียหายเพิ่มขึ้น +{2.68/3.381/4.082/4.783/5.484/6.185/6.886/7.587/8.288/8.989/9.69/10.391/11.092/11.793/12.494/13.195/13.896/14.597/15.298/15.999/16.7}%"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr Eure Waffen wechselt, besteht eine Chance von 18%, dass der Schaden der Fertigkeit kritisch trifft.",
@@ -6408,7 +6408,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_033": {
 				"name": "Revenge",
-				"desc": "Grants +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% bonus to all Rare nodes within range.",
+				"desc": "Grants +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% bonus to all Rare nodes within range.",
 				"bonus": "Dealing Thorns damage to an enemy increases all damage it takes from you by x1%, up to x8%, for 10 seconds.",
 				"nameLocalized": {
 					"deDE": "Rache",
@@ -6427,20 +6427,20 @@ let paragonData = {
 					"thTH": "Revenge"
 				},
 				"descLocalized": {
-					"deDE": "Verleiht allen seltenen Knoten in Reichweite einen Bonus von +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%.",
-					"esES": "Otorga un bonus de un {32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% a todos los nodos raros al alcance.",
-					"esMX": "Otorga una bonificación del +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% a todos los nodos raros dentro del alcance.",
-					"frFR": "Confère un bonus de {32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% à tous les nœuds rares de l'ensemble.",
-					"itIT": "Fornisce un bonus del +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% a tutti i nodi rari a portata.",
-					"jaJP": "範囲内のすべてのレア・ノードに+{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%のボーナスを付与する。",
-					"koKR": "범위 내의 모든 희귀 노드에서 능력치가 추가로 +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% 증가합니다.",
-					"plPL": "Zapewnia premię +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% do wszystkich rzadkich węzłów w zasięgu.",
-					"ptBR": "Concede +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% de bônus para todos os nódulos raros em alcance.",
-					"ruRU": "Усиливает все редкие узлы в радиусе действия на +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%.",
-					"trTR": "Menzildeki tüm Nadir düğümlere +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% bonus verir.",
-					"zhCN": "给予辐射范围内所有稀有节点 +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% 加成。",
-					"zhTW": "範圍內所有稀有節點的效果 +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%。",
-					"thTH": "Rare nodes ภายในระยะจะมีผลเพิ่มขึ้น +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%."
+					"deDE": "Verleiht allen seltenen Knoten in Reichweite einen Bonus von +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}%.",
+					"esES": "Otorga un bonus de un +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}%% a todos los nodos raros al alcance.",
+					"esMX": "Otorga una bonificación del +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% a todos los nodos raros dentro del alcance.",
+					"frFR": "Confère un bonus de +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}%% à tous les nœuds rares de l'ensemble.",
+					"itIT": "Fornisce un bonus del +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% a tutti i nodi rari a portata.",
+					"jaJP": "範囲内のすべてのレア・ノードに+{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}%のボーナスを付与する。",
+					"koKR": "범위 내의 모든 희귀 노드에서 능력치가 추가로 +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% 증가합니다.",
+					"plPL": "Zapewnia premię +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% do wszystkich rzadkich węzłów w zasięgu.",
+					"ptBR": "Concede +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% de bônus para todos os nódulos raros em alcance.",
+					"ruRU": "Усиливает все редкие узлы в радиусе действия на +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}%.",
+					"trTR": "Menzildeki tüm Nadir düğümlere +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% bonus verir.",
+					"zhCN": "给予辐射范围内所有稀有节点 +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% 加成。",
+					"zhTW": "範圍內所有稀有節點的效果 +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}%。",
+					"thTH": "Rare nodes ภายในระยะจะมีผลเพิ่มขึ้น +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Das Verursachen von Dornenschaden erhöht jeglichen durch Euch erlittenen Schaden des Gegners 10 Sek. lang um x1%, bis maximal x8%.",
@@ -6516,7 +6516,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_035_Barb": {
 				"name": "Dominate",
-				"desc": "For every 5 Willpower purchased within range, you deal +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% increased Overpower damage.",
+				"desc": "For every 5 Willpower purchased within range, you deal +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% increased Overpower damage.",
 				"bonus": "After not Overpowering for 30 seconds, your next attack will Overpower.",
 				"nameLocalized": {
 					"deDE": "Dominieren",
@@ -6535,20 +6535,20 @@ let paragonData = {
 					"thTH": "Dominate"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% Überwältigungsschaden.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% más de daño de arrollamiento.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% más de daño abrumador.",
-					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% de dégâts d'accablement.",
-					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% di danni da Sopraffazione aggiuntivi.",
-					"jaJP": "範囲内で意志力5が購入されるごとに、オーバーパワーで与えるダメージが+{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%増加する。",
-					"koKR": "범위 내에서 의지력을 5 구매할 때마다 주는 제압 피해가 +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% do obrażeń od przytłoczenia.",
-					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% de dano de Golpe Brutal aumentado.",
-					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, подавляющий урон увеличивается на +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%.",
-					"trTR": "Menzilde satın alınan her 5 İrade başına +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% artırılmış Aşırı Güç hasarı verirsin.",
-					"zhCN": "每购买辐射范围内 5 点意力,你造成的压制伤害提高 +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%。",
-					"zhTW": "在範圍內每購買 5 點意志,你造成的壓制傷害就會提高 {9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%。",
-					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหาย Overpower เพิ่มขึ้น +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%."
+					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% Überwältigungsschaden.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% más de daño de arrollamiento.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%% más de daño abrumador.",
+					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% de dégâts d'accablement.",
+					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% di danni da Sopraffazione aggiuntivi.",
+					"jaJP": "範囲内で意志力5が購入されるごとに、オーバーパワーで与えるダメージが+{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% 増加する。",
+					"koKR": "범위 내에서 의지력을 5 구매할 때마다 주는 제압 피해가 +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% do obrażeń od przytłoczenia.",
+					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% de dano de Golpe Brutal aumentado.",
+					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, подавляющий урон увеличивается на +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%.",
+					"trTR": "Menzilde satın alınan her 5 İrade başına +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% artırılmış Aşırı Güç hasarı verirsin.",
+					"zhCN": "每购买辐射范围内 5 点意力,你造成的压制伤害提高 +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%。",
+					"zhTW": "在範圍內每購買 5 點意志,你造成的壓制傷害就會提高 +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%。",
+					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหาย Overpower เพิ่มขึ้น +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Nachdem Ihr 30 Sek. lang nicht überwältigt habt, überwältigt Euer nächster Angriff.",
@@ -6624,7 +6624,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_037": {
 				"name": "Brawl",
-				"desc": "Paragon nodes within range gain +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% bonus to their Physical damage and damage reduction modifiers.",
+				"desc": "Paragon nodes within range gain +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% bonus to their Physical damage and damage reduction modifiers.",
 				"bonus": "Brawling Skills deal x18% increased damage.",
 				"nameLocalized": {
 					"deDE": "Rauferei",
@@ -6643,20 +6643,20 @@ let paragonData = {
 					"thTH": "Brawl"
 				},
 				"descLocalized": {
-					"deDE": "Paragonknoten in Reichweite erhalten einen Bonus von +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% auf ihre Modifikatoren für physischen Schaden und Schadensreduktion.",
-					"esES": "Los nodos de leyenda al alcance obtienen un bonus de un {17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% para sus modificadores de daño físico y de reducción de daño.",
-					"esMX": "Los nodos Paragón dentro del alcance obtienen una bonificación del +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% en sus modificadores de daño físico y de reducción de daño.",
-					"frFR": "Les modificateurs de dégâts physiques et de réduction des dégâts des nœuds de parangon à l'intérieur de l'ensemble obtiennent un bonus de {17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%.",
-					"itIT": "I nodi dell'Eccellenza a portata ottengono un bonus del +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% ai danni fisici e ai modificatori di riduzione danni.",
-					"jaJP": "範囲内のパラゴン・ノードが、物理ダメージおよびダメージ低減について+{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%のボーナスを獲得する。",
-					"koKR": "범위 내의 정복자 노드에서 물리 피해 및 피해 감소 속성이 추가로 +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% 증가합니다.",
-					"plPL": "Węzły mistrzowskie w zasięgu zyskują +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% do modyfikatorów obrażeń Fizycznych oraz redukcji obrażeń.",
-					"ptBR": "Nódulos de Excelência em alcance recebem +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% de bônus para modificadores de dano físico e redução de dano.",
-					"ruRU": "Модификации увеличения и уменьшения физического урона усиливаются на +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% для узлов совершенствования в радиусе действия.",
-					"trTR": "Menzildeki mükemmeliyet düğümleri, Fiziksel hasar ve hasar azaltma düzenleyicilerine +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% bonus kazanır.",
-					"zhCN": "辐射范围内的巅峰节点获得 +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}% 加成至物理伤害和伤害减免。",
-					"zhTW": "範圍內顛峰節點的物理傷害和傷害減免屬性 +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%。",
-					"thTH": "Paragon nodes ภายในระยะจะได้รับการเพิ่มความเสียหาย Physical และ Damage Reduction เพิ่มขึ้น +{17.6/21.12/24.64/28.16/31.68/35.2/38.72/42.24/45.76/49.28/52.8/56.32/59.84/63.36/66.88/70.4/73.92/77.44/80.96/84.48/88}%."
+					"deDE": "Paragonknoten in Reichweite erhalten einen Bonus von +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% auf ihre Modifikatoren für physischen Schaden und Schadensreduktion.",
+					"esES": "Los nodos de leyenda al alcance obtienen un bonus de un +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}%% para sus modificadores de daño físico y de reducción de daño.",
+					"esMX": "Los nodos Paragón dentro del alcance obtienen una bonificación del +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% en sus modificadores de daño físico y de reducción de daño.",
+					"frFR": "Les modificateurs de dégâts physiques et de réduction des dégâts des nœuds de parangon à l'intérieur de l'ensemble obtiennent un bonus de +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}%%.",
+					"itIT": "I nodi dell'Eccellenza a portata ottengono un bonus del +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% ai danni fisici e ai modificatori di riduzione danni.",
+					"jaJP": "範囲内のパラゴン・ノードが、物理ダメージおよびダメージ低減について+{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}%のボーナスを獲得する。",
+					"koKR": "범위 내의 정복자 노드에서 물리 피해 및 피해 감소 속성이 추가로 +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% 증가합니다.",
+					"plPL": "Węzły mistrzowskie w zasięgu zyskują +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% do modyfikatorów obrażeń Fizycznych oraz redukcji obrażeń.",
+					"ptBR": "Nódulos de Excelência em alcance recebem +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% de bônus para modificadores de dano físico e redução de dano.",
+					"ruRU": "Модификации увеличения и уменьшения физического урона усиливаются на +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% для узлов совершенствования в радиусе действия.",
+					"trTR": "Menzildeki mükemmeliyet düğümleri, Fiziksel hasar ve hasar azaltma düzenleyicilerine +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% bonus kazanır.",
+					"zhCN": "辐射范围内的巅峰节点获得 +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}% 加成至物理伤害和伤害减免。",
+					"zhTW": "範圍內顛峰節點的物理傷害和傷害減免屬性 +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}%。",
+					"thTH": "Paragon nodes ภายในระยะจะได้รับการเพิ่มความเสียหาย Physical และ Damage Reduction เพิ่มขึ้น +{11/13.2/15.4/17.6/19.8/22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8/44/46.2/48.4/50.6/52.8/55}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Raufboldfertigkeiten verursachen x18% mehr Schaden.",
@@ -12590,7 +12590,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_035": {
 				"name": "Dominate",
-				"desc": "For every 5 Intelligence purchased within range, you deal +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% increased Overpower damage.",
+				"desc": "For every 5 Intelligence purchased within range, you deal +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% increased Overpower damage.",
 				"bonus": "When you Overpower an enemy, all damage they take from you is increased by x12% for 5 seconds.",
 				"nameLocalized": {
 					"deDE": "Dominieren",
@@ -12608,19 +12608,19 @@ let paragonData = {
 					"zhTW": "支配"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% Überwältigungsschaden.",
-					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% más de daño de arrollamiento.",
-					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un {9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% más de daño abrumador.",
-					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% de dégâts d'accablement.",
-					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% di danni da Sopraffazione aggiuntivi.",
-					"jaJP": "範囲内で知力5が購入されるごとに、オーバーパワーで与えるダメージが+{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%増加する。",
-					"koKR": "범위 내에서 지능을 5 구매할 때마다 주는 제압 피해가 +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% do obrażeń od przytłoczenia.",
-					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% de dano de Golpe Brutal aumentado.",
-					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, подавляющий урон увеличивается на +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%.",
-					"trTR": "Menzilde satın alınan her 5 Zekâ başına +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% artırılmış Aşırı Güç hasarı verirsin.",
-					"zhCN": "每购买辐射范围内 5 点智力,你造成的压制伤害提高 +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%。",
-					"zhTW": "在範圍內每購買 5 點智力你造成的壓制傷害就會提高 {9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% Überwältigungsschaden.",
+					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%% más de daño de arrollamiento.",
+					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%% más de daño abrumador.",
+					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% de dégâts d'accablement.",
+					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% di danni da Sopraffazione aggiuntivi.",
+					"jaJP": "範囲内で知力5が購入されるごとに、オーバーパワーで与えるダメージが+{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%増加する。",
+					"koKR": "범위 내에서 지능을 5 구매할 때마다 주는 제압 피해가 +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% do obrażeń od przytłoczenia.",
+					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% de dano de Golpe Brutal aumentado.",
+					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, подавляющий урон увеличивается на +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%.",
+					"trTR": "Menzilde satın alınan her 5 Zekâ başına +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% artırılmış Aşırı Güç hasarı verirsin.",
+					"zhCN": "每购买辐射范围内 5 点智力,你造成的压制伤害提高 +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%。",
+					"zhTW": "在範圍內每購買 5 點智力你造成的壓制傷害就會提高 +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr einen Gegner überwältigt, erhöht sich jeglicher von ihm durch Euch erlittene Schaden 5 Sek. lang um x12%.",
@@ -12641,7 +12641,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_039": {
 				"name": "Fang and Claw",
-				"desc": "Grants +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus to all Magic nodes within range.",
+				"desc": "Grants +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus to all Magic nodes within range.",
 				"bonus": "While in Werewolf or Werebear form, Close enemies take x12% increased damage from you.",
 				"nameLocalized": {
 					"deDE": "Reißer und Klaue",
@@ -12659,19 +12659,19 @@ let paragonData = {
 					"zhTW": "爪與牙"
 				},
 				"descLocalized": {
-					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"esES": "Otorga un bonus de un {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos al alcance.",
-					"esMX": "Otorga una bonificación del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos dentro del alcance.",
-					"frFR": "Confère un bonus de {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% à tous les nœuds magiques de l'ensemble.",
-					"itIT": "Fornisce un bonus del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a tutti i nodi magici a portata.",
-					"jaJP": "範囲内のすべてのマジック・ノードに+{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%のボーナスを付与する。",
-					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 증가합니다.",
-					"plPL": "Zapewnia premię +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% do wszystkich magicznych węzłów w zasięgu.",
-					"ptBR": "Concede +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% de bônus para todos os nódulos mágicos em alcance.",
-					"ruRU": "Усиливает все магические узлы в радиусе действия на +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"trTR": "Menzildeki tüm Sihirli düğümlere +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus verir.",
-					"zhCN": "给予辐射范围内所有魔法节点 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外提高 {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%。"
+					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"esES": "Otorga un bonus de un +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% a todos los nodos mágicos al alcance.",
+					"esMX": "Otorga una bonificación del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a todos los nodos mágicos dentro del alcance.",
+					"frFR": "Confère un bonus de +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% à tous les nœuds magiques de l'ensemble.",
+					"itIT": "Fornisce un bonus del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a tutti i nodi magici a portata.",
+					"jaJP": "範囲内のすべてのマジック・ノードに+{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%のボーナスを付与する。",
+					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 증가합니다.",
+					"plPL": "Zapewnia premię +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% do wszystkich magicznych węzłów w zasięgu.",
+					"ptBR": "Concede +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% de bônus para todos os nódulos mágicos em alcance.",
+					"ruRU": "Усиливает все магические узлы в радиусе действия на +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"trTR": "Menzildeki tüm Sihirli düğümlere +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus verir.",
+					"zhCN": "给予辐射范围内所有魔法节点 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 加成。",
+					"zhTW": "範圍內所有魔法節點的效果額外提高 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr in Gestalt eines Werwolfs oder Werbären seid, erleiden Ziele in der Nähe x12% mehr Schaden durch Euch.",
@@ -12692,7 +12692,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_040": {
 				"name": "Earth and Sky",
-				"desc": "Grants +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus to all Magic nodes within range.",
+				"desc": "Grants +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus to all Magic nodes within range.",
 				"bonus": "Nature Magic Skills deal x10% increased damage to Crowd Controlled or Vulnerable enemies.",
 				"nameLocalized": {
 					"deDE": "Erde und Himmel",
@@ -12710,19 +12710,19 @@ let paragonData = {
 					"zhTW": "大地天雷"
 				},
 				"descLocalized": {
-					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"esES": "Otorga un bonus de un {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos al alcance.",
-					"esMX": "Otorga una bonificación del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos dentro del alcance.",
-					"frFR": "Confère un bonus de {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% à tous les nœuds magiques de l'ensemble.",
-					"itIT": "Fornisce un bonus del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a tutti i nodi magici a portata.",
-					"jaJP": "範囲内のすべてのマジック・ノードに+{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%のボーナスを付与する。",
-					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 증가합니다.",
-					"plPL": "Zapewnia premię +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% do wszystkich magicznych węzłów w zasięgu.",
-					"ptBR": "Concede +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% de bônus para todos os nódulos mágicos em alcance.",
-					"ruRU": "Усиливает все магические узлы в радиусе действия на +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"trTR": "Menzildeki tüm Sihirli düğümlere +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus verir.",
-					"zhCN": "给予辐射范围内所有魔法节点 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外提高 {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%。"
+					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"esES": "Otorga un bonus de un +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% a todos los nodos mágicos al alcance.",
+					"esMX": "Otorga una bonificación del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a todos los nodos mágicos dentro del alcance.",
+					"frFR": "Confère un bonus de +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% à tous les nœuds magiques de l'ensemble.",
+					"itIT": "Fornisce un bonus del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a tutti i nodi magici a portata.",
+					"jaJP": "範囲内のすべてのマジック・ノードに+{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%のボーナスを付与する。",
+					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 증가합니다.",
+					"plPL": "Zapewnia premię +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% do wszystkich magicznych węzłów w zasięgu.",
+					"ptBR": "Concede +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% de bônus para todos os nódulos mágicos em alcance.",
+					"ruRU": "Усиливает все магические узлы в радиусе действия на +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"trTR": "Menzildeki tüm Sihirli düğümlere +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus verir.",
+					"zhCN": "给予辐射范围内所有魔法节点 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 加成。",
+					"zhTW": "範圍內所有魔法節點的效果額外提高 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Naturmagiefertigkeiten fügen Gegnern x10% mehr Schaden zu, die unter Kontrollverlusteffekten leiden oder verwundbar sind.",
@@ -12743,7 +12743,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_041": {
 				"name": "Wilds",
-				"desc": "For every 5 Intelligence within range, Companion Skills deal +{7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}% increased damage.",
+				"desc": "For every 5 Intelligence within range, Companion Skills deal +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}% increased damage.",
 				"bonus": "The Passive portion of Companion Skills deal x80% increased damage.",
 				"nameLocalized": {
 					"deDE": "Wildnis",
@@ -12761,19 +12761,19 @@ let paragonData = {
 					"zhTW": "荒野"
 				},
 				"descLocalized": {
-					"deDE": "Je 5 Intelligenzpunkte in Reichweite verursachen Gefährtenfertigkeiten +{7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}% Schaden.",
-					"esES": "Por cada 5 de inteligencia adquirida al alcance, las habilidades de compañero infligen un {7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}% más de daño.",
-					"esMX": "Por cada 5 de Inteligencia dentro del alcance, las habilidades de Compañero infligen un +{7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}% más de daño.",
-					"frFR": "Pour chaque tranche de 5 points d'intelligence à l'intérieur de l'ensemble, les compétences de compagnon infligent +{7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}% de dégâts.",
-					"itIT": "Per ogni 5 punti Intelligenza a portata, le abilità dei Compagni infliggono il +{7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}% di danni aggiuntivi.",
-					"jaJP": "範囲内の知力5ごとに、使い魔スキルで与えるダメージが+{7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}%増加する。",
-					"koKR": "범위 내의 지능 5당 동료 기술로 주는 피해가 +{7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu twoje umiejętności Kompanów zyskują premię +{7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}% do obrażeń.",
-					"ptBR": "Para cada 5 de Inteligência em alcance, habilidades de Mascote causam +{7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}% de dano aumentado.",
-					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон питомцев увеличивается на +{7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}%.",
-					"trTR": "Menzildeki her 5 Zekâ başına Yoldaş Yetenekleri +{7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}% artırılmış hasar verir.",
-					"zhCN": "每购买辐射范围内 5 点智力,你的同伴 造成的伤害提高 +{7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}%。",
-					"zhTW": "在範圍內每增加 5 點智力,同伴技能傷害就會提高 +{7.5/9/10.5/12/13.5/15/16.5/18/19.5/21/22.5/24/25.5/27/28.5/30/31.5/33/34.5/36/37.5}%。"
+					"deDE": "Je 5 Intelligenzpunkte in Reichweite verursachen Gefährtenfertigkeiten +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}% Schaden.",
+					"esES": "Por cada 5 de inteligencia adquirida al alcance, las habilidades de compañero infligen un +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}% más de daño.",
+					"esMX": "Por cada 5 de Inteligencia dentro del alcance, las habilidades de Compañero infligen un +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}% más de daño.",
+					"frFR": "Pour chaque tranche de 5 points d'intelligence à l'intérieur de l'ensemble, les compétences de compagnon infligent +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}% de dégâts.",
+					"itIT": "Per ogni 5 punti Intelligenza a portata, le abilità dei Compagni infliggono il +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}% di danni aggiuntivi.",
+					"jaJP": "範囲内の知力5ごとに、使い魔スキルで与えるダメージが+{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}%増加する。",
+					"koKR": "범위 내의 지능 5당 동료 기술로 주는 피해가 +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu twoje umiejętności Kompanów zyskują premię +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}% do obrażeń.",
+					"ptBR": "Para cada 5 de Inteligência em alcance, habilidades de Mascote causam +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}% de dano aumentado.",
+					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон питомцев увеличивается на +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}%.",
+					"trTR": "Menzildeki her 5 Zekâ başına Yoldaş Yetenekleri +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}% artırılmış hasar verir.",
+					"zhCN": "每购买辐射范围内 5 点智力,你的同伴 造成的伤害提高 +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}%。",
+					"zhTW": "在範圍內每增加 5 點智力,同伴技能傷害就會提高 +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Der passive Aspekt von Gefährtenfertigkeiten verursacht x80% mehr Schaden.",
@@ -14444,21 +14444,21 @@ let paragonData = {
 			},
 			"Generic_Magic_HPRegen": {
 				"name": "HP Regen",
-				"description": "0.7% Healing Over Time\n\nTags: Healing.",
+				"description": "+5 Healing Over Time\n\nTags: Healing.",
 				"descriptionLocalized": {
-					"deDE": "0.7% Heilung über Zeit\n\nTags: Heilung.",
-					"esES": "0.7% de curación en el tiempo\n\nTags: Curación.",
-					"esMX": "0.7% de sanación con el tiempo\n\nTags: Sanación.",
-					"frFR": "0.7% de soins sur la durée\n\nTags: Soins.",
-					"itIT": "Guarigione periodica: 0.7%\n\nTags: Guarigione.",
-					"jaJP": "時間経過時のライフ回復量0.7%\n\nTags: 回復.",
-					"koKR": "지속 치유량 0.7%\n\nTags: 치유.",
-					"plPL": "0.7% leczenia z upływem czasu\n\nTags: Leczenie.",
-					"ptBR": "0.7% de cura ao longo do tempo\n\nTags: Cura.",
-					"ruRU": "Периодическое исцеление – 0.7%\n\nTags: Исцеление.",
-					"trTR": "0.7% Zamanla İyileşme\n\nTags: İyileşme.",
-					"zhCN": "0.7% 持续治疗效果\n\nTags: 治疗.",
-					"zhTW": "持續治療效果 0.7%\n\nTags: 治療."
+					"deDE": "+5 Heilung über Zeit\n\nTags: Heilung.",
+					"esES": "+5 de curación en el tiempo\n\nTags: Curación.",
+					"esMX": "+5 de sanación con el tiempo\n\nTags: Sanación.",
+					"frFR": "+5 de soins sur la durée\n\nTags: Soins.",
+					"itIT": "Guarigione periodica: +5\n\nTags: Guarigione.",
+					"jaJP": "時間経過時のライフ回復量+5\n\nTags: 回復.",
+					"koKR": "지속 치유량 +5\n\nTags: 치유.",
+					"plPL": "+5 leczenia z upływem czasu\n\nTags: Leczenie.",
+					"ptBR": "+5 de cura ao longo do tempo\n\nTags: Cura.",
+					"ruRU": "Периодическое исцеление – +5\n\nTags: Исцеление.",
+					"trTR": "+5 Zamanla İyileşme\n\nTags: İyileşme.",
+					"zhCN": "+5 持续治疗效果\n\nTags: 治疗.",
+					"zhTW": "持續治療效果 +5\n\nTags: 治療."
 				}
 			},
 			"Generic_Magic_HealingBonus": {
@@ -16093,7 +16093,7 @@ let paragonData = {
 			},
 			"Generic_Rare_033": {
 				"name": "Recuperate",
-				"description": "+4% Potion Healing\n1.3% Healing Over Time\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Healing.",
+				"description": "+4% Potion Healing\n+10 Healing Over Time\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Healing.",
 				"nameLocalized": {
 					"deDE": "Gesundung",
 					"esES": "Recuperar",
@@ -16110,19 +16110,19 @@ let paragonData = {
 					"zhTW": "養精蓄銳"
 				},
 				"descriptionLocalized": {
-					"deDE": "+4% Heilung durch Tränke\n1.3% Heilung über Zeit\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Heilung.",
-					"esES": "+4% de curación de pociones\n1.3% de curación en el tiempo\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Curación.",
-					"esMX": "+4% de sanación de pociones\n1.3% de sanación con el tiempo\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Sanación.",
-					"frFR": "+4% de soins de la potion\n1.3% de soins sur la durée\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Soins.",
-					"itIT": "Cure pozione: +4%\nGuarigione periodica: 1.3%\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Guarigione.",
-					"jaJP": "ポーションによる回復量+4%\n時間経過時のライフ回復量1.3%\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: 回復.",
-					"koKR": "물약 치유량 +4%\n지속 치유량 1.3%\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: 치유.",
-					"plPL": "+4% do leczenia miksturą\n1.3% leczenia z upływem czasu\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Leczenie.",
-					"ptBR": "+4% de cura de poção\n1.3% de cura ao longo do tempo\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Cura.",
-					"ruRU": "+4% к исцелению от зелий\nПериодическое исцеление – 1.3%\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Исцеление.",
-					"trTR": "+4% İksir İyileştirmesi\n1.3% Zamanla İyileşme\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: İyileşme.",
-					"zhCN": "4% 药水恢复效果\n1.3% 持续治疗效果\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: 治疗.",
-					"zhTW": "藥水治療效果 +4%\n持續治療效果 1.3%\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: 治療."
+					"deDE": "+4% Heilung durch Tränke\n+10 Heilung über Zeit\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Heilung.",
+					"esES": "+4% de curación de pociones\n+10 de curación en el tiempo\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Curación.",
+					"esMX": "+4% de sanación de pociones\n+10 de sanación con el tiempo\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Sanación.",
+					"frFR": "+4% de soins de la potion\n+10 de soins sur la durée\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Soins.",
+					"itIT": "Cure pozione: +4%\nGuarigione periodica: +10\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Guarigione.",
+					"jaJP": "ポーションによる回復量+4%\n時間経過時のライフ回復量+10\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: 回復.",
+					"koKR": "물약 치유량 +4%\n지속 치유량 +10\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: 치유.",
+					"plPL": "+4% do leczenia miksturą\n+10 leczenia z upływem czasu\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Leczenie.",
+					"ptBR": "+4% de cura de poção\n+10 de cura ao longo do tempo\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Cura.",
+					"ruRU": "+4% к исцелению от зелий\nПериодическое исцеление – +10\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: Исцеление.",
+					"trTR": "+4% İksir İyileştirmesi\n+10 Zamanla İyileşme\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: İyileşme.",
+					"zhCN": "4% 药水恢复效果\n+10 持续治疗效果\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: 治疗.",
+					"zhTW": "藥水治療效果 +4%\n持續治療效果 +10\n\nBonus: Another +4% Potion Healing if requirements met:\n{thresholdRequirements}\n\nTags: 治療."
 				},
 				"thresholdRequirements": {
 					"Barbarian": [
@@ -24460,7 +24460,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_020_Necro": {
 				"name": "Control",
-				"desc": "For every 5 Intelligence purchased within range, you deal +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% increased damage to Crowd Controlled targets.",
+				"desc": "For every 5 Intelligence purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage to Crowd Controlled targets.",
 				"bonus": "You and your Minions deal x10% increased damage to Slowed or Chilled enemies or, instead, x20% increased damage to Stunned or Frozen enemies.",
 				"nameLocalized": {
 					"deDE": "Kontrolle",
@@ -24479,20 +24479,20 @@ let paragonData = {
 					"thTH": "Control"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte fügt Ihr Gegnern mit Kontrollverlust +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% Schaden zu.",
-					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño a objetivos afectados por control de masas.",
-					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño a objetivos bajo los efectos de control de multitudes.",
-					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dégâts aux cibles subissant un effet de perte de contrôle.",
-					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% di danni aggiuntivi ai bersagli sotto effetti debilitanti.",
-					"jaJP": "範囲内で知力5が購入されるごとに、操作障害効果を受けた標的に与えるダメージが+{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%増加する。",
-					"koKR": "범위 내에서 지능을 5 구매할 때마다 군중 제어 효과의 영향을 받는 대상에게 주는 피해가 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% do obrażeń przeciw celom o ograniczonej kontroli.",
-					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dano aumentado contra alvos sob controle de grupo.",
-					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон, наносимый целям под действием эффектов контроля, увеличивается на +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%.",
-					"trTR": "Menzilde satın alınan her 5 Zekâ başına Kitle Kontrolü etkisindeki hedeflere +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点智力,你对被群控的目标造成的伤害提高 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。",
-					"zhTW": "在範圍內每購買 5 點智力,你對受控場目標造成的傷害提高 {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。",
-					"thTH": "ทุก 5 Intelligence ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูที่อยู่ในสถานะ Crowd Controlled เพิ่มขึ้น +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%."
+					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte fügt Ihr Gegnern mit Kontrollverlust +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
+					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%% más de daño a objetivos afectados por control de masas.",
+					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a objetivos bajo los efectos de control de multitudes.",
+					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles subissant un effet de perte de contrôle.",
+					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli sotto effetti debilitanti.",
+					"jaJP": "範囲内で知力5が購入されるごとに、操作障害効果を受けた標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
+					"koKR": "범위 내에서 지능을 5 구매할 때마다 군중 제어 효과의 영향을 받는 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw celom o ograniczonej kontroli.",
+					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos sob controle de grupo.",
+					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон, наносимый целям под действием эффектов контроля, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
+					"trTR": "Menzilde satın alınan her 5 Zekâ başına Kitle Kontrolü etkisindeki hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点智力,你对被群控的目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
+					"zhTW": "在範圍內每購買 5 點智力,你對受控場目標造成的傷害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%%。",
+					"thTH": "ทุก 5 Intelligence ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูที่อยู่ในสถานะ Crowd Controlled เพิ่มขึ้น +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr und Eure Diener fügen verlangsamten oder unterkühlten Gegnern x10% mehr Schaden und betäubten oder eingefrorenen Gegnern x20% mehr Schaden zu.",
@@ -24622,7 +24622,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_035_Necro": {
 				"name": "Dominate",
-				"desc": "For every 5 Willpower purchased within range, you deal +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% increased Overpower damage.",
+				"desc": "For every 5 Willpower purchased within range, you deal +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% increased Overpower damage.",
 				"bonus": "When you Overpower an enemy, all damage they take from you and your Minions is increased by x12% for 5 seconds.",
 				"nameLocalized": {
 					"deDE": "Dominieren",
@@ -24641,20 +24641,20 @@ let paragonData = {
 					"thTH": "Dominate"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% Überwältigungsschaden.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% más de daño de arrollamiento.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% más de daño abrumador.",
-					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% de dégâts d'accablement.",
-					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% di danni da Sopraffazione aggiuntivi.",
-					"jaJP": "範囲内で意志力5が購入されるごとに、オーバーパワーで与えるダメージが+{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%増加する。",
-					"koKR": "범위 내에서 의지력을 5 구매할 때마다 주는 제압 피해가 +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% do obrażeń od przytłoczenia.",
-					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% de dano de Golpe Brutal aumentado.",
-					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, подавляющий урон увеличивается на +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%.",
-					"trTR": "Menzilde satın alınan her 5 İrade başına +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}% artırılmış Aşırı Güç hasarı verirsin.",
-					"zhCN": "每购买辐射范围内 5 点意力,你造成的压制伤害提高 +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%。",
-					"zhTW": "在範圍內每購買 5 點意志,你造成的壓制傷害就會提高 {9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%。",
-					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหาย Overpower เพิ่มขึ้น +{9/10.8/12.6/14.4/16.2/18/19.8/21.6/23.4/25.2/27/28.8/30.6/32.4/34.2/36/37.8/39.6/41.4/43.2/45}%"
+					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% Überwältigungsschaden.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%% más de daño de arrollamiento.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%% más de daño abrumador.",
+					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% de dégâts d'accablement.",
+					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% di danni da Sopraffazione aggiuntivi.",
+					"jaJP": "範囲内で意志力5が購入されるごとに、オーバーパワーで与えるダメージが+{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%増加する。",
+					"koKR": "범위 내에서 의지력을 5 구매할 때마다 주는 제압 피해가 +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% do obrażeń od przytłoczenia.",
+					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% de dano de Golpe Brutal aumentado.",
+					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, подавляющий урон увеличивается на +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%.",
+					"trTR": "Menzilde satın alınan her 5 İrade başına +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}% artırılmış Aşırı Güç hasarı verirsin.",
+					"zhCN": "每购买辐射范围内 5 点意力,你造成的压制伤害提高 +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%。",
+					"zhTW": "在範圍內每購買 5 點意志,你造成的壓制傷害就會提高 +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%%。",
+					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหาย Overpower เพิ่มขึ้น +{6/7.2/8.4/9.6/10.8/12/13.2/14.4/15.6/16.8/18/19.2/20.4/21.6/22.8/24/25.2/26.4/27.6/28.8/30}%"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr einen Gegner überwältigt, erhöht sich jeglicher von ihm durch Euch und Eure Diener erlittene Schaden 5 Sek. lang um x12%.",
@@ -24946,7 +24946,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_069": {
 				"name": "Sacrificial",
-				"desc": "Grants +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus to all Magic nodes within range.",
+				"desc": "Grants +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus to all Magic nodes within range.",
 				"bonus": "You deal x10% increased damage while you have no active Minions.",
 				"nameLocalized": {
 					"deDE": "Aufopferung",
@@ -24965,20 +24965,20 @@ let paragonData = {
 					"thTH": "Sacrificial"
 				},
 				"descLocalized": {
-					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"esES": "Otorga un bonus de un {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos al alcance.",
-					"esMX": "Otorga una bonificación del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos dentro del alcance.",
-					"frFR": "Confère un bonus de {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% à tous les nœuds magiques de l'ensemble.",
-					"itIT": "Fornisce un bonus del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a tutti i nodi magici a portata.",
-					"jaJP": "範囲内のすべてのマジック・ノードに+{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%のボーナスを付与する。",
-					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 증가합니다.",
-					"plPL": "Zapewnia premię +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% do wszystkich magicznych węzłów w zasięgu.",
-					"ptBR": "Concede +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% de bônus para todos os nódulos mágicos em alcance.",
-					"ruRU": "Усиливает все магические узлы в радиусе действия на +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"trTR": "Menzildeki tüm Sihirli düğümlere +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus verir.",
-					"zhCN": "给予辐射范围内所有魔法节点 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外提高 {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%。",
-					"thTH": "Magic nodes ภายในระยะจะมีผลเพิ่มขึ้น +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%."
+					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"esES": "Otorga un bonus de un +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% a todos los nodos mágicos al alcance.",
+					"esMX": "Otorga una bonificación del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a todos los nodos mágicos dentro del alcance.",
+					"frFR": "Confère un bonus de +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% à tous les nœuds magiques de l'ensemble.",
+					"itIT": "Fornisce un bonus del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a tutti i nodi magici a portata.",
+					"jaJP": "範囲内のすべてのマジック・ノードに+{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%のボーナスを付与する。",
+					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 증가합니다.",
+					"plPL": "Zapewnia premię +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% do wszystkich magicznych węzłów w zasięgu.",
+					"ptBR": "Concede +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% de bônus para todos os nódulos mágicos em alcance.",
+					"ruRU": "Усиливает все магические узлы в радиусе действия на +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"trTR": "Menzildeki tüm Sihirli düğümlere +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus verir.",
+					"zhCN": "给予辐射范围内所有魔法节点 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 加成。",
+					"zhTW": "範圍內所有魔法節點的效果額外提高 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%%。",
+					"thTH": "Magic nodes ภายในระยะจะมีผลเพิ่มขึ้น +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr verursacht x10% mehr Schaden, solange Ihr keine aktiven Diener habt.",
@@ -25000,7 +25000,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_070": {
 				"name": "Blood-drinker",
-				"desc": "Grants +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus to all Magic nodes within range.",
+				"desc": "Grants +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus to all Magic nodes within range.",
 				"bonus": "Blood Orbs Fortify you for 6.7% of your Maximum Life.",
 				"nameLocalized": {
 					"deDE": "Bluttrinker",
@@ -25019,20 +25019,20 @@ let paragonData = {
 					"thTH": "Blood-drinker"
 				},
 				"descLocalized": {
-					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"esES": "Otorga un bonus de un {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos al alcance.",
-					"esMX": "Otorga una bonificación del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos dentro del alcance.",
-					"frFR": "Confère un bonus de {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% à tous les nœuds magiques de l'ensemble.",
-					"itIT": "Fornisce un bonus del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a tutti i nodi magici a portata.",
-					"jaJP": "範囲内のすべてのマジック・ノードに+{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%のボーナスを付与する。",
-					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 증가합니다.",
-					"plPL": "Zapewnia premię +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% do wszystkich magicznych węzłów w zasięgu.",
-					"ptBR": "Concede +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% de bônus para todos os nódulos mágicos em alcance.",
-					"ruRU": "Усиливает все магические узлы в радиусе действия на +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"trTR": "Menzildeki tüm Sihirli düğümlere +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus verir.",
-					"zhCN": "给予辐射范围内所有魔法节点 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外提高 {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%。",
-					"thTH": "Magic nodes ภายในระยะจะมีผลเพิ่มขึ้น +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%."
+					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"esES": "Otorga un bonus de un +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% a todos los nodos mágicos al alcance.",
+					"esMX": "Otorga una bonificación del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a todos los nodos mágicos dentro del alcance.",
+					"frFR": "Confère un bonus de +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% à tous les nœuds magiques de l'ensemble.",
+					"itIT": "Fornisce un bonus del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a tutti i nodi magici a portata.",
+					"jaJP": "範囲内のすべてのマジック・ノードに+{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%のボーナスを付与する。",
+					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 증가합니다.",
+					"plPL": "Zapewnia premię +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% do wszystkich magicznych węzłów w zasięgu.",
+					"ptBR": "Concede +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% de bônus para todos os nódulos mágicos em alcance.",
+					"ruRU": "Усиливает все магические узлы в радиусе действия на +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"trTR": "Menzildeki tüm Sihirli düğümlere +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus verir.",
+					"zhCN": "给予辐射范围内所有魔法节点 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 加成。",
+					"zhTW": "範圍內所有魔法節點的效果額外提高 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%%。",
+					"thTH": "Magic nodes ภายในระยะจะมีผลเพิ่มขึ้น +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Blutkugeln verleihen Euch Stählung in Höhe von 6.7% Eures maximalen Lebens.",
@@ -25054,7 +25054,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_071": {
 				"name": "Deadraiser",
-				"desc": "Paragon nodes within range gain +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% bonus to their Minion damage and damage reduction modifiers.",
+				"desc": "Paragon nodes within range gain +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% bonus to their Minion damage and damage reduction modifiers.",
 				"bonus": "Whenever your Minions deal damage to an enemy, that enemy takes x1% increased damage from you and your Minions, up to x12%, for 10 seconds.",
 				"nameLocalized": {
 					"deDE": "Totenbeleber",
@@ -25073,20 +25073,20 @@ let paragonData = {
 					"thTH": "Deadraiser"
 				},
 				"descLocalized": {
-					"deDE": "Paragonknoten in Reichweite erhalten einen Bonus von +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% auf ihre Modifikatoren für Dienerschaden und Schadensreduktion.",
-					"esES": "Los nodos de leyenda al alcance obtienen un bonus de un {32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% para sus modificadores de daño de esbirros y de reducción de daño.",
-					"esMX": "Los nodos Paragón dentro del alcance obtienen una bonificación del +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% en sus modificadores de daño de esbirro y de reducción de daño.",
-					"frFR": "Les modificateurs de dégâts des serviteurs et de réduction des dégâts des nœuds de parangon à l'intérieur de l'ensemble obtiennent un bonus de {32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%.",
-					"itIT": "I nodi dell'Eccellenza a portata ottengono un bonus del +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% ai danni dei servitori e ai modificatori di riduzione danni.",
-					"jaJP": "範囲内のパラゴン・ノードが、ミニオンのダメージおよびダメージ低減について+{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%のボーナスを獲得する。",
-					"koKR": "범위 내의 정복자 노드에서 하수인 피해 및 피해 감소 속성이 추가로 +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% 증가합니다.",
-					"plPL": "Węzły mistrzowskie znajdujące się w zasięgu zyskują premię +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% do modyfikatorów obrażeń sług oraz redukcji obrażeń.",
-					"ptBR": "Nódulos de Excelência em alcance recebem +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% de bônus para modificadores de dano de lacaio e redução de dano.",
-					"ruRU": "Модификации урона прислужников и уменьшения урона усиливаются на +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% для узлов совершенствования в радиусе действия.",
-					"trTR": "Menzildeki mükemmeliyet düğümleri, Yardakçı hasarı ve hasar azaltma düzenleyicilerine +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% bonus kazanır.",
-					"zhCN": "辐射范围内的巅峰节点获得 +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}% 加成至仆从伤害和伤害减免。",
-					"zhTW": "範圍內顛峰節點的僕從傷害和僕從傷害減免特性效果額外提高 {32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%",
-					"thTH": "Paragon nodes ภายในระยะจะได้รับการเพิ่มความเสียหายของสมุน และ Damage Reduction เพิ่มขึ้น +{32/38.4/44.8/51.2/57.6/64/70.4/76.8/83.2/89.6/96/102.4/108.8/115.2/121.6/128/134.4/140.8/147.2/153.6/160}%."
+					"deDE": "Paragonknoten in Reichweite erhalten einen Bonus von +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% auf ihre Modifikatoren für Dienerschaden und Schadensreduktion.",
+					"esES": "Los nodos de leyenda al alcance obtienen un bonus de un +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}%% para sus modificadores de daño de esbirros y de reducción de daño.",
+					"esMX": "Los nodos Paragón dentro del alcance obtienen una bonificación del +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% en sus modificadores de daño de esbirro y de reducción de daño.",
+					"frFR": "Les modificateurs de dégâts des serviteurs et de réduction des dégâts des nœuds de parangon à l'intérieur de l'ensemble obtiennent un bonus de +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}%%.",
+					"itIT": "I nodi dell'Eccellenza a portata ottengono un bonus del +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% ai danni dei servitori e ai modificatori di riduzione danni.",
+					"jaJP": "範囲内のパラゴン・ノードが、ミニオンのダメージおよびダメージ低減について+{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}%のボーナスを獲得する。",
+					"koKR": "범위 내의 정복자 노드에서 하수인 피해 및 피해 감소 속성이 추가로 +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% 증가합니다.",
+					"plPL": "Węzły mistrzowskie znajdujące się w zasięgu zyskują premię +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% do modyfikatorów obrażeń sług oraz redukcji obrażeń.",
+					"ptBR": "Nódulos de Excelência em alcance recebem +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% de bônus para modificadores de dano de lacaio e redução de dano.",
+					"ruRU": "Модификации урона прислужников и уменьшения урона усиливаются на +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% для узлов совершенствования в радиусе действия.",
+					"trTR": "Menzildeki mükemmeliyet düğümleri, Yardakçı hasarı ve hasar azaltma düzenleyicilerine +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% bonus kazanır.",
+					"zhCN": "辐射范围内的巅峰节点获得 +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}% 加成至仆从伤害和伤害减免。",
+					"zhTW": "範圍內顛峰節點的僕從傷害和僕從傷害減免特性效果額外提高 +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}%%",
+					"thTH": "Paragon nodes ภายในระยะจะได้รับการเพิ่มความเสียหายของสมุน และ Damage Reduction เพิ่มขึ้น +{20/24/28/32/36/40/44/48/52/56/60/64/68/72/76/80/84/88/92/96/100}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Jedes Mal, wenn Eure Diener einem Gegner Schaden zufügen, erleidet dieser Gegner 10 Sek. lang x1% mehr Schaden durch Euch und Eure Diener, bis maximal x12%.",
@@ -25162,7 +25162,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_073": {
 				"name": "Amplify",
-				"desc": "Grants +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus to all Magic nodes within range.",
+				"desc": "Grants +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus to all Magic nodes within range.",
 				"bonus": "Enemies affected by Curse Skills take x10% increased damage from you and your Minions.",
 				"nameLocalized": {
 					"deDE": "Verstärken",
@@ -25181,20 +25181,20 @@ let paragonData = {
 					"thTH": "Amplify"
 				},
 				"descLocalized": {
-					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"esES": "Otorga un bonus de un {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos al alcance.",
-					"esMX": "Otorga una bonificación del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos dentro del alcance.",
-					"frFR": "Confère un bonus de {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% à tous les nœuds magiques de l'ensemble.",
-					"itIT": "Fornisce un bonus del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a tutti i nodi magici a portata.",
-					"jaJP": "範囲内のすべてのマジック・ノードに+{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%のボーナスを付与する。",
-					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 증가합니다.",
-					"plPL": "Zapewnia premię +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% do wszystkich magicznych węzłów w zasięgu.",
-					"ptBR": "Concede +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% de bônus para todos os nódulos mágicos em alcance.",
-					"ruRU": "Усиливает все магические узлы в радиусе действия на +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"trTR": "Menzildeki tüm Sihirli düğümlere +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus verir.",
-					"zhCN": "给予辐射范围内所有魔法节点 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外提高 {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%。",
-					"thTH": "Magic nodes ภายในระยะจะมีผลเพิ่มขึ้น +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%."
+					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"esES": "Otorga un bonus de un +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% a todos los nodos mágicos al alcance.",
+					"esMX": "Otorga una bonificación del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a todos los nodos mágicos dentro del alcance.",
+					"frFR": "Confère un bonus de +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% à tous les nœuds magiques de l'ensemble.",
+					"itIT": "Fornisce un bonus del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a tutti i nodi magici a portata.",
+					"jaJP": "範囲内のすべてのマジック・ノードに+{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%のボーナスを付与する。",
+					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 증가합니다.",
+					"plPL": "Zapewnia premię +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% do wszystkich magicznych węzłów w zasięgu.",
+					"ptBR": "Concede +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% de bônus para todos os nódulos mágicos em alcance.",
+					"ruRU": "Усиливает все магические узлы в радиусе действия на +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"trTR": "Menzildeki tüm Sihirli düğümlere +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus verir.",
+					"zhCN": "给予辐射范围内所有魔法节点 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 加成。",
+					"zhTW": "範圍內所有魔法節點的效果額外提高 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%%。",
+					"thTH": "Magic nodes ภายในระยะจะมีผลเพิ่มขึ้น +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Gegner, die von Fluchfertigkeiten betroffen sind, erleiden x10% mehr Schaden durch Euch und Eure Diener.",
@@ -30654,7 +30654,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_020": {
 				"name": "Control",
-				"desc": "For every 5 Intelligence purchased within range, you deal +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% increased damage to Crowd Controlled targets.",
+				"desc": "For every 5 Intelligence purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage to Crowd Controlled targets.",
 				"bonus": "You deal x10% increased damage to Slowed or Chilled enemies or, instead, x20% increased damage to Stunned or Frozen enemies.",
 				"nameLocalized": {
 					"deDE": "Kontrolle",
@@ -30672,19 +30672,19 @@ let paragonData = {
 					"zhTW": "控制"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte fügt Ihr Gegnern mit Kontrollverlust +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% Schaden zu.",
-					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño a objetivos afectados por control de masas.",
-					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño a objetivos bajo los efectos de control de multitudes.",
-					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dégâts aux cibles subissant un effet de perte de contrôle.",
-					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% di danni aggiuntivi ai bersagli sotto effetti debilitanti.",
-					"jaJP": "範囲内で知力5が購入されるごとに、操作障害効果を受けた標的に与えるダメージが+{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%増加する。",
-					"koKR": "범위 내에서 지능을 5 구매할 때마다 군중 제어 효과의 영향을 받는 대상에게 주는 피해가 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% do obrażeń przeciw celom o ograniczonej kontroli.",
-					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dano aumentado contra alvos sob controle de grupo.",
-					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон, наносимый целям под действием эффектов контроля, увеличивается на +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%.",
-					"trTR": "Menzilde satın alınan her 5 Zekâ başına Kitle Kontrolü etkisindeki hedeflere +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点智力,你对被群控的目标造成的伤害提高 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。",
-					"zhTW": "在範圍內每購買 5 點智力,你對受控場目標造成的傷害提高 {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte fügt Ihr Gegnern mit Kontrollverlust +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
+					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%% más de daño a objetivos afectados por control de masas.",
+					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a objetivos bajo los efectos de control de multitudes.",
+					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles subissant un effet de perte de contrôle.",
+					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli sotto effetti debilitanti.",
+					"jaJP": "範囲内で知力5が購入されるごとに、操作障害効果を受けた標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
+					"koKR": "범위 내에서 지능을 5 구매할 때마다 군중 제어 효과의 영향을 받는 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw celom o ograniczonej kontroli.",
+					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos sob controle de grupo.",
+					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон, наносимый целям под действием эффектов контроля, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
+					"trTR": "Menzilde satın alınan her 5 Zekâ başına Kitle Kontrolü etkisindeki hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点智力,你对被群控的目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
+					"zhTW": "在範圍內每購買 5 點智力,你對受控場目標造成的傷害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr fügt verlangsamten oder unterkühlten Gegnern x10% mehr Schaden und betäubten oder eingefrorenen Gegnern x20% mehr Schaden zu.",
@@ -30807,7 +30807,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_052": {
 				"name": "Versatility",
-				"desc": "Grants +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus to all Magic nodes within range.",
+				"desc": "Grants +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus to all Magic nodes within range.",
 				"bonus": "Non-Basic and Non-Core Skills deal x15% increased damage.",
 				"nameLocalized": {
 					"deDE": "Vielseitigkeit",
@@ -30825,19 +30825,19 @@ let paragonData = {
 					"zhTW": "臨機應變"
 				},
 				"descLocalized": {
-					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"esES": "Otorga un bonus de un {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos al alcance.",
-					"esMX": "Otorga una bonificación del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos dentro del alcance.",
-					"frFR": "Confère un bonus de {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% à tous les nœuds magiques de l'ensemble.",
-					"itIT": "Fornisce un bonus del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a tutti i nodi magici a portata.",
-					"jaJP": "範囲内のすべてのマジック・ノードに+{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%のボーナスを付与する。",
-					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 증가합니다.",
-					"plPL": "Zapewnia premię +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% do wszystkich magicznych węzłów w zasięgu.",
-					"ptBR": "Concede +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% de bônus para todos os nódulos mágicos em alcance.",
-					"ruRU": "Усиливает все магические узлы в радиусе действия на +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"trTR": "Menzildeki tüm Sihirli düğümlere +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus verir.",
-					"zhCN": "给予辐射范围内所有魔法节点 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外提高 {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%。"
+					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"esES": "Otorga un bonus de un +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% a todos los nodos mágicos al alcance.",
+					"esMX": "Otorga una bonificación del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a todos los nodos mágicos dentro del alcance.",
+					"frFR": "Confère un bonus de +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% à tous les nœuds magiques de l'ensemble.",
+					"itIT": "Fornisce un bonus del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a tutti i nodi magici a portata.",
+					"jaJP": "範囲内のすべてのマジック・ノードに+{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%のボーナスを付与する。",
+					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 증가합니다.",
+					"plPL": "Zapewnia premię +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% do wszystkich magicznych węzłów w zasięgu.",
+					"ptBR": "Concede +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% de bônus para todos os nódulos mágicos em alcance.",
+					"ruRU": "Усиливает все магические узлы в радиусе действия на +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"trTR": "Menzildeki tüm Sihirli düğümlere +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus verir.",
+					"zhCN": "给予辐射范围内所有魔法节点 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 加成。",
+					"zhTW": "範圍內所有魔法節點的效果額外提高 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Fertigkeiten, die keine Basis- oder Kernfertigkeiten sind, verursachen x15% mehr Schaden.",
@@ -31011,7 +31011,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_056": {
 				"name": "Frostfeeder",
-				"desc": "For every 5 Dexterity purchased within range, you deal +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% increased damage to Chilled targets.",
+				"desc": "For every 5 Dexterity purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage to Chilled targets.",
 				"bonus": "You gain x20% increased Chill effect.",
 				"nameLocalized": {
 					"deDE": "Frostfresser",
@@ -31029,19 +31029,19 @@ let paragonData = {
 					"zhTW": "沃霜"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr unterkühlten Zielen +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% Schaden zu.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño a objetivos helados.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño a los objetivos helados.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dégâts aux cibles glacées.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% di danni aggiuntivi ai bersagli raggelati.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、冷気状態の標的に与えるダメージが+{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 오한을 느끼는 대상에게 주는 피해가 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% do obrażeń przeciw wyziębionym celom.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dano aumentado contra alvos com gelidez.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый окоченевшим целям, увеличивается на +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Soğutma uygulanmış hedeflere +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你对冻伤目标造成的伤害提高 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對冰冷目標造成的傷害提高 {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr unterkühlten Zielen +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%% más de daño a objetivos helados.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%% más de daño a los objetivos helados.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles glacées.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli raggelati.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、冷気状態の標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 오한을 느끼는 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw wyziębionym celom.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos com gelidez.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый окоченевшим целям, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Soğutma uygulanmış hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你对冻伤目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,你對冰冷目標造成的傷害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Euer Unterkühlungseffekt ist um x20% erhöht.",
@@ -31062,7 +31062,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_057": {
 				"name": "Fluidity",
-				"desc": "Grants +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus to all Magic nodes within range.",
+				"desc": "Grants +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus to all Magic nodes within range.",
 				"bonus": "When you cast an Agility Skill, you gain x9% increased Energy Regeneration for 6 seconds.",
 				"nameLocalized": {
 					"deDE": "Fluidität",
@@ -31080,19 +31080,19 @@ let paragonData = {
 					"zhTW": "流暢"
 				},
 				"descLocalized": {
-					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"esES": "Otorga un bonus de un {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos al alcance.",
-					"esMX": "Otorga una bonificación del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos dentro del alcance.",
-					"frFR": "Confère un bonus de {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% à tous les nœuds magiques de l'ensemble.",
-					"itIT": "Fornisce un bonus del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a tutti i nodi magici a portata.",
-					"jaJP": "範囲内のすべてのマジック・ノードに+{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%のボーナスを付与する。",
-					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 증가합니다.",
-					"plPL": "Zapewnia premię +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% do wszystkich magicznych węzłów w zasięgu.",
-					"ptBR": "Concede +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% de bônus para todos os nódulos mágicos em alcance.",
-					"ruRU": "Усиливает все магические узлы в радиусе действия на +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"trTR": "Menzildeki tüm Sihirli düğümlere +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus verir.",
-					"zhCN": "给予辐射范围内所有魔法节点 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外提高 {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%。"
+					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"esES": "Otorga un bonus de un +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% a todos los nodos mágicos al alcance.",
+					"esMX": "Otorga una bonificación del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a todos los nodos mágicos dentro del alcance.",
+					"frFR": "Confère un bonus de +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% à tous les nœuds magiques de l'ensemble.",
+					"itIT": "Fornisce un bonus del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a tutti i nodi magici a portata.",
+					"jaJP": "範囲内のすべてのマジック・ノードに+{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%のボーナスを付与する。",
+					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 증가합니다.",
+					"plPL": "Zapewnia premię +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% do wszystkich magicznych węzłów w zasięgu.",
+					"ptBR": "Concede +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% de bônus para todos os nódulos mágicos em alcance.",
+					"ruRU": "Усиливает все магические узлы в радиусе действия на +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"trTR": "Menzildeki tüm Sihirli düğümlere +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus verir.",
+					"zhCN": "给予辐射范围内所有魔法节点 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 加成。",
+					"zhTW": "範圍內所有魔法節點的效果額外提高 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr eine Wendigkeitsfertigkeit wirkt, erhaltet Ihr 6 Sek. lang x9% mehr Energieregeneration.",
@@ -31113,7 +31113,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_058": {
 				"name": "Infusion",
-				"desc": "For every 5 Intelligence purchased within range, Skills that are Imbued deal +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% increased damage.",
+				"desc": "For every 5 Intelligence purchased within range, Skills that are Imbued deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage.",
 				"bonus": "Casting an Imbuement Skill reduces the active Cooldown of another random Imbuement Skill by 0.5 seconds.",
 				"nameLocalized": {
 					"deDE": "Infusion",
@@ -31131,19 +31131,19 @@ let paragonData = {
 					"zhTW": "灌注"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursachen Fertigkeiten mit aktiven Infusionen +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% Schaden.",
-					"esES": "Por cada 5 de inteligencia adquirida al alcance, las habilidades imbuidas infligen un {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño.",
-					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, las habilidades de imbuición infligen un +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño.",
-					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vos compétences imprégnées infligent +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dégâts.",
-					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, le abilità di Infusione infliggono il +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% di danni aggiuntivi.",
-					"jaJP": "範囲内で知力5が購入されるごとに、注入を受けたスキルが与えるダメージが+{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%増加する。",
-					"koKR": "범위 내에서 지능을 5 구매할 때마다 주입된 기술로 주는 피해가 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu twoje nasycone umiejętności zyskują premię +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% do obrażeń.",
-					"ptBR": "Para cada 5 de Inteligência comprados em alcance, habilidades de Imbuição causam +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dano aumentado.",
-					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон от умений с эффектом насыщения увеличивается на +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%.",
-					"trTR": "Menzilde satın alınan her 5 Zekâ başına Aşılı Yetenekler +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% artırılmış hasar verir.",
-					"zhCN": "每购买辐射范围内 5 点智力,灌注的技能造成的伤害提高 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。",
-					"zhTW": "在範圍內每購買 5 點智力,灌注強化的技能造成的傷害提高 {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursachen Fertigkeiten mit aktiven Infusionen +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden.",
+					"esES": "Por cada 5 de inteligencia adquirida al alcance, las habilidades imbuidas infligen un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%% más de daño.",
+					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, las habilidades de imbuición infligen un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño.",
+					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vos compétences imprégnées infligent +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts.",
+					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, le abilità di Infusione infliggono il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi.",
+					"jaJP": "範囲内で知力5が購入されるごとに、注入を受けたスキルが与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
+					"koKR": "범위 내에서 지능을 5 구매할 때마다 주입된 기술로 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu twoje nasycone umiejętności zyskują premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń.",
+					"ptBR": "Para cada 5 de Inteligência comprados em alcance, habilidades de Imbuição causam +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado.",
+					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон от умений с эффектом насыщения увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
+					"trTR": "Menzilde satın alınan her 5 Zekâ başına Aşılı Yetenekler +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verir.",
+					"zhCN": "每购买辐射范围内 5 点智力,灌注的技能造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
+					"zhTW": "在範圍內每購買 5 點智力,灌注強化的技能造成的傷害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr eine Infusionsfertigkeit einsetzt, verringert sich die aktive Abklingzeit einer anderen zufälligen Infusionsfertigkeit um 0.5 Sek.",
@@ -31164,7 +31164,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_059": {
 				"name": "Devious",
-				"desc": "Grants +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus to all Magic nodes within range.",
+				"desc": "Grants +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus to all Magic nodes within range.",
 				"bonus": "When you hit an enemy with an attack that applies a Crowd Control effect, they take x2%, up to x10%, increased damage from you for 20 seconds.",
 				"nameLocalized": {
 					"deDE": "Verschlagen",
@@ -31182,19 +31182,19 @@ let paragonData = {
 					"zhTW": "狡詐"
 				},
 				"descLocalized": {
-					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"esES": "Otorga un bonus de un {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos al alcance.",
-					"esMX": "Otorga una bonificación del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos dentro del alcance.",
-					"frFR": "Confère un bonus de {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% à tous les nœuds magiques de l'ensemble.",
-					"itIT": "Fornisce un bonus del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a tutti i nodi magici a portata.",
-					"jaJP": "範囲内のすべてのマジック・ノードに+{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%のボーナスを付与する。",
-					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 증가합니다.",
-					"plPL": "Zapewnia premię +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% do wszystkich magicznych węzłów w zasięgu.",
-					"ptBR": "Concede +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% de bônus para todos os nódulos mágicos em alcance.",
-					"ruRU": "Усиливает все магические узлы в радиусе действия на +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"trTR": "Menzildeki tüm Sihirli düğümlere +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus verir.",
-					"zhCN": "给予辐射范围内所有魔法节点 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外提高 {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%。"
+					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"esES": "Otorga un bonus de un +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% a todos los nodos mágicos al alcance.",
+					"esMX": "Otorga una bonificación del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a todos los nodos mágicos dentro del alcance.",
+					"frFR": "Confère un bonus de +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% à tous les nœuds magiques de l'ensemble.",
+					"itIT": "Fornisce un bonus del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a tutti i nodi magici a portata.",
+					"jaJP": "範囲内のすべてのマジック・ノードに+{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%のボーナスを付与する。",
+					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 증가합니다.",
+					"plPL": "Zapewnia premię +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% do wszystkich magicznych węzłów w zasięgu.",
+					"ptBR": "Concede +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% de bônus para todos os nódulos mágicos em alcance.",
+					"ruRU": "Усиливает все магические узлы в радиусе действия на +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"trTR": "Menzildeki tüm Sihirli düğümlere +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus verir.",
+					"zhCN": "给予辐射范围内所有魔法节点 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 加成。",
+					"zhTW": "範圍內所有魔法節點的效果額外提高 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr einen Gegner mit einem Angriff trefft, der ihn mit einem Kontrollverlusteffekt belegt, erleidet er 20 Sek. lang x2% mehr Schaden, bis maximal x10%.",
@@ -37393,7 +37393,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_002": {
 				"name": "Unleash",
-				"desc": "Grants +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus to all Magic nodes within range.",
+				"desc": "Grants +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus to all Magic nodes within range.",
 				"bonus": "After spending 50 Mana, you deal x6.7% increased damage and gain 6.7% increased Mana Regeneration for 3 seconds.",
 				"nameLocalized": {
 					"deDE": "Entfesseln",
@@ -37411,19 +37411,19 @@ let paragonData = {
 					"zhTW": "釋放"
 				},
 				"descLocalized": {
-					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"esES": "Otorga un bonus de un {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos al alcance.",
-					"esMX": "Otorga una bonificación del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a todos los nodos mágicos dentro del alcance.",
-					"frFR": "Confère un bonus de {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% à tous les nœuds magiques de l'ensemble.",
-					"itIT": "Fornisce un bonus del +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% a tutti i nodi magici a portata.",
-					"jaJP": "範囲内のすべてのマジック・ノードに+{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%のボーナスを付与する。",
-					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 증가합니다.",
-					"plPL": "Zapewnia premię +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% do wszystkich magicznych węzłów w zasięgu.",
-					"ptBR": "Concede +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% de bônus para todos os nódulos mágicos em alcance.",
-					"ruRU": "Усиливает все магические узлы в радиусе действия на +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%.",
-					"trTR": "Menzildeki tüm Sihirli düğümlere +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% bonus verir.",
-					"zhCN": "给予辐射范围内所有魔法节点 +{48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外提高 {48/57.6/67.2/76.8/86.4/96/105.6/115.2/124.8/134.4/144/153.6/163.2/172.8/182.4/192/201.6/211.2/220.8/230.4/240}%。"
+					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"esES": "Otorga un bonus de un +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% a todos los nodos mágicos al alcance.",
+					"esMX": "Otorga una bonificación del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a todos los nodos mágicos dentro del alcance.",
+					"frFR": "Confère un bonus de +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%% à tous les nœuds magiques de l'ensemble.",
+					"itIT": "Fornisce un bonus del +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% a tutti i nodi magici a portata.",
+					"jaJP": "範囲内のすべてのマジック・ノードに+{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%のボーナスを付与する。",
+					"koKR": "범위 내의 모든 마법 노드에서 능력치가 추가로 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 증가합니다.",
+					"plPL": "Zapewnia premię +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% do wszystkich magicznych węzłów w zasięgu.",
+					"ptBR": "Concede +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% de bônus para todos os nódulos mágicos em alcance.",
+					"ruRU": "Усиливает все магические узлы в радиусе действия на +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
+					"trTR": "Menzildeki tüm Sihirli düğümlere +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus verir.",
+					"zhCN": "给予辐射范围内所有魔法节点 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 加成。",
+					"zhTW": "範圍內所有魔法節點的效果額外提高 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr 50 Mana verbraucht, verursacht Ihr 3 Sek. lang x6.7% mehr Schaden und Euer Mana regeneriert sich 6.7% schneller.",
@@ -37495,7 +37495,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_004": {
 				"name": "Adept",
-				"desc": "For every 5 Intelligence within range, Mastery Skills gain +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% increased damage.",
+				"desc": "For every 5 Intelligence within range, Mastery Skills gain +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage.",
 				"bonus": "Mastery Skills have 20% increased area.",
 				"nameLocalized": {
 					"deDE": "Adept",
@@ -37513,19 +37513,19 @@ let paragonData = {
 					"zhTW": "專家"
 				},
 				"descLocalized": {
-					"deDE": "Je 5 Intelligenzpunkte in Reichweite erhalten Eure Beherrschungsfertigkeiten +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% Schaden.",
-					"esES": "Por cada 5 de inteligencia adquirida al alcance, las habilidades de dominio infligen un {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño.",
-					"esMX": "Por cada 5 de Inteligencia dentro del alcance, las habilidades de Dominio infligen un +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño.",
-					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vos compétences de maîtrise infligent +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dégâts.",
-					"itIT": "Per ogni 5 punti Intelligenza a portata, le abilità di Dominio ottengono il +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% di danni aggiuntivi.",
-					"jaJP": "範囲内の知力5ごとに、達人スキルで与えるダメージが{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%増加する。",
-					"koKR": "범위 내의 지능 5당 숙련 기술로 주는 피해가 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. inteligencji zakupione w zasięgu, twoje umiejętności Mistrzostwa zyskują premię +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% do obrażeń.",
-					"ptBR": "Para cada 5 de Inteligência em alcance, habilidades de Maestria recebem +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dano aumentado.",
-					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон от умений категории \"Мастер\" увеличивается на +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%.",
-					"trTR": "Menzildeki her 5 Zekâ başına Ustalık Yetenekleri +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% artırılmış hasar kazanır.",
-					"zhCN": "每购买辐射范围内 5 点智力,你的掌控技能造成的伤害提高 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。",
-					"zhTW": "在範圍內每增加 5 點智力,你的精通技能傷害就會提高 {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。"
+					"deDE": "Je 5 Intelligenzpunkte in Reichweite erhalten Eure Beherrschungsfertigkeiten +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden.",
+					"esES": "Por cada 5 de inteligencia adquirida al alcance, las habilidades de dominio infligen un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%% más de daño.",
+					"esMX": "Por cada 5 de Inteligencia dentro del alcance, las habilidades de Dominio infligen un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño.",
+					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vos compétences de maîtrise infligent +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts.",
+					"itIT": "Per ogni 5 punti Intelligenza a portata, le abilità di Dominio ottengono il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi.",
+					"jaJP": "範囲内の知力5ごとに、達人スキルで与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%%増加する。",
+					"koKR": "범위 내의 지능 5당 숙련 기술로 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. inteligencji zakupione w zasięgu, twoje umiejętności Mistrzostwa zyskują premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń.",
+					"ptBR": "Para cada 5 de Inteligência em alcance, habilidades de Maestria recebem +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado.",
+					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон от умений категории \"Мастер\" увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
+					"trTR": "Menzildeki her 5 Zekâ başına Ustalık Yetenekleri +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar kazanır.",
+					"zhCN": "每购买辐射范围内 5 点智力,你的掌控技能造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
+					"zhTW": "在範圍內每增加 5 點智力,你的精通技能傷害就會提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Beherrschungsfertigkeiten haben einen 20% größeren Wirkungsbereich.",
@@ -37750,7 +37750,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_009": {
 				"name": "Frostbite",
-				"desc": "For every 5 Willpower purchased within range, you deal +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% increased damage to Chilled targets.",
+				"desc": "For every 5 Willpower purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage to Chilled targets.",
 				"bonus": "Enemies deal 13.3% reduced damage to you for 5 seconds after they are no longer Frozen.",
 				"nameLocalized": {
 					"deDE": "Frostbeulen",
@@ -37768,19 +37768,19 @@ let paragonData = {
 					"zhTW": "霜凍"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte fügt Ihr unterkühlten Gegnern +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% Schaden zu.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño a objetivos helados.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño a los objetivos helados.",
-					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dégâts aux cibles glacées.",
-					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% di danni aggiuntivi ai bersagli raggelati.",
-					"jaJP": "範囲内で意志力5が購入されるごとに、冷気状態の標的に与えるダメージが+{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%増加する。",
-					"koKR": "범위 내에서 의지력을 5 구매할 때마다 오한을 느끼는 대상에게 주는 피해가 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% do obrażeń przeciw celom wyziębionym.",
-					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dano aumentado contra alvos com gelidez.",
-					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон, наносимый окоченевшим целям, увеличивается на +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%.",
-					"trTR": "Menzilde satın alınan her 5 İrade başına Soğutma uygulanmış hedeflere +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点意力,你对冻伤目标造成的伤害提高 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。",
-					"zhTW": "在範圍內每購買 5 點意志,你對冰冷目標造成的傷害提高 {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte fügt Ihr unterkühlten Gegnern +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%% más de daño a objetivos helados.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%% más de daño a los objetivos helados.",
+					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles glacées.",
+					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli raggelati.",
+					"jaJP": "範囲内で意志力5が購入されるごとに、冷気状態の標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
+					"koKR": "범위 내에서 의지력을 5 구매할 때마다 오한을 느끼는 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw celom wyziębionym.",
+					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos com gelidez.",
+					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон, наносимый окоченевшим целям, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
+					"trTR": "Menzilde satın alınan her 5 İrade başına Soğutma uygulanmış hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点意力,你对冻伤目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
+					"zhTW": "在範圍內每購買 5 點意志,你對冰冷目標造成的傷害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Gegner verursachen 5 Sek. lang 13.3% weniger Schaden, nachdem sie nicht länger eingefroren sind.",
@@ -38209,7 +38209,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_020": {
 				"name": "Control",
-				"desc": "For every 5 Dexterity purchased within range, you deal +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% increased damage to Crowd Controlled targets.",
+				"desc": "For every 5 Dexterity purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage to Crowd Controlled targets.",
 				"bonus": "You deal x10% increased damage to Slowed or Chilled enemies or, instead, x20% increased damage to Stunned or Frozen enemies.",
 				"nameLocalized": {
 					"deDE": "Kontrolle",
@@ -38227,19 +38227,19 @@ let paragonData = {
 					"zhTW": "控制"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr Gegnern mit Kontrollverlust +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% Schaden zu.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño a objetivos afectados por control de masas.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% más de daño a objetivos bajo los efectos de control de multitudes.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dégâts aux cibles subissant un effet de perte de contrôle.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% di danni aggiuntivi ai bersagli sotto effetti debilitanti.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、操作障害効果を受けた標的に与えるダメージが+{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 군중 제어 효과의 영향을 받는 대상에게 주는 피해가 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% do obrażeń przeciw celom o ograniczonej kontroli.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% de dano aumentado contra alvos sob controle de grupo.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый целям под действием эффектов контроля, увеличивается на +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Kitle Kontrolü etkisindeki hedeflere +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你对被群控的目标造成的伤害提高 +{4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對受控場目標造成的傷害提高 {4.5/5.4/6.3/7.2/8.1/9/9.9/10.8/11.7/12.6/13.5/14.4/15.3/16.2/17.1/18/18.9/19.8/20.7/21.6/22.5}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr Gegnern mit Kontrollverlust +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%% más de daño a objetivos afectados por control de masas.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%% más de daño a objetivos bajo los efectos de control de multitudes.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles subissant un effet de perte de contrôle.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli sotto effetti debilitanti.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、操作障害効果を受けた標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 군중 제어 효과의 영향을 받는 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw celom o ograniczonej kontroli.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos sob controle de grupo.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый целям под действием эффектов контроля, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Kitle Kontrolü etkisindeki hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你对被群控的目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,你對受控場目標造成的傷害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr fügt verlangsamten oder unterkühlten Gegnern x10% mehr Schaden und betäubten oder eingefrorenen Gegnern x20% mehr Schaden zu.",
