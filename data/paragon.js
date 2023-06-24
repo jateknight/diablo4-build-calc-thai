@@ -5618,8 +5618,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% Schaden, solange Ihr gesund seid.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}% más de daño en estado saludable.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}% más de daño mientras estás saludable.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% más de daño en estado saludable.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% más de daño mientras estás saludable.",
 					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% de dégâts lorsque vous êtes en bonne santé.",
 					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% di danni aggiuntivi quando sei in salute.",
 					"jaJP": "範囲内で意志力5が購入されるごとに、健全状態時に与えるダメージが+{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%増加する。",
@@ -5629,7 +5629,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, наносимый урон при высоком уровне здоровья увеличивается на +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%.",
 					"trTR": "Menzilde satın alınan her 5 İrade başına Sağlıklıyken +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点意力,你在健康状态下造成的伤害提高 +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%。",
-					"zhTW": "在範圍內每購買 5 點意志,健康時造成的傷害就會提高 {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}%。",
+					"zhTW": "在範圍內每購買 5 點意志,健康時造成的傷害就會提高 {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%。",
 					"thTH": "ทุก 5 Willpower ที่คุณซื้อในระยะ, คุณจะทำความเสียหายในขณะที่อยู่ในสถานะ Healthy เพิ่มขึ้น +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%."
 				},
 				"bonusLocalized": {
@@ -5671,19 +5671,19 @@ let paragonData = {
 					"thTH": "Territorial"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr Gegnern in der Nähe +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a objetivos cercanos.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a los objetivos cercanos.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles à proximité.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli vicini.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、近距離の標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 근거리에 있는 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw pobliskim celom.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos próximos.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый ближним целям, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Yakın hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你对近距目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對近距離目標造成的傷害提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr Gegnern in der Nähe +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden zu.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a objetivos cercanos.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a los objetivos cercanos.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts aux cibles à proximité.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi ai bersagli vicini.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、近距離の標的に与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 근거리에 있는 대상에게 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń przeciw pobliskim celom.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado contra alvos próximos.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый ближним целям, увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Yakın hedeflere +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你对近距目标造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,你對近距離目標造成的傷害提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
 					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูที่อยู่ใกล้ตัวเพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%."
 				},
 				"bonusLocalized": {
@@ -5725,18 +5725,18 @@ let paragonData = {
 					"thTH": "Exploit"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} Schaden zu.",
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% Schaden zu.",
 					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a objetivos vulnerables.",
 					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a los objetivos vulnerables.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} de dégâts aux cibles vulnérables.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} di danni aggiuntivi ai bersagli vulnerabili.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 취약 상태의 대상에게 주는 피해가 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} do obrażeń przeciw odsłoniętym celom.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} de dano aumentado contra alvos vulneráveis.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dégâts aux cibles vulnérables.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% di danni aggiuntivi ai bersagli vulnerabili.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 취약 상태의 대상에게 주는 피해가 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% do obrażeń przeciw odsłoniętym celom.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dano aumentado contra alvos vulneráveis.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
 					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。",
 					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูที่อยู่ในสถานะ Vulnerable เพิ่มขึ้น +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%."
 				},
@@ -12303,8 +12303,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% Schaden, solange Ihr gesund seid.",
-					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}% más de daño en estado saludable.",
-					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}% más de daño mientras estás saludable.",
+					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% más de daño en estado saludable.",
+					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% más de daño mientras estás saludable.",
 					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% de dégâts lorsque vous êtes en bonne santé.",
 					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% di danni aggiuntivi quando sei in salute.",
 					"jaJP": "範囲内で知力5が購入されるごとに、健全状態時に与えるダメージが+{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%増加する。",
@@ -12314,7 +12314,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, наносимый урон при высоком уровне здоровья увеличивается на +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%.",
 					"trTR": "Menzilde satın alınan her 5 Zekâ başına Sağlıklıyken +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点智力,你在健康状态下造成的伤害提高 +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%。",
-					"zhTW": "在範圍內每購買 5 點智力,健康時造成的傷害就會提高 {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}%。"
+					"zhTW": "在範圍內每購買 5 點智力,健康時造成的傷害就會提高 {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet +30% mehr Heilung durch Tränke.",
@@ -12437,7 +12437,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_014": {
 				"name": "Territorial",
-				"desc": "For every 5 Dexterity purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage to Close targets.",
+				"desc": "For every 5 Dexterity purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage to Close targets.",
 				"bonus": "You gain 10% Damage Reduction against Close enemies.",
 				"nameLocalized": {
 					"deDE": "Territorial",
@@ -12455,19 +12455,19 @@ let paragonData = {
 					"zhTW": "地盤"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr Gegnern in der Nähe +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a objetivos cercanos.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a los objetivos cercanos.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles à proximité.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli vicini.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、近距離の標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 근거리에 있는 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw pobliskim celom.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos próximos.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый ближним целям, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Yakın hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你对近距目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對近距離目標造成的傷害提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr Gegnern in der Nähe +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden zu.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a objetivos cercanos.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a los objetivos cercanos.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts aux cibles à proximité.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi ai bersagli vicini.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、近距離の標的に与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 근거리에 있는 대상에게 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń przeciw pobliskim celom.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado contra alvos próximos.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый ближним целям, увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Yakın hedeflere +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你对近距目标造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,你對近距離目標造成的傷害提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet Sek. lang 10% Schadensreduktion gegen Gegner in der Nähe.",
@@ -12488,7 +12488,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_016": {
 				"name": "Exploit",
-				"desc": "For every 5 Dexterity purchased within range, you deal +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} increased damage to Vulnerable targets.",
+				"desc": "For every 5 Dexterity purchased within range, you deal +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% increased damage to Vulnerable targets.",
 				"bonus": "When an enemy is damaged by you, they become Vulnerable for 3 seconds. This cannot happen more than once every 20 seconds per enemy.",
 				"nameLocalized": {
 					"deDE": "Ausbeuten",
@@ -12506,18 +12506,18 @@ let paragonData = {
 					"zhTW": "剝削手段"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} Schaden zu.",
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% Schaden zu.",
 					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a objetivos vulnerables.",
 					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a los objetivos vulnerables.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} de dégâts aux cibles vulnérables.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} di danni aggiuntivi ai bersagli vulnerabili.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 취약 상태의 대상에게 주는 피해가 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} do obrażeń przeciw odsłoniętym celom.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} de dano aumentado contra alvos vulneráveis.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dégâts aux cibles vulnérables.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% di danni aggiuntivi ai bersagli vulnerabili.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 취약 상태의 대상에게 주는 피해가 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% do obrażeń przeciw odsłoniętym celom.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dano aumentado contra alvos vulneráveis.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
 					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。"
 				},
 				"bonusLocalized": {
@@ -12539,7 +12539,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_034": {
 				"name": "Undaunted",
-				"desc": "For every 5 Intelligence purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage while Fortified.",
+				"desc": "For every 5 Intelligence purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage while Fortified.",
 				"bonus": "You gain up to 10% Damage Reduction the more Fortify you have.",
 				"nameLocalized": {
 					"deDE": "Unerschrocken",
@@ -12557,19 +12557,19 @@ let paragonData = {
 					"zhTW": "無懼"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden, während Ihr gestählt seid.",
-					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño mientras tienes fortificación.",
-					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño mientras tienes fortificación.",
-					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts quand vous bénéficiez d'une fortification.",
-					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi quando hai Fortificazione.",
-					"jaJP": "範囲内で知力5が購入されるごとに、強化中に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 지능을 5 구매할 때마다 보강 상태에서 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń, gdy posiadasz umocnienie.",
-					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado sob fortificação.",
-					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, наносимый урон во время эффекта укрепления увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Zekâ başına Güçlendirilmişken +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点智力,你在强固状态下造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點智力,強韌時造成的傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden, während Ihr gestählt seid.",
+					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño mientras tienes fortificación.",
+					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño mientras tienes fortificación.",
+					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts quand vous bénéficiez d'une fortification.",
+					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi quando hai Fortificazione.",
+					"jaJP": "範囲内で知力5が購入されるごとに、強化中に与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 지능을 5 구매할 때마다 보강 상태에서 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń, gdy posiadasz umocnienie.",
+					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado sob fortificação.",
+					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, наносимый урон во время эффекта укрепления увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Zekâ başına Güçlendirilmişken +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点智力,你在强固状态下造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點智力,強韌時造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet bis zu 10% Schadensreduktion, je mehr Stählung Ihr besitzt.",
@@ -12794,7 +12794,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_042": {
 				"name": "Werebear",
-				"desc": "For every 5 Willpower purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage while in Werebear form.",
+				"desc": "For every 5 Willpower purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage while in Werebear form.",
 				"bonus": "You gain 10% Damage Reduction while in Werebear form.",
 				"nameLocalized": {
 					"deDE": "Werbär",
@@ -12812,19 +12812,19 @@ let paragonData = {
 					"zhTW": "熊人"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden, während Ihr in Werbärgestalt seid.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño mientras estás en forma de hombre oso.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño mientras estás en forma de hombre oso.",
-					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts sous forme ursoïde.",
-					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi in forma di Orso Mannaro.",
-					"jaJP": "範囲内で意志力5が購入されるごとに、人熊形態で与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 의지력을 5 구매할 때마다 곰인간 형상일 때 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń, gdy jesteś w postaci niedźwiedziołaka.",
-					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado enquanto estiver na forma de urso.",
-					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон в облике медведя увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 İrade başına Ayı Adam formundayken +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点意力,熊人形态下造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點意志,熊人形態下造成的傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden, während Ihr in Werbärgestalt seid.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño mientras estás en forma de hombre oso.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño mientras estás en forma de hombre oso.",
+					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts sous forme ursoïde.",
+					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi in forma di Orso Mannaro.",
+					"jaJP": "範囲内で意志力5が購入されるごとに、人熊形態で与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 의지력을 5 구매할 때마다 곰인간 형상일 때 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń, gdy jesteś w postaci niedźwiedziołaka.",
+					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado enquanto estiver na forma de urso.",
+					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон в облике медведя увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 İrade başına Ayı Adam formundayken +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点意力,熊人形态下造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點意志,熊人形態下造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "In Werbärgestalt erhaltet Ihr 10% Schadensreduktion.",
@@ -12845,7 +12845,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_043": {
 				"name": "Werewolf",
-				"desc": "For every 5 Willpower purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage while in Werewolf form.",
+				"desc": "For every 5 Willpower purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage while in Werewolf form.",
 				"bonus": "You gain 10% Damage Reduction while in Werewolf form.",
 				"nameLocalized": {
 					"deDE": "Werwolf",
@@ -12863,19 +12863,19 @@ let paragonData = {
 					"zhTW": "狼人"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden, während Ihr in Werwolfgestalt seid.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño mientras estás en forma de hombre lobo.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño mientras estás en forma de hombre lobo.",
-					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts sous forme lycanthropique.",
-					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi in forma di Lupo Mannaro.",
-					"jaJP": "範囲内で意志力5が購入されるごとに、人狼形態で与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 의지력을 5 구매할 때마다 늑대인간 형상일 때 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń, gdy jesteś w postaci wilkołaka.",
-					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado enquanto estiver na forma de lobisomem.",
-					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон в облике волка увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 İrade başına Kurt Adam formundayken +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点意力,狼人形态下造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點意志,狼人形態下造成的傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden, während Ihr in Werwolfgestalt seid.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño mientras estás en forma de hombre lobo.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño mientras estás en forma de hombre lobo.",
+					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts sous forme lycanthropique.",
+					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi in forma di Lupo Mannaro.",
+					"jaJP": "範囲内で意志力5が購入されるごとに、人狼形態で与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 의지력을 5 구매할 때마다 늑대인간 형상일 때 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń, gdy jesteś w postaci wilkołaka.",
+					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado enquanto estiver na forma de lobisomem.",
+					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон в облике волка увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 İrade başına Kurt Adam formundayken +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点意力,狼人形态下造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點意志,狼人形態下造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "In Werwolfgestalt erhaltet Ihr 10% Schadensreduktion.",
@@ -12896,7 +12896,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_044": {
 				"name": "Human",
-				"desc": "For every 5 Willpower purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage while in Human form.",
+				"desc": "For every 5 Willpower purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage while in Human form.",
 				"bonus": "You gain 10% Damage Reduction while in Human form.",
 				"nameLocalized": {
 					"deDE": "Mensch",
@@ -12914,19 +12914,19 @@ let paragonData = {
 					"zhTW": "人類"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden, wenn Ihr in Menschengestalt seid.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño mientras estás en forma humana.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño mientras estás en forma humana.",
-					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts sous forme humaine.",
-					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi in forma umana.",
-					"jaJP": "範囲内で意志力5が購入されるごとに、人間形態で与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 의지력을 5 구매할 때마다 인간 형상일 때 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń, gdy jesteś w postaci człowieka.",
-					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado enquanto estiver na forma humana.",
-					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон в облике человека увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 İrade başına İnsan formundayken +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点意力,你在人类形态下造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點意志,人類形態下造成的傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden, wenn Ihr in Menschengestalt seid.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño mientras estás en forma humana.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño mientras estás en forma humana.",
+					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts sous forme humaine.",
+					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi in forma umana.",
+					"jaJP": "範囲内で意志力5が購入されるごとに、人間形態で与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 의지력을 5 구매할 때마다 인간 형상일 때 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń, gdy jesteś w postaci człowieka.",
+					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado enquanto estiver na forma humana.",
+					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон в облике человека увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 İrade başına İnsan formundayken +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点意力,你在人类形态下造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點意志,人類形態下造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "In Menschengestalt erhaltet Ihr 10% Schadensreduktion.",
@@ -12947,7 +12947,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_045": {
 				"name": "Bane",
-				"desc": "For every 5 Intelligence purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased Poison damage.",
+				"desc": "For every 5 Intelligence purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased Poison damage.",
 				"bonus": "Poisoning damage effects have a 10% chance to deal double the amount of damage over their duration.",
 				"nameLocalized": {
 					"deDE": "Bann",
@@ -12965,19 +12965,19 @@ let paragonData = {
 					"zhTW": "災禍"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Giftschaden.",
-					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de veneno.",
-					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de veneno.",
-					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts de poison.",
-					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni da veleno aggiuntivi.",
-					"jaJP": "範囲内で知力5が購入されるごとに、与える毒ダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 지능을 5 구매할 때마다 주는 독 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń od Trucizny.",
-					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano venenoso aumentado.",
-					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон от яда увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Zekâ başına +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış Zehir hasarı verirsin.",
-					"zhCN": "每购买辐射范围内 5 点智力,你造成的毒素伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點智力,造成的毒素傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Giftschaden.",
+					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de veneno.",
+					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de veneno.",
+					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts de poison.",
+					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni da veleno aggiuntivi.",
+					"jaJP": "範囲内で知力5が購入されるごとに、与える毒ダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 지능을 5 구매할 때마다 주는 독 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń od Trucizny.",
+					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano venenoso aumentado.",
+					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон от яда увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Zekâ başına +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Zehir hasarı verirsin.",
+					"zhCN": "每购买辐射范围内 5 点智力,你造成的毒素伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點智力,造成的毒素傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Giftschadeneffekte verfügen über eine Chance von 10%, im Verlauf ihrer Wirkungsdauer die doppelte Menge Schaden zu verursachen.",
@@ -13049,7 +13049,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_047": {
 				"name": "Fulminate",
-				"desc": "For every 5 Dexterity purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased Lightning damage.",
+				"desc": "For every 5 Dexterity purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased Lightning damage.",
 				"bonus": "You deal x12% increased Lightning damage to both Healthy and Injured enemies.",
 				"nameLocalized": {
 					"deDE": "Entladen",
@@ -13067,19 +13067,19 @@ let paragonData = {
 					"zhTW": "爆發"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursacht Ihr +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Blitzschaden.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de rayos.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de rayo.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts de foudre.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni da fulmine aggiuntivi.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、与える電撃ダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 주는 번개 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń od Błyskawic.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano elétrico aumentado.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон от молнии увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış Yıldırım hasarı verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你造成的闪电伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,造成的電擊傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Blitzschaden.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de rayos.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de rayo.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts de foudre.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni da fulmine aggiuntivi.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、与える電撃ダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 주는 번개 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń od Błyskawic.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano elétrico aumentado.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон от молнии увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Yıldırım hasarı verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你造成的闪电伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,造成的電擊傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr fügt sowohl gesunden als auch verletzten Gegnern x12% mehr Blitzschaden zu.",
@@ -13100,7 +13100,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_048": {
 				"name": "Tracker",
-				"desc": "For every 5 Dexterity purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage to Poisoned targets.",
+				"desc": "For every 5 Dexterity purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage to Poisoned targets.",
 				"bonus": "Poisoning damage effects last x33.3% longer.",
 				"nameLocalized": {
 					"deDE": "Verfolger",
@@ -13118,19 +13118,19 @@ let paragonData = {
 					"zhTW": "追跡者"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr vergifteten Gegnern +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a objetivos envenenados.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a los objetivos envenenados.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles empoisonnées.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli avvelenati.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、毒状態の標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 중독 상태의 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw zatrutym celom.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos envenenados.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый отравленным целям, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Zehirlenmiş hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你对中毒目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對中毒目標造成的傷害提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr vergifteten Gegnern +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden zu.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a objetivos envenenados.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a los objetivos envenenados.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts aux cibles empoisonnées.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi ai bersagli avvelenati.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、毒状態の標的に与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 중독 상태의 대상에게 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń przeciw zatrutym celom.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado contra alvos envenenados.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый отравленным целям, увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Zehirlenmiş hedeflere +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你对中毒目标造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,你對中毒目標造成的傷害提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Giftschadeneffekte halten x33.3% länger an.",
@@ -13202,7 +13202,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_050": {
 				"name": "Spirit",
-				"desc": "For every 5 Dexterity purchased within range, Core Skills deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased Critical Strike Damage.",
+				"desc": "For every 5 Dexterity purchased within range, Core Skills deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased Critical Strike Damage.",
 				"bonus": "Critical Strikes increase the damage an enemy takes from you by x2% for 20 seconds, up to x12%.",
 				"nameLocalized": {
 					"deDE": "Geist",
@@ -13220,19 +13220,19 @@ let paragonData = {
 					"zhTW": "靈魂"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Kernfertigkeiten +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% kritischen Trefferschaden.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades principales infligen un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de golpe crítico.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, las habilidades principales infligen un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de golpe crítico.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vos compétences principales infligent +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts critiques.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, le abilità Primarie infliggono il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni critici aggiuntivi.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、コアスキルのクリティカルヒットダメージジが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 핵심 기술로 주는 극대화 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupione w zasięgu twoje umiejętności Główne zadają obrażenia od trafień krytycznych zwiększone o +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, habilidades principais causam +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano de acerto crítico aumentado.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, критический урон от основных умений увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Çekirdek Yetenekler +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış Kritik Vuruş Hasarı verir.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,核心技能造成的暴击伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,核心技能造成的爆擊傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Kernfertigkeiten +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% kritischen Trefferschaden.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades principales infligen un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de golpe crítico.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, las habilidades principales infligen un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de golpe crítico.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vos compétences principales infligent +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts critiques.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, le abilità Primarie infliggono il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni critici aggiuntivi.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、コアスキルのクリティカルヒットダメージジが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 핵심 기술로 주는 극대화 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupione w zasięgu twoje umiejętności Główne zadają obrażenia od trafień krytycznych zwiększone o +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, habilidades principais causam +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano de acerto crítico aumentado.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, критический урон от основных умений увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Çekirdek Yetenekler +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Kritik Vuruş Hasarı verir.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,核心技能造成的暴击伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,核心技能造成的爆擊傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Kritische Treffer erhöhen jeglichen vom Gegner durch Euch erlittenen Schaden 20 Sek. lang um x2%, bis maximal x12%.",
@@ -24372,8 +24372,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% Schaden, solange Ihr gesund seid.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}% más de daño en estado saludable.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}% más de daño mientras estás saludable.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% más de daño en estado saludable.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% más de daño mientras estás saludable.",
 					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% de dégâts lorsque vous êtes en bonne santé.",
 					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% di danni aggiuntivi quando sei in salute.",
 					"jaJP": "範囲内で意志力5が購入されるごとに、健全状態時に与えるダメージが+{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%増加する。",
@@ -24383,7 +24383,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, наносимый урон при высоком уровне здоровья увеличивается на +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%.",
 					"trTR": "Menzilde satın alınan her 5 İrade başına Sağlıklıyken +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点意力,你在健康状态下造成的伤害提高 +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%。",
-					"zhTW": "在範圍內每購買 5 點意志,健康時造成的傷害就會提高 {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}%。",
+					"zhTW": "在範圍內每購買 5 點意志,健康時造成的傷害就會提高 {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%。",
 					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายขณะที่อยู่ในสถานะ Healthy เพิ่มขึ้น  +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%."
 				},
 				"bonusLocalized": {
@@ -24406,7 +24406,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_014": {
 				"name": "Territorial",
-				"desc": "For every 5 Dexterity purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage to Close targets.",
+				"desc": "For every 5 Dexterity purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage to Close targets.",
 				"bonus": "You gain 10% Damage Reduction against Close enemies.",
 				"nameLocalized": {
 					"deDE": "Territorial",
@@ -24425,20 +24425,20 @@ let paragonData = {
 					"thTH": "Territorial"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr Gegnern in der Nähe +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a objetivos cercanos.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a los objetivos cercanos.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles à proximité.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli vicini.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、近距離の標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 근거리에 있는 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw pobliskim celom.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos próximos.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый ближним целям, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Yakın hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你对近距目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對近距離目標造成的傷害提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูใกล้ตัวเพิ่มขึ้น +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%."
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr Gegnern in der Nähe +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden zu.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a objetivos cercanos.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a los objetivos cercanos.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts aux cibles à proximité.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi ai bersagli vicini.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、近距離の標的に与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 근거리에 있는 대상에게 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń przeciw pobliskim celom.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado contra alvos próximos.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый ближним целям, увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Yakın hedeflere +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你对近距目标造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,你對近距離目標造成的傷害提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูใกล้ตัวเพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet Sek. lang 10% Schadensreduktion gegen Gegner in der Nähe.",
@@ -24892,7 +24892,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_066": {
 				"name": "Essence",
-				"desc": "For every 5 Dexterity purchased within range, Core Skills deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased Critical Strike Damage.",
+				"desc": "For every 5 Dexterity purchased within range, Core Skills deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased Critical Strike Damage.",
 				"bonus": "Critical Strikes deal x22% increased damage to enemies that are not Healthy.",
 				"nameLocalized": {
 					"deDE": "Essenz",
@@ -24911,20 +24911,20 @@ let paragonData = {
 					"thTH": "Essence"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Kernfertigkeiten +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% kritischen Trefferschaden.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades principales infligen un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de golpe crítico.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, las habilidades principales infligen un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de golpe crítico.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vos compétences principales infligent +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts critiques.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, le abilità Primarie infliggono il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni critici aggiuntivi.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、コアスキルのクリティカルヒットダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 핵심 기술로 주는 극대화 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupione w zasięgu twoje umiejętności Główne zyskują premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń od trafień krytycznych.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, habilidades principais causam +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano de acerto crítico aumentado.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, критический урон от основных умений увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Çekirdek Yetenekler +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış Kritik Vuruş Hasarı verir.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,核心技能造成的暴击伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,核心技能造成的爆擊傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, สกิล Core ทำความเสียหาย Critical เพิ่มขึ้น +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%."
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Kernfertigkeiten +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% kritischen Trefferschaden.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades principales infligen un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de golpe crítico.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, las habilidades principales infligen un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de golpe crítico.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vos compétences principales infligent +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts critiques.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, le abilità Primarie infliggono il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni critici aggiuntivi.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、コアスキルのクリティカルヒットダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 핵심 기술로 주는 극대화 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupione w zasięgu twoje umiejętności Główne zyskują premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń od trafień krytycznych.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, habilidades principais causam +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano de acerto crítico aumentado.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, критический урон от основных умений увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Çekirdek Yetenekler +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Kritik Vuruş Hasarı verir.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,核心技能造成的暴击伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,核心技能造成的爆擊傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, สกิล Core ทำความเสียหาย Critical เพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Kritische Treffer fügen nicht gesunden Gegnern x22% mehr Schaden zu.",
@@ -25270,7 +25270,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_075": {
 				"name": "Scourge",
-				"desc": "For every 5 Willpower purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased Shadow damage over time.",
+				"desc": "For every 5 Willpower purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased Shadow damage over time.",
 				"bonus": "You and your Minions deal x10% increased damage to enemies affected by Shadow damage over time effects.",
 				"nameLocalized": {
 					"deDE": "Geißel",
@@ -25289,20 +25289,20 @@ let paragonData = {
 					"thTH": "Scourge"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schattenschaden über Zeit.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de sombra en el tiempo.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de sombra con el tiempo.",
-					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts d'ombre sur la durée.",
-					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni periodici da ombra aggiuntivi nel tempo.",
-					"jaJP": "範囲内で意志力5が購入されるごとに、継続シャドウダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 의지력을 5 구매할 때마다 주는 지속 암흑 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń od Cienia z upływem czasu.",
-					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano de sombra ao longo do tempo aumentado.",
-					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, периодический урон от темной магии увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 İrade başına +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış zamanla Gölge hasarı verirsin.",
-					"zhCN": "每购买辐射范围内 5 点意力,你造成的持续性暗影伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點意志,造成的暗影持續傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหาย Shadow แบบต่อเนื่องเพิ่มขึ้น +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%."
+					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schattenschaden über Zeit.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de sombra en el tiempo.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de sombra con el tiempo.",
+					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts d'ombre sur la durée.",
+					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni periodici da ombra aggiuntivi nel tempo.",
+					"jaJP": "範囲内で意志力5が購入されるごとに、継続シャドウダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 의지력을 5 구매할 때마다 주는 지속 암흑 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń od Cienia z upływem czasu.",
+					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano de sombra ao longo do tempo aumentado.",
+					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, периодический урон от темной магии увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 İrade başına +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış zamanla Gölge hasarı verirsin.",
+					"zhCN": "每购买辐射范围内 5 点意力,你造成的持续性暗影伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點意志,造成的暗影持續傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหาย Shadow แบบต่อเนื่องเพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr und Eure Diener fügen Gegnern, die von Schattenschaden-über-Zeit-Effekten betroffen sind, x10% mehr Schaden zu.",
@@ -25324,7 +25324,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_078": {
 				"name": "Darkness",
-				"desc": "For every 5 Willpower purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased Shadow damage.",
+				"desc": "For every 5 Willpower purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased Shadow damage.",
 				"bonus": "Whenever you or your Minions deal Shadow damage to an enemy, that enemy deals 2% reduced damage, up to 10%, for 5 seconds.",
 				"nameLocalized": {
 					"deDE": "Dunkelheit",
@@ -25343,20 +25343,20 @@ let paragonData = {
 					"thTH": "Darkness"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schattenschaden.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de sombra.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de sombra.",
-					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts d'ombre.",
-					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni da ombra aggiuntivi nel tempo.",
-					"jaJP": "範囲内で意志力5が購入されるごとに、与えるシャドウダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 의지력을 5 구매할 때마다 주는 암흑 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń od Cienia.",
-					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano de sombra aumentado.",
-					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон от темной магии увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 İrade başına +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış Gölge hasarı verirsin.",
-					"zhCN": "每购买辐射范围内 5 点意力,你造成的暗影伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點意志,造成的暗影傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหาย Shadow เพิ่มขึ้น +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%."
+					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schattenschaden.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de sombra.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de sombra.",
+					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts d'ombre.",
+					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni da ombra aggiuntivi nel tempo.",
+					"jaJP": "範囲内で意志力5が購入されるごとに、与えるシャドウダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 의지력을 5 구매할 때마다 주는 암흑 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń od Cienia.",
+					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano de sombra aumentado.",
+					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон от темной магии увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 İrade başına +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Gölge hasarı verirsin.",
+					"zhCN": "每购买辐射范围内 5 点意力,你造成的暗影伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點意志,造成的暗影傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"thTH": "ทุก 5 Willpower ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหาย Shadow เพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Jedes Mal, wenn Ihr oder Eure Diener einem Gegner Schattenschaden zufügen, verursacht dieser Gegner 5 Sek. lang 2% weniger Schaden, bis maximal 10%.",
@@ -25378,7 +25378,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_079": {
 				"name": "Exploit",
-				"desc": "For every 5 Dexterity purchased within range, you deal +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} increased damage to Vulnerable targets.",
+				"desc": "For every 5 Dexterity purchased within range, you deal +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% increased damage to Vulnerable targets.",
 				"bonus": "Dealing damage to a Vulnerable enemy increases your damage by x1% for 6 seconds, up to x10%.",
 				"nameLocalized": {
 					"deDE": "Ausbeuten",
@@ -25397,20 +25397,20 @@ let paragonData = {
 					"thTH": "Exploit"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} Schaden zu.",
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% Schaden zu.",
 					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a objetivos vulnerables.",
 					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a los objetivos vulnerables.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} de dégâts aux cibles vulnérables.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} di danni aggiuntivi ai bersagli vulnerabili.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 취약 상태의 대상에게 주는 피해가 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} do obrażeń przeciw odsłoniętym celom.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} de dano aumentado contra alvos vulneráveis.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dégâts aux cibles vulnérables.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% di danni aggiuntivi ai bersagli vulnerabili.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 취약 상태의 대상에게 주는 피해가 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% do obrażeń przeciw odsłoniętym celom.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dano aumentado contra alvos vulneráveis.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
 					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。",
-					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูที่อยู่ในสถานะ Vulnerable เพิ่มขึ้น +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}."
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณจะทำความเสียหายแก่ศัตรูที่อยู่ในสถานะ Vulnerable เพิ่มขึ้น +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr einem verwundbaren Gegner Schaden zufügt, wird Euer Schaden 6 Sek. lang um x1% erhöht, bis maximal x10%.",
@@ -30552,7 +30552,7 @@ let paragonData = {
 		"Glyph": {
 			"ParagonGlyph_014": {
 				"name": "Turf",
-				"desc": "For every 5 Strength purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage to Close targets.",
+				"desc": "For every 5 Strength purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage to Close targets.",
 				"bonus": "You gain 10% Damage Reduction against Close enemies.",
 				"nameLocalized": {
 					"deDE": "Torf",
@@ -30570,19 +30570,19 @@ let paragonData = {
 					"zhTW": "領域"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte fügt Ihr Gegnern in der Nähe +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
-					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a objetivos cercanos.",
-					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a los objetivos cercanos.",
-					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles à proximité.",
-					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli vicini.",
-					"jaJP": "範囲内で筋力5が購入されるごとに、近距離の標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 힘을 5 구매할 때마다 근거리에 있는 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. siły zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw pobliskim celom.",
-					"ptBR": "Para cada 5 de Força comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos próximos.",
-					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон, наносимый ближним целям, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Kuvvet başına Yakın hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点力量,你对近距目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點力量,你對近距離目標造成的傷害提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte fügt Ihr Gegnern in der Nähe +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden zu.",
+					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a objetivos cercanos.",
+					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a los objetivos cercanos.",
+					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts aux cibles à proximité.",
+					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi ai bersagli vicini.",
+					"jaJP": "範囲内で筋力5が購入されるごとに、近距離の標的に与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 힘을 5 구매할 때마다 근거리에 있는 대상에게 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. siły zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń przeciw pobliskim celom.",
+					"ptBR": "Para cada 5 de Força comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado contra alvos próximos.",
+					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон, наносимый ближним целям, увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Kuvvet başına Yakın hedeflere +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点力量,你对近距目标造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點力量,你對近距離目標造成的傷害提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet Sek. lang 10% Schadensreduktion gegen Gegner in der Nähe.",
@@ -30603,7 +30603,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_016": {
 				"name": "Exploit",
-				"desc": "For every 5 Strength purchased within range, you deal +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} increased damage to Vulnerable targets.",
+				"desc": "For every 5 Strength purchased within range, you deal +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% increased damage to Vulnerable targets.",
 				"bonus": "When an enemy is damaged by you, they become Vulnerable for 3 seconds. This cannot happen more than once every 20 seconds per enemy.",
 				"nameLocalized": {
 					"deDE": "Ausbeuten",
@@ -30621,18 +30621,18 @@ let paragonData = {
 					"zhTW": "剝削手段"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} Schaden zu.",
+					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% Schaden zu.",
 					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a objetivos vulnerables.",
 					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a los objetivos vulnerables.",
-					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} de dégâts aux cibles vulnérables.",
-					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} di danni aggiuntivi ai bersagli vulnerabili.",
-					"jaJP": "範囲内で筋力5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}増加する。",
-					"koKR": "범위 내에서 힘을 5 구매할 때마다 취약 상태의 대상에게 주는 피해가 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} 증가합니다.",
-					"plPL": "Za każde 5 pkt. siły zakupionych w zasięgu zyskujesz premię +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} do obrażeń przeciw odsłoniętym celom.",
-					"ptBR": "Para cada 5 de Força comprados em alcance, você causa +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} de dano aumentado contra alvos vulneráveis.",
-					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}.",
-					"trTR": "Menzilde satın alınan her 5 Kuvvet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点力量,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。",
+					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dégâts aux cibles vulnérables.",
+					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% di danni aggiuntivi ai bersagli vulnerabili.",
+					"jaJP": "範囲内で筋力5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%増加する。",
+					"koKR": "범위 내에서 힘을 5 구매할 때마다 취약 상태의 대상에게 주는 피해가 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. siły zakupionych w zasięgu zyskujesz premię +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% do obrażeń przeciw odsłoniętym celom.",
+					"ptBR": "Para cada 5 de Força comprados em alcance, você causa +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dano aumentado contra alvos vulneráveis.",
+					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%.",
+					"trTR": "Menzilde satın alınan her 5 Kuvvet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点力量,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
 					"zhTW": "在範圍內每購買 5 點力量,你對易傷目標造成的傷害提高 {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。"
 				},
 				"bonusLocalized": {
@@ -30705,7 +30705,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_045": {
 				"name": "Bane",
-				"desc": "For every 5 Strength purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased Poison damage.",
+				"desc": "For every 5 Strength purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased Poison damage.",
 				"bonus": "Poisoning damage effects have a 10% chance to deal double the amount of damage over their duration.",
 				"nameLocalized": {
 					"deDE": "Bann",
@@ -30723,19 +30723,19 @@ let paragonData = {
 					"zhTW": "災禍"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte verursacht Ihr +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Giftschaden.",
-					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de veneno.",
-					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de veneno.",
-					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts de poison.",
-					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni da veleno aggiuntivi.",
-					"jaJP": "範囲内で筋力5が購入されるごとに、与える毒ダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 힘을 5 구매할 때마다 주는 독 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. siły zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń od Trucizny.",
-					"ptBR": "Para cada 5 de Força comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano venenoso aumentado.",
-					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон от яда увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Kuvvet başına +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış Zehir hasarı verirsin.",
-					"zhCN": "每购买辐射范围内 5 点力量,你造成的毒素伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點力量,造成的毒素傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Giftschaden.",
+					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de veneno.",
+					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de veneno.",
+					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts de poison.",
+					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni da veleno aggiuntivi.",
+					"jaJP": "範囲内で筋力5が購入されるごとに、与える毒ダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 힘을 5 구매할 때마다 주는 독 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. siły zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń od Trucizny.",
+					"ptBR": "Para cada 5 de Força comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano venenoso aumentado.",
+					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон от яда увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Kuvvet başına +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Zehir hasarı verirsin.",
+					"zhCN": "每购买辐射范围内 5 点力量,你造成的毒素伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點力量,造成的毒素傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Giftschadeneffekte verfügen über eine Chance von 10%, im Verlauf ihrer Wirkungsdauer die doppelte Menge Schaden zu verursachen.",
@@ -30756,7 +30756,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_048": {
 				"name": "Tracker",
-				"desc": "For every 5 Intelligence purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage to Poisoned targets.",
+				"desc": "For every 5 Intelligence purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage to Poisoned targets.",
 				"bonus": "Poisoning damage effects last x33.3% longer.",
 				"nameLocalized": {
 					"deDE": "Verfolger",
@@ -30774,19 +30774,19 @@ let paragonData = {
 					"zhTW": "追跡者"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte fügt Ihr vergifteten Gegnern +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
-					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a objetivos envenenados.",
-					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a los objetivos envenenados.",
-					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles empoisonnées.",
-					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli avvelenati.",
-					"jaJP": "範囲内で知力5が購入されるごとに、毒状態の標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 지능을 5 구매할 때마다 중독 상태의 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw zatrutym celom.",
-					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos envenenados.",
-					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон, наносимый отравленным целям, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Zekâ başına Zehirlenmiş hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点智力,你对中毒目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點智力,你對中毒目標造成的傷害提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte fügt Ihr vergifteten Gegnern +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden zu.",
+					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a objetivos envenenados.",
+					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a los objetivos envenenados.",
+					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts aux cibles empoisonnées.",
+					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi ai bersagli avvelenati.",
+					"jaJP": "範囲内で知力5が購入されるごとに、毒状態の標的に与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 지능을 5 구매할 때마다 중독 상태의 대상에게 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń przeciw zatrutym celom.",
+					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado contra alvos envenenados.",
+					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон, наносимый отравленным целям, увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Zekâ başına Zehirlenmiş hedeflere +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点智力,你对中毒目标造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點智力,你對中毒目標造成的傷害提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Giftschadeneffekte halten x33.3% länger an.",
@@ -30858,7 +30858,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_053": {
 				"name": "Closer",
-				"desc": "For every 5 Dexterity purchased within range, Cutthroat Skills deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage.",
+				"desc": "For every 5 Dexterity purchased within range, Cutthroat Skills deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage.",
 				"bonus": "While wielding a Melee weapon, you take 10% reduced damage.",
 				"nameLocalized": {
 					"deDE": "Nähe",
@@ -30876,19 +30876,19 @@ let paragonData = {
 					"zhTW": "壓軸"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Meuchelfertigkeiten +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades de degollador infligen un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, las habilidades de Degollador infligen un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vos compétences de coupe-jarret infligent +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, le abilità di Sgozzamento infliggono il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、喉かきスキルの与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 암살 기술의 공격력이 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu twoje umiejętności Napaści zyskują premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, habilidades de Degola causam +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон от умений головореза увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Cani Yetenekleri +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verir.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,刺杀技能造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,割喉技能造成的傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Meuchelfertigkeiten +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades de degollador infligen un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, las habilidades de Degollador infligen un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vos compétences de coupe-jarret infligent +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, le abilità di Sgozzamento infliggono il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、喉かきスキルの与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 암살 기술의 공격력이 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu twoje umiejętności Napaści zyskują premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, habilidades de Degola causam +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон от умений головореза увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Cani Yetenekleri +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verir.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,刺杀技能造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,割喉技能造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Während Ihr eine Nahkampfwaffe führt, erleidet Ihr 10% weniger Schaden.",
@@ -30909,7 +30909,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_054": {
 				"name": "Ranger",
-				"desc": "For every 5 Dexterity purchased within range, Marksman Skills deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage.",
+				"desc": "For every 5 Dexterity purchased within range, Marksman Skills deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage.",
 				"bonus": "While wielding a Ranged weapon, you take 10% reduced damage.",
 				"nameLocalized": {
 					"deDE": "Ferne",
@@ -30927,19 +30927,19 @@ let paragonData = {
 					"zhTW": "遊俠"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Präzisionsfertigkeiten +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades de tirador infligen un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, las habilidades de Tirador infligen un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vos compétences de tir d'élite infligent +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, le abilità di Tiro di Precisione infliggono il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、射手スキルの与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 명사수 기술로 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu twoje umiejętności Strzelectwa zyskują premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, habilidades de Atirador causam +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон от умений стрелка увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Nişancı Yetenekleri +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verir.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,神射手技能造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,射手技能造成的傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Präzisionsfertigkeiten +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades de tirador infligen un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, las habilidades de Tirador infligen un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vos compétences de tir d'élite infligent +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, le abilità di Tiro di Precisione infliggono il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、射手スキルの与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 명사수 기술로 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu twoje umiejętności Strzelectwa zyskują premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, habilidades de Atirador causam +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон от умений стрелка увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Nişancı Yetenekleri +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verir.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,神射手技能造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,射手技能造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Während Ihr eine Fernkampfwaffe führt, erleidet Ihr 10% weniger Schaden.",
@@ -30960,7 +30960,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_055": {
 				"name": "Chip",
-				"desc": "For every 5 Dexterity purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased Physical damage.",
+				"desc": "For every 5 Dexterity purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased Physical damage.",
 				"bonus": "Physical damage increases the damage an enemy takes from you by x1%, up to x10%, for 15 seconds.",
 				"nameLocalized": {
 					"deDE": "Splitter",
@@ -30978,19 +30978,19 @@ let paragonData = {
 					"zhTW": "切削"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursacht Ihr +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% physischen Schaden.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño físico.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño físico.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts physiques.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni fisici aggiuntivi.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、与える物理ダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 주는 물리 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń Fizycznych.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano físico aumentado.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, физический урон увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış Fiziksel hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你造成的物理伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,造成的物理傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% physischen Schaden.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño físico.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño físico.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts physiques.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni fisici aggiuntivi.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、与える物理ダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 주는 물리 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń Fizycznych.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano físico aumentado.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, физический урон увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Fiziksel hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你造成的物理伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,造成的物理傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Physischer Schaden erhöht jeglichen vom Gegner durch Euch erlittenen Schaden 15 Sek. lang um x1%, bis maximal x10%.",
@@ -31215,7 +31215,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_061": {
 				"name": "Combat",
-				"desc": "For every 5 Intelligence purchased within range, Core Skills deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased Critical Strike Damage.",
+				"desc": "For every 5 Intelligence purchased within range, Core Skills deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased Critical Strike Damage.",
 				"bonus": "Skills that Critically Strike restore 12% of their Energy cost.",
 				"nameLocalized": {
 					"deDE": "Kampf",
@@ -31233,19 +31233,19 @@ let paragonData = {
 					"zhTW": "戰鬥"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursachen Kernfertigkeiten +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% kritischen Trefferschaden.",
-					"esES": "Por cada 5 de inteligencia adquirida al alcance, las habilidades principales infligen un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de golpe crítico.",
-					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, las habilidades principales infligen un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de golpe crítico.",
-					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vos compétences principales infligent +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts critiques.",
-					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, le abilità primarie infliggono il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni critici aggiuntivi.",
-					"jaJP": "範囲内で知力5が購入されるごとに、コアスキルのクリティカルヒットダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 지능을 5 구매할 때마다 핵심 기술로 주는 극대화 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu twoje umiejętności Główne zyskują premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń od trafień krytycznych.",
-					"ptBR": "Para cada 5 de Inteligência comprados em alcance, habilidades principais causam +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano de acerto crítico aumentado.",
-					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, критический урон от основных умений увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Zekâ başına Çekirdek Yetenekler +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış Kritik Vuruş Hasarı verir.",
-					"zhCN": "每购买辐射范围内 5 点智力,核心技能造成的暴击伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點智力,核心技能造成的爆擊傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursachen Kernfertigkeiten +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% kritischen Trefferschaden.",
+					"esES": "Por cada 5 de inteligencia adquirida al alcance, las habilidades principales infligen un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de golpe crítico.",
+					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, las habilidades principales infligen un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de golpe crítico.",
+					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vos compétences principales infligent +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts critiques.",
+					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, le abilità primarie infliggono il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni critici aggiuntivi.",
+					"jaJP": "範囲内で知力5が購入されるごとに、コアスキルのクリティカルヒットダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 지능을 5 구매할 때마다 핵심 기술로 주는 극대화 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu twoje umiejętności Główne zyskują premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń od trafień krytycznych.",
+					"ptBR": "Para cada 5 de Inteligência comprados em alcance, habilidades principais causam +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano de acerto crítico aumentado.",
+					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, критический урон от основных умений увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Zekâ başına Çekirdek Yetenekler +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Kritik Vuruş Hasarı verir.",
+					"zhCN": "每购买辐射范围内 5 点智力,核心技能造成的暴击伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點智力,核心技能造成的爆擊傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Fertigkeiten, die kritisch treffen, stellen 12% ihrer Energiekosten wieder her.",
@@ -31266,7 +31266,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_063": {
 				"name": "Canny",
-				"desc": "For every 5 Intelligence purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased Non-physical damage.",
+				"desc": "For every 5 Intelligence purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased Non-physical damage.",
 				"bonus": "Non-Physical damage increases all the Non-Physical damage an enemy takes from you by x1%, up to x10%, for 15 seconds.",
 				"nameLocalized": {
 					"deDE": "Besonnen",
@@ -31284,19 +31284,19 @@ let paragonData = {
 					"zhTW": "機靈"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% nichtphysischen Schaden.",
-					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño no físico.",
-					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño no físico.",
-					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts non physiques.",
-					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni non fisici aggiuntivi.",
-					"jaJP": "範囲内で知力5が購入されるごとに、与える非物理与ダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 지능을 5 구매할 때마다 주는 비물리 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń niefizycznych.",
-					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano não físico aumentado.",
-					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, нефизический урон увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Zekâ başına +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış Fiziksel Olmayan Hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点智力,你造成的非物理伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點智力,造成的非物理傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% nichtphysischen Schaden.",
+					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño no físico.",
+					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño no físico.",
+					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts non physiques.",
+					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni non fisici aggiuntivi.",
+					"jaJP": "範囲内で知力5が購入されるごとに、与える非物理与ダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 지능을 5 구매할 때마다 주는 비물리 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń niefizycznych.",
+					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano não físico aumentado.",
+					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, нефизический урон увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Zekâ başına +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Fiziksel Olmayan Hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点智力,你造成的非物理伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點智力,造成的非物理傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Nichtphysischer Schaden erhöht jeglichen vom Gegner durch Euch erlittenen nichtphysischen Schaden 15 Sek. lang um x1%, bis maximal x10%.",
@@ -31470,7 +31470,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_068": {
 				"name": "Ambush",
-				"desc": "For every 5 Strength purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage to targets affected by Trap Skills.",
+				"desc": "For every 5 Strength purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage to targets affected by Trap Skills.",
 				"bonus": "Enemies affected by Trap Skills take x10% increased damage from you.",
 				"nameLocalized": {
 					"deDE": "Hinterhalt",
@@ -31488,19 +31488,19 @@ let paragonData = {
 					"zhTW": "伏擊"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte fügt Ihr Gegnern, die von Euren Fallenfertigkeiten betroffen sind, +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
-					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a objetivos afectados por habilidades de trampa.",
-					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a los objetivos afectados por habilidades de Trampa.",
-					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles affectées par des compétences de piège.",
-					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli colpiti dalle abilità di Trappole.",
-					"jaJP": "範囲内で筋力5が購入されるごとに、罠スキルの影響を受けた標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 힘을 5 구매할 때마다 덫 기술의 영향을 받는 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. siły zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw wrogom objętym działaniem umiejętności Pułapek.",
-					"ptBR": "Para cada 5 de Força comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos sob efeito de habilidades de Armadilha.",
-					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон, наносимый целям под действием умений категории \"Ловушки\", увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Kuvvet başına Tuzak Yeteneklerinden etkilenen hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点力量,你对受陷阱技能影响的目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點力量,你對受陷阱技能影響的目標造成的傷害提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Stärkepunkte fügt Ihr Gegnern, die von Euren Fallenfertigkeiten betroffen sind, +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden zu.",
+					"esES": "Por cada 5 de fuerza adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a objetivos afectados por habilidades de trampa.",
+					"esMX": "Por cada 5 de Fuerza adquirida dentro del alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a los objetivos afectados por habilidades de Trampa.",
+					"frFR": "Pour chaque tranche de 5 points de force achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts aux cibles affectées par des compétences de piège.",
+					"itIT": "Per ogni 5 punti Forza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi ai bersagli colpiti dalle abilità di Trappole.",
+					"jaJP": "範囲内で筋力5が購入されるごとに、罠スキルの影響を受けた標的に与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 힘을 5 구매할 때마다 덫 기술의 영향을 받는 대상에게 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. siły zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń przeciw wrogom objętym działaniem umiejętności Pułapek.",
+					"ptBR": "Para cada 5 de Força comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado contra alvos sob efeito de habilidades de Armadilha.",
+					"ruRU": "За каждые 5 силы, открытые в радиусе действия, урон, наносимый целям под действием умений категории \"Ловушки\", увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Kuvvet başına Tuzak Yeteneklerinden etkilenen hedeflere +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点力量,你对受陷阱技能影响的目标造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點力量,你對受陷阱技能影響的目標造成的傷害提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Gegner, die von Fallenfertigkeiten betroffen sind, erleiden x10% mehr Schaden durch Euch.",
@@ -37342,7 +37342,7 @@ let paragonData = {
 		"Glyph": {
 			"ParagonGlyph_001": {
 				"name": "Enchanter",
-				"desc": "For every 5 Intelligence purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased Non-physical damage.",
+				"desc": "For every 5 Intelligence purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased Non-physical damage.",
 				"bonus": "For each Skill equipped in your Enchantment Slots, gain 13.3% Resistance to that Skill's element.",
 				"nameLocalized": {
 					"deDE": "Verzauberer",
@@ -37360,19 +37360,19 @@ let paragonData = {
 					"zhTW": "附魔師"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% nichtphysischen Schaden.",
-					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño no físico.",
-					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño no físico.",
-					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts non physiques.",
-					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni non fisici aggiuntivi.",
-					"jaJP": "範囲内で知力5が購入されるごとに、与える非物理与ダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 지능을 5 구매할 때마다 주는 비물리 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń niefizycznych.",
-					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano não físico aumentado.",
-					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, нефизический урон увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Zekâ başına +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış Fiziksel Olmayan Hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点智力,你造成的非物理伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點智力,造成的非物理傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% nichtphysischen Schaden.",
+					"esES": "Por cada 5 de inteligencia adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño no físico.",
+					"esMX": "Por cada 5 de Inteligencia adquirida dentro del alcance, infliges un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño no físico.",
+					"frFR": "Pour chaque tranche de 5 points d'intelligence achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts non physiques.",
+					"itIT": "Per ogni 5 punti Intelligenza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni non fisici aggiuntivi.",
+					"jaJP": "範囲内で知力5が購入されるごとに、与える非物理与ダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 지능을 5 구매할 때마다 주는 비물리 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. inteligencji zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń niefizycznych.",
+					"ptBR": "Para cada 5 de Inteligência comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano não físico aumentado.",
+					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, нефизический урон увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Zekâ başına +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Fiziksel Olmayan Hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点智力,你造成的非物理伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點智力,造成的非物理傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Für jede in Verzauberungsplätzen ausgerüstete Fertigkeit erhaltet Ihr 13.3% Widerstand gegen das Element dieser Fertigkeit.",
@@ -37648,7 +37648,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_007": {
 				"name": "Torch",
-				"desc": "For every 5 Willpower purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased Burning damage.",
+				"desc": "For every 5 Willpower purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased Burning damage.",
 				"bonus": "You deal x2.5% increased damage per Nearby Burning enemy, up to x12.5%.",
 				"nameLocalized": {
 					"deDE": "Fackel",
@@ -37666,19 +37666,19 @@ let paragonData = {
 					"zhTW": "火炬"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Verbrennungsschaden.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de quemadura.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de quemadura.",
-					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts de brûlure.",
-					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni da fiamme aggiuntivi.",
-					"jaJP": "範囲内で意志力5が購入されるごとに、与える炎上ダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 의지력을 5 구매할 때마다 주는 연소 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń od Ognia.",
-					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano flamejante aumentado.",
-					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон от горения увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 İrade başına +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış Yanma hasarı verirsin.",
-					"zhCN": "每购买辐射范围内 5 点意力,你造成的燃烧伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點意志,造成的燃燒傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Verbrennungsschaden.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de quemadura.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de quemadura.",
+					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts de brûlure.",
+					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni da fiamme aggiuntivi.",
+					"jaJP": "範囲内で意志力5が購入されるごとに、与える炎上ダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 의지력을 5 구매할 때마다 주는 연소 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. siły woli zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń od Ognia.",
+					"ptBR": "Para cada 5 de Determinação comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano flamejante aumentado.",
+					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон от горения увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 İrade başına +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Yanma hasarı verirsin.",
+					"zhCN": "每购买辐射范围内 5 点意力,你造成的燃烧伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點意志,造成的燃燒傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr verursacht x2.5% mehr Schaden pro brennendem Gegner in der Nähe, bis maximal x12.5%.",
@@ -37871,8 +37871,8 @@ let paragonData = {
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% Schaden, solange Ihr gesund seid.",
-					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}% más de daño en estado saludable.",
-					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}% más de daño mientras estás saludable.",
+					"esES": "Por cada 5 de voluntad adquirida al alcance, infliges un {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% más de daño en estado saludable.",
+					"esMX": "Por cada 5 de Voluntad adquirida dentro del alcance, infliges un {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% más de daño mientras estás saludable.",
 					"frFR": "Pour chaque tranche de 5 points de volonté achetés à l'intérieur de l'ensemble, vous infligez +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% de dégâts lorsque vous êtes en bonne santé.",
 					"itIT": "Per ogni 5 punti Volontà acquistati a portata, infliggi il +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% di danni aggiuntivi quando sei in salute.",
 					"jaJP": "範囲内で意志力5が購入されるごとに、健全状態時に与えるダメージが+{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%増加する。",
@@ -37882,7 +37882,7 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, наносимый урон при высоком уровне здоровья увеличивается на +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%.",
 					"trTR": "Menzilde satın alınan her 5 İrade başına Sağlıklıyken +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点意力,你在健康状态下造成的伤害提高 +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%。",
-					"zhTW": "在範圍內每購買 5 點意志,健康時造成的傷害就會提高 {3.975/4.526/5.078/5.629/6.18/6.731/7.283/7.834/8.385/8.936/9.488/10.039/10.59/11.141/11.693/12.244/12.795/13.346/13.897/14.449/15}%。"
+					"zhTW": "在範圍內每購買 5 點意志,健康時造成的傷害就會提高 {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet +30% mehr Heilung durch Tränke.",
@@ -37954,7 +37954,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_014": {
 				"name": "Territorial",
-				"desc": "For every 5 Dexterity purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage to Close targets.",
+				"desc": "For every 5 Dexterity purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage to Close targets.",
 				"bonus": "You gain 10% Damage Reduction against Close enemies.",
 				"nameLocalized": {
 					"deDE": "Territorial",
@@ -37972,19 +37972,19 @@ let paragonData = {
 					"zhTW": "地盤"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr Gegnern in der Nähe +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a objetivos cercanos.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a los objetivos cercanos.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles à proximité.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli vicini.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、近距離の標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 근거리에 있는 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw pobliskim celom.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos próximos.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый ближним целям, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Yakın hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你对近距目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對近距離目標造成的傷害提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr Gegnern in der Nähe +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden zu.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a objetivos cercanos.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a los objetivos cercanos.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts aux cibles à proximité.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi ai bersagli vicini.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、近距離の標的に与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 근거리에 있는 대상에게 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń przeciw pobliskim celom.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado contra alvos próximos.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый ближним целям, увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Yakın hedeflere +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你对近距目标造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,你對近距離目標造成的傷害提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet Sek. lang 10% Schadensreduktion gegen Gegner in der Nähe.",
@@ -38005,7 +38005,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_015": {
 				"name": "Flamefeeder",
-				"desc": "For every 5 Dexterity purchased within range, you deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased damage to Burning targets.",
+				"desc": "For every 5 Dexterity purchased within range, you deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased damage to Burning targets.",
 				"bonus": "You deal x10% increased direct damage to Burning enemies.",
 				"nameLocalized": {
 					"deDE": "Flammenfresser",
@@ -38023,19 +38023,19 @@ let paragonData = {
 					"zhTW": "饋火"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr brennenden Gegnern +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% Schaden zu.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a objetivos que estén quemándose.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño a los objetivos quemados.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts aux cibles en feu.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni aggiuntivi ai bersagli in fiamme.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、炎上状態の標的に与えるダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 연소 상태의 대상에게 주는 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% do obrażeń przeciw podpalonym celom.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano aumentado contra alvos em chamas.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый подожженным целям, увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Yanan hedeflere +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你对燃烧目标造成的伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對燃燒目標造成的傷害提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr brennenden Gegnern +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden zu.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a objetivos que estén quemándose.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño a los objetivos quemados.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts aux cibles en feu.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni aggiuntivi ai bersagli in fiamme.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、炎上状態の標的に与えるダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 연소 상태의 대상에게 주는 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% do obrażeń przeciw podpalonym celom.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano aumentado contra alvos em chamas.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый подожженным целям, увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Yanan hedeflere +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你对燃烧目标造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,你對燃燒目標造成的傷害提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr fügt brennenden Gegnern x10% mehr direkten Schaden zu.",
@@ -38158,7 +38158,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_019": {
 				"name": "Destruction",
-				"desc": "For every 5 Dexterity purchased within range, Core Skills deal +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% increased Critical Strike Damage.",
+				"desc": "For every 5 Dexterity purchased within range, Core Skills deal +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% increased Critical Strike Damage.",
 				"bonus": "Critical Strikes increase all damage the enemy takes from you by x2% for 10 seconds, up to x12%.",
 				"nameLocalized": {
 					"deDE": "Zerstörung",
@@ -38176,19 +38176,19 @@ let paragonData = {
 					"zhTW": "毀滅"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Kernfertigkeiten +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% kritischen Trefferschaden.",
-					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades principales infligen un {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de golpe crítico.",
-					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, las habilidades principales infligen un +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% más de daño de golpe crítico.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vos compétences principales infligent +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dégâts critiques.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, le abilità Primarie infliggono il +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% di danni critici aggiuntivi.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、コアスキルのクリティカルヒットダメージが+{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 핵심 기술로 주는 극대화 피해가 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu, twoje umiejętności Główne zadają obrażenia od trafień krytycznych zwiększone o +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, habilidades principais causam +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% de dano de acerto crítico aumentado.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, критический урон от основных умений увеличивается на +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Çekirdek Yetenekler +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}% artırılmış Kritik Vuruş Hasarı verir.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,核心技能造成的暴击伤害提高 +{3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,核心技能造成的爆擊傷害就會提高 {3/3.6/4.2/4.8/5.4/6/6.6/7.2/7.8/8.4/9/9.6/10.2/10.8/11.4/12/12.6/13.2/13.8/14.4/15}%。"
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Kernfertigkeiten +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% kritischen Trefferschaden.",
+					"esES": "Por cada 5 de destreza adquirida al alcance, las habilidades principales infligen un {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de golpe crítico.",
+					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, las habilidades principales infligen un +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% más de daño de golpe crítico.",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vos compétences principales infligent +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dégâts critiques.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, le abilità Primarie infliggono il +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% di danni critici aggiuntivi.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、コアスキルのクリティカルヒットダメージが+{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 핵심 기술로 주는 극대화 피해가 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu, twoje umiejętności Główne zadają obrażenia od trafień krytycznych zwiększone o +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, habilidades principais causam +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% de dano de acerto crítico aumentado.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, критический урон от основных умений увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Çekirdek Yetenekler +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Kritik Vuruş Hasarı verir.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,核心技能造成的暴击伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"zhTW": "在範圍內每購買 5 點敏捷,核心技能造成的爆擊傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
 				},
 				"bonusLocalized": {
 					"deDE": "Kritische Treffer erhöhen jeglichen vom Gegner durch Euch erlittenen Schaden 10 Sek. lang um x2%, bis maximal x12%.",
@@ -38311,7 +38311,7 @@ let paragonData = {
 			},
 			"ParagonGlyph_079": {
 				"name": "Exploit",
-				"desc": "For every 5 Dexterity purchased within range, you deal +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} increased damage to Vulnerable targets.",
+				"desc": "For every 5 Dexterity purchased within range, you deal +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% increased damage to Vulnerable targets.",
 				"bonus": "Dealing damage to a Vulnerable enemy increases your damage by x1% for 6 seconds, up to x10%.",
 				"nameLocalized": {
 					"deDE": "Ausbeuten",
@@ -38329,18 +38329,18 @@ let paragonData = {
 					"zhTW": "剝削手段"
 				},
 				"descLocalized": {
-					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} Schaden zu.",
+					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% Schaden zu.",
 					"esES": "Por cada 5 de destreza adquirida al alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a objetivos vulnerables.",
 					"esMX": "Por cada 5 de Destreza adquirida dentro del alcance, infliges un {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} más de daño a los objetivos vulnerables.",
-					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} de dégâts aux cibles vulnérables.",
-					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} di danni aggiuntivi ai bersagli vulnerabili.",
-					"jaJP": "範囲内で敏捷性5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}増加する。",
-					"koKR": "범위 내에서 민첩을 5 구매할 때마다 취약 상태의 대상에게 주는 피해가 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} 증가합니다.",
-					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} do obrażeń przeciw odsłoniętym celom.",
-					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} de dano aumentado contra alvos vulneráveis.",
-					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}.",
-					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4} artırılmış hasar verirsin.",
-					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。",
+					"frFR": "Pour chaque tranche de 5 points de dextérité achetés à l'intérieur de l'ensemble, vous infligez +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dégâts aux cibles vulnérables.",
+					"itIT": "Per ogni 5 punti Destrezza acquistati a portata, infliggi il +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% di danni aggiuntivi ai bersagli vulnerabili.",
+					"jaJP": "範囲内で敏捷性5が購入されるごとに、脆弱状態の標的に与えるダメージが+{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%増加する。",
+					"koKR": "범위 내에서 민첩을 5 구매할 때마다 취약 상태의 대상에게 주는 피해가 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% 증가합니다.",
+					"plPL": "Za każde 5 pkt. zręczności zakupionych w zasięgu zyskujesz premię +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% do obrażeń przeciw odsłoniętym celom.",
+					"ptBR": "Para cada 5 de Destreza comprados em alcance, você causa +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% de dano aumentado contra alvos vulneráveis.",
+					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%.",
+					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% artırılmış hasar verirsin.",
+					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
 					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 {1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}。"
 				},
 				"bonusLocalized": {
