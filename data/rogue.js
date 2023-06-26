@@ -64,7 +64,8 @@ Tags: Basic, Cutthroat, Damage, Physical.`,
 			"ruRU": "Блуждающий клинок",
 			"trTR": "Bıçaklı Dönüşüm",
 			"zhCN": "锋刃闪转",
-			"zhTW": "移行之刃"
+			"zhTW": "移行之刃",
+			"thTH": "Blade Shift"
 },
 		descriptionLocalized: {
 			"deDE": "Erzeugte Kombopunkte: 1\nGlückstrefferchance: 35% (per hit)\nStecht schnell auf Euer Ziel ein, fügt ihm {15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}% Schaden zu und gleitet, wodurch Ihr Euch 3 Sek. lang frei durch Gegner bewegen könnt.\n\nTags: Basis, Meucheln, Schaden, Physisch.",
@@ -79,7 +80,8 @@ Tags: Basic, Cutthroat, Damage, Physical.`,
 			"ruRU": "Продлевает серию приемов на 1.\nВероятность удачного удара: 35% (per hit)\nВы стремительно пронзаете цель, нанося {15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}% ед. урона, и переходите в другое измерение, получая возможность проходить сквозь врагов в течение 3 сек.\n\nTags: Базовое, Головорез, Урон, Физический урон.",
 			"trTR": "Kombo Puanı Üret: 1\nŞanslı Vuruş İhtimali: 35% (per hit)\nKurbanını hızlıca bıçaklayarak {15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}% hasar ver ve dönüşerek 3 saniye boyunca özgürce düşmanların içinden geç.\n\nTags: Temel, Cani, Hasar, Fiziksel.",
 			"zhCN": "生成连击点数: 1\n幸运一击几率: 35% (per hit)\n快速刺击你的受害者, 造成 {15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}% 点伤害并闪转腾挪, 使你可以自由地穿过敌人, 持续 3 秒。\n\nTags: 基础, 刺杀, 伤害, 物理.",
-			"zhTW": "產生連擊點數:1\n幸運觸發機率: 35% (per hit)\n以快刀捅刺被害者,造成 {15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}% 點傷害,並使你得以移行穿越敵人,持續 3 秒。\n\nTags: 基本, 割喉, 傷害, 物理."
+			"zhTW": "產生連擊點數:1\n幸運觸發機率: 35% (per hit)\n以快刀捅刺被害者,造成 {15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}% 點傷害,並使你得以移行穿越敵人,持續 3 秒。\n\nTags: 基本, 割喉, 傷害, 物理.",
+			"thTH": "ได้รับ Combo Point: 1\nLucky Hit Chance: 35% (per hit)\nแทงศัตรูอย่างรวดเร็ว ทำความเสียหาย {15/16.5/18/19.5/21/22.5/24/25.5/27/28.5}% จากนั้นคุณจะสามารถเคลื่อนที่ผ่านศัตรูได้อย่างอิสระ 3 วินาที.\n\nTags: Basic, Cutthroat, Damage, Physical."
 },
 		id: 0,
 		maxPoints: 5,
@@ -103,7 +105,8 @@ Tags: Basic, Cutthroat, Damage, Physical.`,
 			"ruRU": "Усиленный блуждающий клинок",
 			"trTR": "Geliştirilmiş Bıçaklı Dönüşüm",
 			"zhCN": "强化锋刃闪转",
-			"zhTW": "強化移行之刃"
+			"zhTW": "強化移行之刃",
+			"thTH": "Enhanced Blade Shift"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr einem Gegner mit Gleitklinge Schaden zufügt, erhaltet Ihr +5% Bewegungsgeschwindigkeit, während Gleitklinge aktiv ist, bis maximal +20%.",
@@ -118,7 +121,8 @@ Tags: Basic, Cutthroat, Damage, Physical.`,
 			"ruRU": "Когда \"Блуждающий клинок\" наносит противнику урон, ваша скорость передвижения повышается на +5% на время действия умения, вплоть до +20%.",
 			"trTR": "Bıçaklı Dönüşüm ile bir düşmana hasar vermek, Bıçaklı Dönüşüm etkinken +5% Hareket Hızı kazandırır. En fazla +20% Hareket Hızı kazanılabilir.",
 			"zhCN": "锋刃闪转激活时, 使用锋刃闪转对一名敌人造成伤害会使移动速度提高 +5%, 最多提高 +20%。",
-			"zhTW": "以移行之刃對敵人造成傷害,會在移行之刃效果期間使你的移動速度提高 +5%,最多提高 +20%。"
+			"zhTW": "以移行之刃對敵人造成傷害,會在移行之刃效果期間使你的移動速度提高 +5%,最多提高 +20%。",
+			"thTH": "เมื่อทำความเสียหายด้วย Blade Shift คุณจะได้รับความความเร็วในการเคลื่อนที่เพิ่มขึ้น +5%, สูงสุด +20% ในระยะเวลาผลของ Blade Shift."
 },
 		id: 1,
 		maxPoints: 1,
@@ -142,7 +146,8 @@ Tags: Basic, Cutthroat, Damage, Physical.`,
 			"ruRU": "Фундаментальный блуждающий клинок",
 			"trTR": "Esaslı Bıçaklı Dönüşüm",
 			"zhCN": "基础锋刃闪转",
-			"zhTW": "基要移行之刃"
+			"zhTW": "基要移行之刃",
+			"thTH": "Fundamental Blade Shift"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr Euch durch Gegner hindurchbewegt, während Gleitklinge aktiv ist, wird ihre Dauer aktualisiert. Wenn Ihr Euch 5-mal durch Gegner hindurchbewegt habt, wird Eure nächste Gleitklinge Gegner 2 Sek. lang benommen machen.",
@@ -157,7 +162,8 @@ Tags: Basic, Cutthroat, Damage, Physical.`,
 			"ruRU": "Когда вы проходите сквозь противников во время действия \"Блуждающего клинка\" время действия умения обновляется. Когда вы проходите сквозь противников 5 раза:раз, следующий \"Блуждающий клинок\" вызывает у противников головокружение на 2 сек.",
 			"trTR": "Bıçaklı Dönüşüm etkinken düşmanların içinden geçmek, süresini yeniler. 5 kez düşmanların içinden geçtikten sonraki Bıçaklı Dönüşümün düşmanları 2 saniyeliğine Afallatır.",
 			"zhCN": "锋刃闪转激活期间穿过敌人会刷新其持续时间。穿过敌人 5 次后, 你的下一次锋刃闪转会眩晕敌人 2 秒。",
-			"zhTW": "在移行之刃效果期間穿過敵人可重置其持續時間。穿過敵人 5 次後,你的下一個移行之刃會使敵人暈眩,持續 2 秒。"
+			"zhTW": "在移行之刃效果期間穿過敵人可重置其持續時間。穿過敵人 5 次後,你的下一個移行之刃會使敵人暈眩,持續 2 秒。",
+			"thTH": "เมื่อเคลื่อนที่ผ่านตัวศัตรูขณะที่อยู่ในผลของ Blade Shift จะเพิ่มระยะเวลาผลของ Blade Shift จนเต็ม. หลังจากที่เคลื่อนที่ผ่านตัวศัตรู 5 ครั้ง, Blade Shift ครั้งต่อไปจะทำให้ศัตรูอยู่ในสถานะ Daze 2 วินาที."
 },
 		id: 2,
 		maxPoints: 1,
@@ -181,7 +187,8 @@ Tags: Basic, Cutthroat, Damage, Physical.`,
 			"ruRU": "Основной блуждающий клинок",
 			"trTR": "Birincil Bıçaklı Dönüşüm",
 			"zhCN": "主要锋刃闪转",
-			"zhTW": "首要移行之刃"
+			"zhTW": "首要移行之刃",
+			"thTH": "Primary Blade Shift"
 },
 		descriptionLocalized: {
 			"deDE": "Während Gleitklinge aktiv ist, werden all Eure nichtphysischen Widerstände um 15% erhöht und die Dauer von eingehenden Kontrollverlusteffekten um 20% reduziert.",
@@ -196,7 +203,8 @@ Tags: Basic, Cutthroat, Damage, Physical.`,
 			"ruRU": "Пока действует \"Блуждающий клинок\", сопротивление всем видам нефизического урона повышается на 15%, а время действия применяемых к вам эффектов контроля сокращается на 20%.",
 			"trTR": "Bıçaklı Dönüşüm etkinken Fiziksel Olmayan Dirençlerin 15% artar ve gelen Kontrol Engelleyici Etkilerin süresi 20% azalır.",
 			"zhCN": "锋刃闪转激活时, 你的所有非物理抗性提高 15%, 并使所有受到的控制类限制效果的持续时间缩短 20%。",
-			"zhTW": "在移行之刃效果期間,你獲得 15% 所有非物理抗性,並使受到的控場效果持續時間縮短 20%。"
+			"zhTW": "在移行之刃效果期間,你獲得 15% 所有非物理抗性,並使受到的控場效果持續時間縮短 20%。",
+			"thTH": "ขณะที่อยู่ในผลของ Blade Shift, คุณได้รับการต้านทาน Non-Physical 15% และลดระยะเวลาผลของ Control Imparing Effect ที่ได้รับ 20%."
 },
 		id: 3,
 		maxPoints: 1,
@@ -223,7 +231,8 @@ Tags: Basic, Cutthroat, Damage, Physical, Energy.`,
 			"ruRU": "Живительный удар",
 			"trTR": "Canlandırıcı Darbe",
 			"zhCN": "振奋打击",
-			"zhTW": "振奮之擊"
+			"zhTW": "振奮之擊",
+			"thTH": "Invigorating Strike"
 },
 		descriptionLocalized: {
 			"deDE": "Erzeugte Kombopunkte: 1\nGlückstrefferchance: 50% (per hit)\nGreift einen Gegner im Nahkampf an, verursacht {23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% Schaden und erhöht die Energieregeneration 3 Sek. lang um x20%.\n\nTags: Basis, Meucheln, Schaden, Physisch, Energie.",
@@ -238,7 +247,8 @@ Tags: Basic, Cutthroat, Damage, Physical, Energy.`,
 			"ruRU": "Продлевает серию приемов на 1.\nВероятность удачного удара: 50% (per hit)\nВы атакуете противника в ближнем бою, нанося {23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% ед. урона. При этом ваша скорость восстановления энергии увеличивается на x20% на 3 сек.\n\nTags: Базовое, Головорез, Урон, Физический урон, Энергия.",
 			"trTR": "Kombo Puanı Üret: 1\nŞanslı Vuruş İhtimali: 50% (per hit)\nBir düşmana yakın dövüş saldırısı yaparak {23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% hasar ver ve Enerji Yenilemeni 3 saniyeliğine x20% artır.\n\nTags: Temel, Cani, Hasar, Fiziksel, Enerji.",
 			"zhCN": "生成连击点数: 1\n幸运一击几率: 50% (per hit)\n近战攻击一名敌人时造成 {23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% 点伤害, 并且使能量回复速度提高 x20%, 持续 3 秒。\n\nTags: 基础, 刺杀, 伤害, 物理, 能量.",
-			"zhTW": "產生連擊點數:1\n幸運觸發機率: 50% (per hit)\n對敵人施展近戰攻擊,造成 {23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% 點傷害,並使能量恢復提高 x20%,持續 3 秒。\n\nTags: 基本, 割喉, 傷害, 物理, 能量."
+			"zhTW": "產生連擊點數:1\n幸運觸發機率: 50% (per hit)\n對敵人施展近戰攻擊,造成 {23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% 點傷害,並使能量恢復提高 x20%,持續 3 秒。\n\nTags: 基本, 割喉, 傷害, 物理, 能量.",
+			"thTH": "ได้รับ Combo Point: 1\nLucky Hit Chance: 50% (per hit)\nทำความเสียหายระยะใกล้ {23/25.3/27.6/29.9/32.2/34.5/36.8/39.1/41.4/43.7}% และได้รับการฟื้นฟู Energy เพิ่มขึ้น x20% เป็นระยะเวลา 3 วินาที.\n\nTags: Basic, Cutthroat, Damage, Physical, Energy."
 },
 		id: 4,
 		maxPoints: 5,
@@ -262,7 +272,8 @@ Tags: Basic, Cutthroat, Damage, Physical, Energy.`,
 			"ruRU": "Усиленный живительный удар",
 			"trTR": "Geliştirilmiş Canlandırıcı Darbe",
 			"zhCN": "强化振奋打击",
-			"zhTW": "強化振奮之擊"
+			"zhTW": "強化振奮之擊",
+			"thTH": "Enhanced Invigorating Strike"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr einem Gegner, der unter Kontrollverlusteffekten leidet oder verwundet ist, mit Belebender Schlag Schaden zufügt, erhöht sich der Bonus auf Energieregeneration auf x30%.",
@@ -277,7 +288,8 @@ Tags: Basic, Cutthroat, Damage, Physical, Energy.`,
 			"ruRU": "Когда \"Живительный удар\" наносит урон противнику с низким уровнем здоровья или цели под действием эффектов контроля, бонус к скорости восстановления энергии этого умения повышается до x30%.",
 			"trTR": "Canlandırıcı Darbe ile Kitle Kontrolü Etkisindeki veya Yaralı bir düşmana hasar vermek, Enerji Yenilemesi bonusunu artırarak x30% yapar.",
 			"zhCN": "使用振奋打击对一名被群控或受伤的敌人造成伤害, 会使其能量回复速度加成提高至 x30%。",
-			"zhTW": "以振奮之擊對受控場或受傷的敵人造成傷害時,會使能量恢復加成提高 x30%。"
+			"zhTW": "以振奮之擊對受控場或受傷的敵人造成傷害時,會使能量恢復加成提高 x30%。",
+			"thTH": "เมื่อ Invigorating Strike ทำความเสียหายแก่สัตรูที่อยู่ในสถานะ Crowd Controlled หรือ Injured จะเพิ่มการฟื้นฟู Energy เป็น x30%."
 },
 		id: 5,
 		maxPoints: 1,
@@ -301,7 +313,8 @@ Tags: Basic, Cutthroat, Damage, Physical, Energy.`,
 			"ruRU": "Основной живительный удар",
 			"trTR": "Birincil Canlandırıcı Darbe",
 			"zhCN": "主要振奋打击",
-			"zhTW": "首要振奮之擊"
+			"zhTW": "首要振奮之擊",
+			"thTH": "Primary Invigorating Strike"
 },
 		descriptionLocalized: {
 			"deDE": "Belebender Schlag verleiht außerdem +8% Glückstrefferchance. Wenn Ihr einen Gegner trefft, der unter Kontrollverlusteffekten leidet oder verwundet ist, wird dieser Bonus auf +16% Glückstrefferchance erhöht.",
@@ -316,7 +329,8 @@ Tags: Basic, Cutthroat, Damage, Physical, Energy.`,
 			"ruRU": "\"Живительный удар\" дополнительно повышает вероятность удачного удара на +8%. Когда вы поражаете противника с низким уровнем здоровья или цель под действием эффектов контроля, этот бонус увеличивается до +16%.",
 			"trTR": "Canlandırıcı Darbe ilave +8% Şanslı Vuruş İhtimali kazandırır. Kitle Kontrolü etkisindeki veya Yaralı bir düşmana vurmak, bu bonusu +16% Şanslı Vuruş İhtimali olarak artırır.",
 			"zhCN": "振奋打击额外给予 +8% 的幸运一击几率。命中一名被群控或受伤的敌人时, 使该加成提高至 +16%。",
-			"zhTW": "振奮之擊使幸運觸發機率額外提高 +8%。擊中受控場或受傷的敵人可使此加成效果提高至 +16%。"
+			"zhTW": "振奮之擊使幸運觸發機率額外提高 +8%。擊中受控場或受傷的敵人可使此加成效果提高至 +16%。",
+			"thTH": "เมื่อใช้สกิล Invigorating Strike จะมีโอกาส Lucky Hit เพิ่มขึ้น +8%. เมื่อทำความเสียหายแก่ศัตรูที่อยู่ในสถานะ Crowd Controlled หรือ Injured จะเพิ่มโอกาสเป็น +16%."
 },
 		id: 7,
 		maxPoints: 1,
@@ -340,7 +354,8 @@ Tags: Basic, Cutthroat, Damage, Physical, Energy.`,
 			"ruRU": "Фундаментальный живительный удар",
 			"trTR": "Esaslı Canlandırıcı Darbe",
 			"zhCN": "基础振奋打击",
-			"zhTW": "基要振奮之擊"
+			"zhTW": "基要振奮之擊",
+			"thTH": "Fundamental Invigorating Strike"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Ihr einen Gegner mit Belebender Schlag trefft, während Ihr über weniger als 50% Energie verfügt, wird dieser 3 Sek. lang verwundbar.",
@@ -355,7 +370,8 @@ Tags: Basic, Cutthroat, Damage, Physical, Energy.`,
 			"ruRU": "Когда вы поражаете противника \"Живительным ударом\", пока ваш запас энергии ниже 50%, он становится уязвимым на 3 сек.",
 			"trTR": "50% Enerji altındayken bir düşmana Canlandırıcı Darbe ile vurmak düşmanı 3 saniyeliğine Savunmasız hâle getirir.",
 			"zhCN": "能量低于 50% 时, 使用振奋打击命中一名敌人会使其陷入易伤状态, 持续 3 秒。",
-			"zhTW": "當你在能量低於 50% 時以振奮之擊擊中敵人,會使其易傷 3 秒。"
+			"zhTW": "當你在能量低於 50% 時以振奮之擊擊中敵人,會使其易傷 3 秒。",
+			"thTH": "เมื่อใช้สกิล Invigorating Strike ทำความเสียหายศัตรู ขณะที่คุณมี Energy น้อยกว่า 50%, ศัตรูนั้นจะอยู่ในสถานะ Vulnerable 3 วินาที."
 },
 		id: 6,
 		maxPoints: 1,
@@ -382,7 +398,8 @@ Tags: Basic, Marksman, Crowd Control, Critical Strikes, Damage, Physical.`,
 			"ruRU": "Колющий удар",
 			"trTR": "Del",
 			"zhCN": "穿刺飞刀",
-			"zhTW": "穿刺飛刀"
+			"zhTW": "穿刺飛刀",
+			"thTH": "Puncture"
 },
 		descriptionLocalized: {
 			"deDE": "Erzeugte Kombopunkte: 1\nGlückstrefferchance: 35% (per hit)\nWerft Klingen über eine kurze Distanz und verursacht {21/23.1/25.2/27.3/29.4/31.5/33.6/35.7/37.8/39.9}% Schaden. Jeder 3. Einsatz verlangsamt Gegner 2 Sek. lang um 20%. Kritische Treffer verlangsamen immer.\n\nTags: Basis, Präzision, Kontrollverlust, Kritische Treffer, Schaden, Physisch.",
@@ -397,7 +414,8 @@ Tags: Basic, Marksman, Crowd Control, Critical Strikes, Damage, Physical.`,
 			"ruRU": "Продлевает серию приемов на 1.\nВероятность удачного удара: 35% (per hit)\nВы бросаете на короткое расстояние клинки, наносящие {21/23.1/25.2/27.3/29.4/31.5/33.6/35.7/37.8/39.9}% ед. урона. Каждое 3-е применение замедляет противников на 20% на 2 сек. Критические удары всегда замедляют цели.\n\nTags: Базовое, Стрелок, Контроль, Критические удары, Урон, Физический урон.",
 			"trTR": "Kombo Puanı Üret: 1\nŞanslı Vuruş İhtimali: 35% (per hit)\nKısa bir mesafeye bıçak fırlatarak {21/23.1/25.2/27.3/29.4/31.5/33.6/35.7/37.8/39.9}% hasar ver. Her 3. kullanım, düşmanları 2 saniyeliğine 20% Yavaşlatır. Kritik Vuruşlar her zaman Yavaşlatır.\n\nTags: Temel, Nişancı, Kitle Kontrolü, Kritik Vuruşlar, Hasar, Fiziksel.",
 			"zhCN": "生成连击点数: 1\n幸运一击几率: 35% (per hit)\n短距离扔出你的飞刀, 造成 {21/23.1/25.2/27.3/29.4/31.5/33.6/35.7/37.8/39.9}% 点伤害。每第 3 次施放会使敌人减速 20%, 持续 2 秒。暴击必定造成减速。\n\nTags: 基础, 神射手, 群控, 暴击, 伤害, 物理.",
-			"zhTW": "產生連擊點數:1\n幸運觸發機率: 35% (per hit)\n丟出短距離飛行的刀刃,造成 {21/23.1/25.2/27.3/29.4/31.5/33.6/35.7/37.8/39.9}% 點傷害。每第 3 次施放會使敵人緩速 20%,持續 2 秒。爆擊時必定緩速。\n\nTags: 基本, 射手, 控場, 爆擊, 傷害, 物理."
+			"zhTW": "產生連擊點數:1\n幸運觸發機率: 35% (per hit)\n丟出短距離飛行的刀刃,造成 {21/23.1/25.2/27.3/29.4/31.5/33.6/35.7/37.8/39.9}% 點傷害。每第 3 次施放會使敵人緩速 20%,持續 2 秒。爆擊時必定緩速。\n\nTags: 基本, 射手, 控場, 爆擊, 傷害, 物理.",
+			"thTH": "ได้รับ Combo Point: 1\nLucky Hit Chance: 35% (per hit)\nขว้างมีดในระยะสั้น, ทำความเสียหาย {21/23.1/25.2/27.3/29.4/31.5/33.6/35.7/37.8/39.9}%. ทุกการใช้สกิลครั้งที่ 3 จะทำให้ศัตรูอยู่ในสถานะ Slowed 20% เป็นระยะเวลา 2 วินาที. ความเสียหาย Critical จะทำให้ศัตรูอยู่ในสถานะ Slow.\n\nTags: Basic, Markman, Crowd Control, Critical Strikes, Damage, Physical."
 },
 		id: 8,
 		maxPoints: 5,
@@ -421,7 +439,8 @@ Tags: Basic, Marksman, Crowd Control, Critical Strikes, Damage, Physical.`,
 			"ruRU": "Усиленный колющий удар",
 			"trTR": "Geliştirilmiş Del",
 			"zhCN": "强化穿刺飞刀",
-			"zhTW": "強化穿刺飛刀"
+			"zhTW": "強化穿刺飛刀",
+			"thTH": "Enhanced Puncture"
 },
 		descriptionLocalized: {
 			"deDE": "Erhaltet 2 Energie, wenn Einstich einem Gegner Schaden zufügt, der unter Kontrollverlusteffekten leidet.",
@@ -436,7 +455,8 @@ Tags: Basic, Marksman, Crowd Control, Critical Strikes, Damage, Physical.`,
 			"ruRU": "Вы накапливаете 2 ед. энергии, когда \"Колющий удар\" наносит урон противнику под действием эффектов контроля.",
 			"trTR": "Del, Kitle Kontrolü etkisindeki bir düşmana hasar verdiğinde 2 Enerji kazan.",
 			"zhCN": "穿刺飞刀对被群控的敌人造成伤害时获得 2 点能量。",
-			"zhTW": "當穿刺飛刀對受控場效果影響的敵人造成傷害時,獲得 2 點能量。"
+			"zhTW": "當穿刺飛刀對受控場效果影響的敵人造成傷害時,獲得 2 點能量。",
+			"thTH": "ได้รับ 2 Energy เมื่อ Puncture ทำความเสียหายแก่ศัตรูที่อยู่ในสถานะ Crowd Controlled."
 },
 		id: 9,
 		maxPoints: 1,
@@ -460,7 +480,8 @@ Tags: Basic, Marksman, Crowd Control, Critical Strikes, Damage, Physical.`,
 			"ruRU": "Фундаментальный колющий удар",
 			"trTR": "Esaslı Del",
 			"zhCN": "基础穿刺飞刀",
-			"zhTW": "基要穿刺飛刀"
+			"zhTW": "基要穿刺飛刀",
+			"thTH": "Fundamental Puncture"
 },
 		descriptionLocalized: {
 			"deDE": "Einstich schleudert jetzt 3 Klingen in einer Fächerform, wobei jede 35% des Basisschadens verursacht. Wenn ein Gegner mit mindestens 2 Klingen gleichzeitig getroffen wird, wird er 2 Sek. lang verwundbar.",
@@ -475,7 +496,8 @@ Tags: Basic, Marksman, Crowd Control, Critical Strikes, Damage, Physical.`,
 			"ruRU": "\"Колющий удар\" теперь выпускает веером 3 клинка, наносящие по 35% базового урона. Если хотя бы 2 клинка поражают одну цель, она становится уязвимой на 2 сек.",
 			"trTR": "Del artık yayılmış şekilde Temel hasarının 35% kadarına eşit hasar veren 3 bıçak fırlatır. Bir düşmanı aynı anda en az 2 bıçakla vurmak, düşmanı 2 saniyeliğine Savunmasız hâle getirir.",
 			"zhCN": "现在穿刺飞刀会投掷 3 把散开的刀刃, 每把造成 35% 的基础伤害。一次至少用 2 把飞刀命中一名敌人将使其陷入易伤状态, 持续 2 秒。",
-			"zhTW": "穿刺飛刀會散射出 3 把刀刃,每把造成等同其基礎傷害的 35%。以至少 2 把刀刃擊中一名敵人時,會使其易傷 2 秒。"
+			"zhTW": "穿刺飛刀會散射出 3 把刀刃,每把造成等同其基礎傷害的 35%。以至少 2 把刀刃擊中一名敵人時,會使其易傷 2 秒。",
+			"thTH": "Puncture จะขว้างมีดออกไป 3 เล่มแบบกระจาย, แต่ละเล่มจะทำความเสียหาย 35% ของความเสียหายพื้นฐาน. ศัตรูที่ได้รับความเสียหายจากมีดอย่างน้อย 2 เล่มจะอยู่ในสถานะ Vulnerable 2 วินาที."
 },
 		id: 10,
 		maxPoints: 1,
@@ -499,7 +521,8 @@ Tags: Basic, Marksman, Crowd Control, Critical Strikes, Damage, Physical.`,
 			"ruRU": "Основной колющий удар",
 			"trTR": "Birincil Del",
 			"zhCN": "主要穿刺飞刀",
-			"zhTW": "首要穿刺飛刀"
+			"zhTW": "首要穿刺飛刀",
+			"thTH": "Primary Puncture"
 },
 		descriptionLocalized: {
 			"deDE": "Jeder 3. Einsatz von Einstich prallt außerdem bis zu 2-mal ab. Kritische Treffer prallen immer ab.",
@@ -514,7 +537,8 @@ Tags: Basic, Marksman, Crowd Control, Critical Strikes, Damage, Physical.`,
 			"ruRU": "При каждом 3-м применении \"Колющий удар\" рикошетит, поражая до 2 целей. При критических ударах эффект рикошета срабатывает гарантированно.",
 			"trTR": "Her 3. Del kullanımı ayrıca 2 defaya kadar seker. Kritik Vuruşlar her zaman seker.",
 			"zhCN": "每第 3 次施放穿刺飞刀也会弹射最多 2 次。暴击必定弹射。",
-			"zhTW": "每第 3 次施放的穿刺飛刀會彈射,最多 2 次。爆擊時必定會彈射。"
+			"zhTW": "每第 3 次施放的穿刺飛刀會彈射,最多 2 次。爆擊時必定會彈射。",
+			"thTH": "ทุกการใช้สกิล Puncture ครั้งที่ 3 จะทำให้มีดแฉลบตัวศัตรู 2 ครั้ง. ความเสียหาย Critical จะทำให้มีดแฉลบตัวศัตรูเสมอ"
 },
 		id: 11,
 		maxPoints: 1,
@@ -541,7 +565,8 @@ Tags: Basic, Marksman, Critical Strikes, Damage, Physical.`,
 			"ruRU": "Пронзатель сердец",
 			"trTR": "Kalp Avcısı",
 			"zhCN": "觅心箭",
-			"zhTW": "穿心箭"
+			"zhTW": "穿心箭",
+			"thTH": "Heartseeker"
 },
 		descriptionLocalized: {
 			"deDE": "Erzeugte Kombopunkte: 1\nGlückstrefferchance: 50% (per hit)\nSchießt einen Pfeil ab, der einen Gegner sucht, {22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8}% Schaden verursacht und Eure kritische Trefferchance gegen ihn 4 Sek. lang um +3% erhöht, bis maximal +15%.\n\nTags: Basis, Präzision, Kritische Treffer, Schaden, Physisch.",
@@ -556,7 +581,8 @@ Tags: Basic, Marksman, Critical Strikes, Damage, Physical.`,
 			"ruRU": "Продлевает серию приемов на 1.\nВероятность удачного удара: 50% (per hit)\nВыпускает стрелу, которая сама находит и поражает противника. Стрела наносит {22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8}% ед. урона и повышает вашу вероятность критического удара против этой цели на +3% на 4 сек. вплоть до +15%.\n\nTags: Базовое, Стрелок, Критические удары, Урон, Физический урон.",
 			"trTR": "Kombo Puanı Üret: 1\nŞanslı Vuruş İhtimali: 50% (per hit)\n{22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8}% hasar veren ve düşmana karşı Kritik Vuruş İhtimalini 4 saniyeliğine +3% artıran düşman avlayan bir ok at. Kritik Vuruş İhtimali artışı en fazla +15% olabilir.\n\nTags: Temel, Nişancı, Kritik Vuruşlar, Hasar, Fiziksel.",
 			"zhCN": "生成连击点数: 1\n幸运一击几率: 50% (per hit)\n发射一支会追踪敌人的箭矢, 造成 {22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8}% 点伤害, 并且使你对其造成暴击的几率提高 +3%, 持续 4 秒, 最多提高 +15%。\n\nTags: 基础, 神射手, 暴击, 伤害, 物理.",
-			"zhTW": "產生連擊點數:1\n幸運觸發機率: 50% (per hit)\n射出會尋覓敵人的箭矢,造成 {22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8}% 點傷害,對該敵人的爆擊機率提高 +3%,持續 4 秒,最多提高 +15%。\n\nTags: 基本, 射手, 爆擊, 傷害, 物理."
+			"zhTW": "產生連擊點數:1\n幸運觸發機率: 50% (per hit)\n射出會尋覓敵人的箭矢,造成 {22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8}% 點傷害,對該敵人的爆擊機率提高 +3%,持續 4 秒,最多提高 +15%。\n\nTags: 基本, 射手, 爆擊, 傷害, 物理.",
+			"thTH": "ได้รับ Combo Point: 1\nLucky Hit Chance: 50% (per hit)\nยิงลูกธนูที่จะคอยไล่ตามศัตรู, ทำความเสียหาย {22/24.2/26.4/28.6/30.8/33/35.2/37.4/39.6/41.8}% และเพิ่มโอกาสโจมตี Critical แก่ศัตรูนั้น +3% เป็นระยะเวลา 4 วินาที, สูงสุด +15%."
 },
 		id: 12,
 		maxPoints: 5,
@@ -580,7 +606,8 @@ Tags: Basic, Marksman, Critical Strikes, Damage, Physical.`,
 			"ruRU": "Усиленный пронзатель сердец",
 			"trTR": "Geliştirilmiş Kalp Avcısı",
 			"zhCN": "强化觅心箭",
-			"zhTW": "強化穿心箭"
+			"zhTW": "強化穿心箭",
+			"thTH": "Enhanced Heartseeker"
 },
 		descriptionLocalized: {
 			"deDE": "Wenn Herzsucher einen kritischen Treffer erzielt, erhaltet Ihr 4 Sek. lang +8% Angriffsgeschwindigkeit. Dieser Wert verdoppelt sich, wenn der Gegner verwundbar ist.",
@@ -595,7 +622,8 @@ Tags: Basic, Marksman, Critical Strikes, Damage, Physical.`,
 			"ruRU": "Когда \"Пронзатель сердец\" наносит критический урон, ваша скорость атаки повышается на +8% на 4 сек. Прибавка удваивается, если противник уязвим.",
 			"trTR": "Kalp Avcısı Kritik Vuruş gerçekleştirdiğinde 4 saniyeliğine +8% Saldırı Hızı kazan. Düşman Savunmasızsa bu miktar ikiye katlanır.",
 			"zhCN": "觅心箭暴击时, 攻击速度提高 +8%, 持续 4 秒。如果敌人处于易伤状态则该加成翻倍。",
-			"zhTW": "穿心箭爆擊可使攻擊速度提高 +8%,持續 4 秒。若敵人處於易傷狀態則此效果加倍。"
+			"zhTW": "穿心箭爆擊可使攻擊速度提高 +8%,持續 4 秒。若敵人處於易傷狀態則此效果加倍。",
+			"thTH": "เมื่อ Heartseeker ทำความเสียหาย Critical แก่ศัตรู, ได้รับความเร็วในการโจมตีเพิ่มขึ้น +8% เป็นระยะเวลา 4 วินาที. เพิ่มจำนวนนี้สองเท่าหากศัตรูอยู่ในสถานะ Vulnerable."
 },
 		id: 13,
 		maxPoints: 1,
@@ -619,7 +647,8 @@ Tags: Basic, Marksman, Critical Strikes, Damage, Physical.`,
 			"ruRU": "Фундаментальный пронзатель сердец",
 			"trTR": "Esaslı Kalp Avcısı",
 			"zhCN": "基础觅心箭",
-			"zhTW": "基要穿心箭"
+			"zhTW": "基要穿心箭",
+			"thTH": "Fundamental Heartseeker"
 },
 		descriptionLocalized: {
 			"deDE": "Herzsucher erhöht außerdem 4 Sek. lang den durch Euch erlittenen kritischen Trefferschaden des Gegners um +5%, bis maximal +25%.",
@@ -634,7 +663,8 @@ Tags: Basic, Marksman, Critical Strikes, Damage, Physical.`,
 			"ruRU": "\"Пронзатель сердец\" также увеличивает критический урон, который противник получает от вас, на +5% на 4 сек. вплоть до +25%.",
 			"trTR": "Kalp Avcısı ayrıca düşmanın senden aldığı Kritik Vuruş Hasarını 4 saniyeliğine +5% artırır. Artış en fazla +25% olabilir.",
 			"zhCN": "觅心箭也会使你对敌人的暴击伤害提高 +5%, 持续 4 秒, 最多提高 +25%。",
-			"zhTW": "穿心箭會使你對敵人造成的爆擊傷害提高 +5%,持續 4 秒,最多提高 +25%。"
+			"zhTW": "穿心箭會使你對敵人造成的爆擊傷害提高 +5%,持續 4 秒,最多提高 +25%。",
+			"thTH": "Heartseeker จะทำให้ศัตรูได้รับความเสียหาย Critical จากคุณเพิ่มขึ้น +5% เป็นระยะเวลา 4 วินาที, สูงสุด +25%."
 },
 		id: 14,
 		maxPoints: 1,
@@ -658,7 +688,8 @@ Tags: Basic, Marksman, Critical Strikes, Damage, Physical.`,
 			"ruRU": "Основной пронзатель сердец",
 			"trTR": "Birincil Kalp Avcısı",
 			"zhCN": "主要觅心箭",
-			"zhTW": "首要穿心箭"
+			"zhTW": "首要穿心箭",
+			"thTH": "Primary Heartseeker"
 },
 		descriptionLocalized: {
 			"deDE": "Herzsucher springt zu einem zusätzlichen Gegner und fügt ihm 30% des ursprünglichen Schadens zu.",
@@ -673,7 +704,8 @@ Tags: Basic, Marksman, Critical Strikes, Damage, Physical.`,
 			"ruRU": "\"Пронзатель сердец\" рикошетит в еще одного противника и наносит 30% изначального урона.",
 			"trTR": "Kalp Avcısı bir düşmana daha sekerek asıl hasarın 30% kadarına eşit hasar verir.",
 			"zhCN": "觅心箭弹射至一名额外的敌人, 造成 30% 初始伤害。",
-			"zhTW": "穿心箭彈射至一名額外敵人身上,造成原始傷害的 30% 傷害。"
+			"zhTW": "穿心箭彈射至一名額外敵人身上,造成原始傷害的 30% 傷害。",
+			"thTH": "Heartseeker จะแฉลบตัวศัตรูไปหาศัตรูอีกตัวนึง, ทำความเสียหาย 30% ของความเสียหายแรก."
 },
 		id: 15,
 		maxPoints: 1,
@@ -700,7 +732,8 @@ Tags: Basic, Marksman, Vulnerable, Damage, Physical.`,
 			"ruRU": "Стрела силы",
 			"trTR": "Kuvvetli Ok",
 			"zhCN": "蓄力劲射",
-			"zhTW": "強力箭矢"
+			"zhTW": "強力箭矢",
+			"thTH": "Forceful Arrow"
 },
 		descriptionLocalized: {
 			"deDE": "Erzeugte Kombopunkte: 1\nGlückstrefferchance: 40% (per hit)\nFeuert einen kraftvollen Pfeil auf einen Gegner und fügt ihm {20/22/24/26/28/30/32/34/36/38}% Schaden zu. Jeder 3. Einsatz macht den Gegner 2 Sek. lang verwundbar.\n\nTags: Basis, Präzision, Verwundbar, Schaden, Physisch.",
@@ -715,7 +748,8 @@ Tags: Basic, Marksman, Vulnerable, Damage, Physical.`,
 			"ruRU": "Продлевает серию приемов на 1.\nВероятность удачного удара: 40% (per hit)\nВыпускает в противника мощную стрелу, наносящую {20/22/24/26/28/30/32/34/36/38}% ед. урона. Каждое 3-е применение делает цель уязвимой на 2 сек.\n\nTags: Базовое, Стрелок, Уязвимость, Урон, Физический урон.",
 			"trTR": "Kombo Puanı Üret: 1\nŞanslı Vuruş İhtimali: 40% (per hit)\nDüşmana güçlü bir ok atarak {20/22/24/26/28/30/32/34/36/38}% hasar ver. Her 3. kullanım düşmanı 2 saniyeliğine Savunmasız hâle getirir.\n\nTags: Temel, Nişancı, Savunmasız, Hasar, Fiziksel.",
 			"zhCN": "生成连击点数: 1\n幸运一击几率: 40% (per hit)\n对一名敌人发射一支强力箭矢, 造成 {20/22/24/26/28/30/32/34/36/38}% 点伤害。每第 3 次施放会使敌人陷入易伤状态, 持续 2 秒。\n\nTags: 基础, 神射手, 易伤, 伤害, 物理.",
-			"zhTW": "產生連擊點數:1\n幸運觸發機率: 40% (per hit)\n朝敵人發射強力箭矢,造成 {20/22/24/26/28/30/32/34/36/38}% 點傷害。每第 3 次施放會使敵人易傷,持續 2 秒。\n\nTags: 基本, 射手, 易傷, 傷害, 物理."
+			"zhTW": "產生連擊點數:1\n幸運觸發機率: 40% (per hit)\n朝敵人發射強力箭矢,造成 {20/22/24/26/28/30/32/34/36/38}% 點傷害。每第 3 次施放會使敵人易傷,持續 2 秒。\n\nTags: 基本, 射手, 易傷, 傷害, 物理.",
+			"thTH": "ได้รับ Combo Point: 1\nLucky Hit Chance: 40% (per hit)\nยิงลูกธนูอย่างรุนแรง, ทำความเสียหาย {20/22/24/26/28/30/32/34/36/38}%. การใช้สกิลครั้งที่ 3 จะทำให้ศัตรูอยู่ในสถานะ Vulnerable 2 วินาที.\n\nTags: Basic, Markman, Vulnerable, Damage, Physical."
 },
 		id: 16,
 		maxPoints: 5,
@@ -739,7 +773,8 @@ Tags: Basic, Marksman, Vulnerable, Damage, Physical.`,
 			"ruRU": "Усиленная стрела силы",
 			"trTR": "Geliştirilmiş Kuvvetli Ok",
 			"zhCN": "强化蓄力劲射",
-			"zhTW": "強化強力箭矢"
+			"zhTW": "強化強力箭矢",
+			"thTH": "Enhanced Forceful Arrow"
 },
 		descriptionLocalized: {
 			"deDE": "Jeder 3 Einsatz von Kraftvoller Pfeil hat außerdem eine um +15% erhöhte kritische Trefferchance.",
@@ -754,7 +789,8 @@ Tags: Basic, Marksman, Vulnerable, Damage, Physical.`,
 			"ruRU": "При каждом 3-м применении вероятность критического удара \"Стрелы силы\" повышена на +15%.",
 			"trTR": "Kuvvetli Okun her 3. kullanımı ilave +15% artırılmış Kritik Vuruş İhtimaline sahip olur.",
 			"zhCN": "每第 3 次施放蓄力劲射的暴击几率额外提高 +15%。",
-			"zhTW": "每第 3 次施放的強力箭矢爆擊機率提高 +15%。"
+			"zhTW": "每第 3 次施放的強力箭矢爆擊機率提高 +15%。",
+			"thTH": "การใช้ Forceful Arrow ครั้งที่ 3 จะมีโอกาสทำความเสียหาย Critical เพิ่มขึ้น +15%."
 },
 		id: 17,
 		maxPoints: 1,
@@ -778,7 +814,8 @@ Tags: Basic, Marksman, Vulnerable, Damage, Physical.`,
 			"ruRU": "Фундаментальная стрела силы",
 			"trTR": "Esaslı Kuvvetli Ok",
 			"zhCN": "基础蓄力劲射",
-			"zhTW": "基要強力箭矢"
+			"zhTW": "基要強力箭矢",
+			"thTH": "Fundamental Forceful Arrow"
 },
 		descriptionLocalized: {
 			"deDE": "Kraftvoller Pfeil stößt Nicht-Elitegegner in der Nähe zurück. Wenn dieser mit einem weiteren Gegner zusammenstößt, werden beide 1.5 Sek. lang niedergeschlagen.",
@@ -793,7 +830,8 @@ Tags: Basic, Marksman, Vulnerable, Damage, Physical.`,
 			"ruRU": "\"Стрела силы\" отбрасывает находящихся рядом противников. Если отброшенный противник столкнется с другим врагом, они оба будут сбиты с ног на 1.5 сек. Не действует на особых противников.",
 			"trTR": "Kuvvetli Ok, Yakınlarsa Seçkin Olmayan düşmanları Geri Savurur. Düşman başka bir düşmanla çarpışırsa ikisi de 1.5 saniyeliğine Yere Serilir.",
 			"zhCN": "蓄力劲射会击退附近的非精英敌人。如果被击退的敌人撞到另一名敌人, 两者都会被击倒 1.5 秒。",
-			"zhTW": "強力箭矢可擊退位於近距離的非精英敵人。若敵人因此相撞,雙方都會被擊倒,持續 1.5 秒。"
+			"zhTW": "強力箭矢可擊退位於近距離的非精英敵人。若敵人因此相撞,雙方都會被擊倒,持續 1.5 秒。",
+			"thTH": "Forceful Arrow จะ Knock Back ศัตรูที่ไม่ใช่ Elite ที่อยู่ใกล้ตัว, หากศัตรูนั้นถูก Knocked Back ไปชนกับศัตรูตัวอื่น, ทั้งคู่จะอยู่ในสถานะ Knocked Down 1.5 วินาที."
 },
 		id: 18,
 		maxPoints: 1,
@@ -817,7 +855,8 @@ Tags: Basic, Marksman, Vulnerable, Damage, Physical.`,
 			"ruRU": "Основная стрела силы",
 			"trTR": "Birincil Kuvvetli Ok",
 			"zhCN": "主要蓄力劲射",
-			"zhTW": "首要強力箭矢"
+			"zhTW": "首要強力箭矢",
+			"thTH": "Primary Forceful Arrow"
 },
 		descriptionLocalized: {
 			"deDE": "Kraftvoller Pfeil durchschlägt verwundbare Gegner.",
@@ -832,7 +871,8 @@ Tags: Basic, Marksman, Vulnerable, Damage, Physical.`,
 			"ruRU": "\"Стрела силы\" проходит через уязвимых противников.",
 			"trTR": "Kuvvetli Ok Savunmasız düşmanların içinden geçer.",
 			"zhCN": "蓄力劲射会穿透易伤的敌人。",
-			"zhTW": "強力箭矢會貫穿易傷敵人。"
+			"zhTW": "強力箭矢會貫穿易傷敵人。",
+			"thTH": "Forceful Arrow จะทะลุศัตรูที่อยู่ในสถานะ Vulnerable."
 },
 		id: 19,
 		maxPoints: 1,
