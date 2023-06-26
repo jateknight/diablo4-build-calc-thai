@@ -10925,7 +10925,8 @@ let paragonData = {
 					"ruRU": "Громовой молот",
 					"trTR": "Şimşek Çarpmış",
 					"zhCN": "雷霆打击",
-					"zhTW": "雷霆轟擊"
+					"zhTW": "雷霆轟擊",
+					"thTH": "Thunderstruck"
 				},
 				"descriptionLocalized": {
 					"deDE": "Sturmfertigkeiten fügen verwundbaren oder bewegungsunfähigen Gegnern x30% mehr kritischen Trefferschaden zu.\n\nTags: Sturm, Verwundbar, Kontrollverlust, Kritische Treffer, Schaden.",
@@ -10940,7 +10941,8 @@ let paragonData = {
 					"ruRU": "Умения бури наносят на x30% больше критического урона уязвимым или обездвиженным противникам.\n\nTags: Буря, Уязвимость, Контроль, Критические удары, Урон.",
 					"trTR": "Fırtına Yetenekleri, Savunmasız veya Sabitlenmiş düşmanlara karşı x30% artırılmış Kritik Vuruş Hasarı verir.\n\nTags: Fırtına, Savunmasız, Kitle Kontrolü, Kritik Vuruşlar, Hasar.",
 					"zhCN": "风暴技能对易伤或定身敌人造成的暴击伤害提高 x30%。\n\nTags: 风暴, 易伤, 群控, 暴击, 伤害.",
-					"zhTW": "風暴技能對易傷或定身敵人的爆擊傷害提高 x30%。\n\nTags: 風暴, 易傷, 控場, 爆擊, 傷害."
+					"zhTW": "風暴技能對易傷或定身敵人的爆擊傷害提高 x30%。\n\nTags: 風暴, 易傷, 控場, 爆擊, 傷害.",
+					"thTH": "สกิล Storm ทำความเสียหาย Critical เพิ่มขึ้น x30% แก่ศัตรูที่อยู่ในสถานะ Vulnerable หรือ Immobilized.\n\nTags: Storm, Vulnerable, Crowd Control, Critical Strikes, Damage."
 				}
 			},
 			"Druid_Legendary_006": {
@@ -10959,7 +10961,8 @@ let paragonData = {
 					"ruRU": "Земляное уничтожение",
 					"trTR": "Toprak Tahribatı",
 					"zhCN": "大地灭绝",
-					"zhTW": "大地破滅"
+					"zhTW": "大地破滅",
+					"thTH": "Earthen Devastation"
 				},
 				"descriptionLocalized": {
 					"deDE": "Eure Erdfertigkeiten fügen Gegnern, die von Kontrollverlusteffekten betroffen sind, x30% mehr Schaden zu.\n\nTags: Erde, Kontrollverlust, Schaden.",
@@ -10974,7 +10977,8 @@ let paragonData = {
 					"ruRU": "Ваши умения земли наносят на x30% больше урона целям, находящимся под действием эффектов контроля.\n\nTags: Земля, Контроль, Урон.",
 					"trTR": "Toprak Yeteneklerin, Kitle Kontrol etkisi altındaki düşmanlara x30% artırılmış hasar verir.\n\nTags: Toprak, Kitle Kontrolü, Hasar.",
 					"zhCN": "你的大地技能对被群控的目标造成的伤害提高 x30%。\n\nTags: 大地, 群控, 伤害.",
-					"zhTW": "你的大地技能對受到控場效果影響的敵人造成的傷害提高 x30%。\n\nTags: 大地, 控場, 傷害."
+					"zhTW": "你的大地技能對受到控場效果影響的敵人造成的傷害提高 x30%。\n\nTags: 大地, 控場, 傷害.",
+					"thTH": "สกิล Earth ทำความเสียหายเพิ่มขึ้น x30% แก่ศัตรูที่ถูก Crowd Control.\n\nTags: Earth, Crowd Control, Damage."
 				}
 			},
 			"Druid_Legendary_007": {
@@ -10993,7 +10997,8 @@ let paragonData = {
 					"ruRU": "Инстинкты выживания",
 					"trTR": "Hayatta Kalma İçgüdüsü",
 					"zhCN": "生存本能",
-					"zhTW": "生存本能"
+					"zhTW": "生存本能",
+					"thTH": "Survival Instincts"
 				},
 				"descriptionLocalized": {
 					"deDE": "In Werbärgestalt verursacht Ihr pro 1% Unterschied zwischen Eurem aktuellen prozentualen Leben und dem des Gegners x1% mehr Schaden, bis maximal x50%.\n\nTags: Werbär, Schaden, Leben.",
@@ -11008,7 +11013,8 @@ let paragonData = {
 					"ruRU": "В облике медведя наносимый вами урон увеличивается на x1% вплоть до x50% за каждые 1% разницы между вашим текущим уровнем здоровья и уровнем здоровья цели.\n\nTags: Медведь, Урон, Здоровье.",
 					"trTR": "Ayı Adam formundayken seninle düşman arasındaki her 1% mevcut Can farkı başına x1% artırılmış hasar verirsin. Artırılmış hasar en fazla x50% olabilir.\n\nTags: Ayı Adam, Hasar, Can.",
 					"zhCN": "处于熊人形态时, 每与敌人的当前生命百分比相差 1%, 你造成的伤害就提高 x1%, 最多提高 x50%。\n\nTags: 熊人, 伤害, 生命.",
-					"zhTW": "在熊人形態下,你造成的傷害提高 x1%,再依你和敵人之間的當前生命值比例差距計算,每 1% 提高一次傷害,最多提高 x50%。\n\nTags: 熊人, 傷害, 生命值."
+					"zhTW": "在熊人形態下,你造成的傷害提高 x1%,再依你和敵人之間的當前生命值比例差距計算,每 1% 提高一次傷害,最多提高 x50%。\n\nTags: 熊人, 傷害, 生命值.",
+					"thTH": "เมื่ออยู่ในร่างหมี, ทำความเสียหายเพิ่มขึ้น x1%, และเพิ่มขึ้นอีก 1% ต่อความต่างระหว่างพลังชีวิตของคุณกับศัตรู, สูงสุด x50%.\n\nTags: Werebear, Damage, Life."
 				}
 			},
 			"Druid_Legendary_010": {
@@ -11027,7 +11033,8 @@ let paragonData = {
 					"ruRU": "Жажда насилия",
 					"trTR": "Katliam Arzusu",
 					"zhCN": "杀戮欲望",
-					"zhTW": "屠殺之欲"
+					"zhTW": "屠殺之欲",
+					"thTH": "Lust for Carnage"
 				},
 				"descriptionLocalized": {
 					"deDE": "Kritische Treffer mit Werwolffertigkeiten stellen 2 Geisteskraft wieder her.\n\nTags: Werwolf, Kritische Treffer, Geisteskraft.",
@@ -11042,7 +11049,8 @@ let paragonData = {
 					"ruRU": "Критические эффекты умений в облике волка восполняют 2 ед. духа.\n\nTags: Облик волка, Критические удары, Дух.",
 					"trTR": "Kurt Adam Yetenekleri 2 Ruh yeniler.\n\nTags: Kurt Adam, Kritik Vuruşlar, Ruh.",
 					"zhCN": "狼人技能暴击时恢复 2 点灵力。\n\nTags: 狼人, 暴击, 灵力.",
-					"zhTW": "使用狼人技能爆擊時會恢復 2 點靈力。\n\nTags: 狼人, 爆擊, 靈力."
+					"zhTW": "使用狼人技能爆擊時會恢復 2 點靈力。\n\nTags: 狼人, 爆擊, 靈力.",
+					"thTH": "เมื่อทำความเสียหาย Critical ด้วยสกิล Werewolf จะได้รับ 2 Spirit.\n\nTags: Werewolf, Critical Strikes, Spirit."
 				}
 			},
 			"Druid_Legendary_012": {
@@ -11061,7 +11069,8 @@ let paragonData = {
 					"ruRU": "Необычайная злоба",
 					"trTR": "Coşmuş Kötülük",
 					"zhCN": "恶念加重",
-					"zhTW": "惡意高漲"
+					"zhTW": "惡意高漲",
+					"thTH": "Heigtened Malic"
 				},
 				"descriptionLocalized": {
 					"deDE": "Solange mindestens 3 vergiftete Gegner in der Nähe sind, verursacht Ihr x45% mehr Schaden.\n\nTags: Gift, Schaden.",
@@ -11076,7 +11085,8 @@ let paragonData = {
 					"ruRU": "Когда рядом с вами находится не менее 3 отравленных противников, наносимый вами урон увеличивается на x45%.\n\nTags: Яд, Урон.",
 					"trTR": "Yakında 3 veya daha fazla Zehirlenmiş düşman bulunuyorken x45% artırılmış hasar verirsin.\n\nTags: Zehir, Hasar.",
 					"zhCN": "附近有 3 个或更多中毒的敌人时, 你造成的伤害提高 x45%。\n\nTags: 毒素, 伤害.",
-					"zhTW": "在附近有 3 個以上中毒的敵人時,你造成的傷害提高 x45%。\n\nTags: 毒素, 傷害."
+					"zhTW": "在附近有 3 個以上中毒的敵人時,你造成的傷害提高 x45%。\n\nTags: 毒素, 傷害.",
+					"thTH": "เมื่อมีศัตรู 3 ตัวหรือมากกว่า ที่อยู่ในสถานะ Poisoned, คุณทำความเสียหายเพิ่มขึ้น x45%.\n\nTags: Poison, Damage."
 				}
 			},
 			"Druid_Legendary_013": {
@@ -11095,7 +11105,8 @@ let paragonData = {
 					"ruRU": "Внутренний зверь",
 					"trTR": "İçteki Canavar",
 					"zhCN": "内心的野兽",
-					"zhTW": "內在獸性"
+					"zhTW": "內在獸性",
+					"thTH": "Inner Beast"
 				},
 				"descriptionLocalized": {
 					"deDE": "Nach dem Gestaltwandeln sind Eure Geisteskraftkosten 5 Sek. lang um 30% verringert, bis maximal 10%.\n\nTags: Gestaltwandeln, Geisteskraft.",
@@ -11110,7 +11121,8 @@ let paragonData = {
 					"ruRU": "Когда вы меняете облик, затраты духа уменьшаются на 10% на 5 сек., вплоть до 30%.\n\nTags: Смена облика, Дух.",
 					"trTR": "Şekil Değiştirdikten sonra Ruh bedellerin 5 saniyeliğine 10% azalır. Azalma en fazla 30% olabilir.\n\nTags: Dönüşme, Ruh.",
 					"zhCN": "变形后, 你的灵力消耗降低 10%, 持续 5 秒, 最多降低 30%。\n\nTags: 变形, 灵力.",
-					"zhTW": "變形後你的靈力消耗降低 10%,持續 5 秒,最多降低至 30%。\n\nTags: 變形, 靈力."
+					"zhTW": "變形後你的靈力消耗降低 10%,持續 5 秒,最多降低至 30%。\n\nTags: 變形, 靈力.",
+					"thTH": "หลังจากที่กลายร่าง, การใช้ Spirit จะลดลง 10% เป็นระยะเวลา 5 วินาที, สูงสุด 30%.\n\nTags: Shapeshifting, Spirit."
 				}
 			},
 			"Druid_Legendary_017": {
@@ -11129,7 +11141,8 @@ let paragonData = {
 					"ruRU": "Щупальца-душители",
 					"trTR": "Sıkıştıran Filizler",
 					"zhCN": "紧缩卷须",
-					"zhTW": "束縛根鬚"
+					"zhTW": "束縛根鬚",
+					"thTH": "Constricting Tendrils"
 				},
 				"descriptionLocalized": {
 					"deDE": "Glückstreffer: Naturmagiefertigkeiten verfügen über eine Chance von 15%, den Gegner mit Ranken zu umschlingen, die ihn 2 Sek. lang bewegungsunfähig machen, vergiften und ihm im Verlauf von 4 Sek. 120% des Basisschadens zufügen.\n\nTags: Naturmagie, Gift, Kontrollverlust, Glückstreffer, Schaden.",
@@ -11144,7 +11157,8 @@ let paragonData = {
 					"ruRU": "Удачный удар: умения сил природы с вероятностью до 15% опутывают цель лианами, обездвиживая ее на 2 сек. и нанося дополнительный урон от отравления в объеме 120% базового урона за 4 сек.\n\nTags: Силы природы, Яд, Контроль, Удачный удар, Урон.",
 					"trTR": "Şanslı Vuruş: Doğa Sihri Yetenekleri en fazla 15% ihtimalle düşmanları asmalarla yakalayarak onları 2 saniyeliğine Sabitler ve 4 saniye boyunca Temel hasarın 120% kadarına eşit Zehirler.\n\nTags: Doğa Sihri, Zehir, Kitle Kontrolü, Şanslı Vuruş, Hasar.",
 					"zhCN": "幸运一击: 自然魔法技能最多有 15% 几率用藤蔓绞杀目标, 使其定身 2 秒并在 4 秒内对其造成 120% 基础伤害的毒素伤害。\n\nTags: 自然魔法, 毒素, 群控, 幸运一击, 伤害.",
-					"zhTW": "幸運觸發:自然魔法技能最高有 15% 機率以藤蔓纏繞敵人,使其定身 2 秒,並對其在 4 秒內造成等同你基礎傷害 120% 的中毒傷害。\n\nTags: 自然魔法, 毒素, 控場, 幸運觸發, 傷害."
+					"zhTW": "幸運觸發:自然魔法技能最高有 15% 機率以藤蔓纏繞敵人,使其定身 2 秒,並對其在 4 秒內造成等同你基礎傷害 120% 的中毒傷害。\n\nTags: 自然魔法, 毒素, 控場, 幸運觸發, 傷害.",
+					"thTH": "Lucky Hit: สกิล Nature Magic มีโอกาส 15% ที่จะรัดตัวศัตรูด้วยรากไม้, ทำให้ศัตรูอยู่ในสถานะ Immobilized 2 วินาที และทำความเสียหาย Poison 120% ของความเสียหายแรก ภายใน 4 วินาที.\n\nTags: Nature Magic, Poison, Crowd Control, Lucky Hit, Damage."
 				}
 			},
 			"Druid_Legendary_018": {
@@ -11163,7 +11177,8 @@ let paragonData = {
 					"ruRU": "Наставление предков",
 					"trTR": "Ata Rehberliği",
 					"zhCN": "先祖指引",
-					"zhTW": "先祖引導"
+					"zhTW": "先祖引導",
+					"thTH": "Ancestral Guidance"
 				},
 				"descriptionLocalized": {
 					"deDE": "Wenn Ihr 75 Geisteskraft verbraucht, verursacht Ihr 5 Sek. lang x30% mehr Schaden.\n\nTags: Geisteskraft, Schaden.",
@@ -11178,7 +11193,8 @@ let paragonData = {
 					"ruRU": "Когда вы тратите 75 ед. духа, наносимый вами урон увеличивается на x30% на 5 сек.\n\nTags: Дух, Урон.",
 					"trTR": "75 Ruh harcadıktan sonra 5 saniyeliğine x30% artırılmış hasar verirsin.\n\nTags: Ruh, Hasar.",
 					"zhCN": "消耗 75 点灵力后, 你造成的伤害提高 x30%, 持续 5 秒。\n\nTags: 灵力, 伤害.",
-					"zhTW": "在消耗 75 點靈力後,你造成的傷害提高 x30%,持續 5 秒。\n\nTags: 靈力, 傷害."
+					"zhTW": "在消耗 75 點靈力後,你造成的傷害提高 x30%,持續 5 秒。\n\nTags: 靈力, 傷害.",
+					"thTH": "หลังจากที่ใช้ 75 Spirit, คุณทำความเสียหายเพิ่มขึ้น x30% เป็นระยะเวลา 5 วินาที.\n\nTags: Spirit, Damage."
 				}
 			},
 			"Druid_Magic_CriticalDamageEarth": {
@@ -12299,7 +12315,8 @@ let paragonData = {
 					"ruRU": "Обжора",
 					"trTR": "Obur",
 					"zhCN": "暴食者",
-					"zhTW": "醉鬼"
+					"zhTW": "醉鬼",
+					"thTH": "Guzzler"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% Schaden, solange Ihr gesund seid.",
@@ -12314,7 +12331,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, наносимый урон при высоком уровне здоровья увеличивается на +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%.",
 					"trTR": "Menzilde satın alınan her 5 Zekâ başına Sağlıklıyken +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点智力,你在健康状态下造成的伤害提高 +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%。",
-					"zhTW": "在範圍內每購買 5 點智力,健康時造成的傷害就會提高 {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%。"
+					"zhTW": "在範圍內每購買 5 點智力,健康時造成的傷害就會提高 {2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}%。",
+					"thTH": "ทุก 5 Intelligence ที่ซื้อภายในระยะ, คุณทำความเสียหายเพิ่มขึ้น +{2.65/3.018/3.385/3.752/4.12/4.487/4.855/5.223/5.59/5.957/6.325/6.692/7.06/7.428/7.795/8.162/8.53/8.897/9.265/9.633/10}% แก่ศัตรูที่อยู่ในสถานะ Healthy."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet +30% mehr Heilung durch Tränke.",
@@ -12329,7 +12347,8 @@ let paragonData = {
 					"ruRU": "Зелья восполняют на +30% больше здоровья.",
 					"trTR": "+30% artırılmış İksir İyileştirmesi kazanırsın.",
 					"zhCN": "你的药水治疗效果提高 +30%。",
-					"zhTW": "從藥水獲得的治療效果提高 +30%。"
+					"zhTW": "從藥水獲得的治療效果提高 +30%。",
+					"thTH": "คุณได้รับการฟื้นฟูพลังชีวิตจาก Potion เพิ่มขึ้น +30%."
 				},
 				"thresholdRequirements": "25 Intelligence"
 			},
@@ -12350,7 +12369,8 @@ let paragonData = {
 					"ruRU": "Защитник",
 					"trTR": "Koruyucu",
 					"zhCN": "保护者",
-					"zhTW": "保衛者"
+					"zhTW": "保衛者",
+					"thTH": "Protector"
 				},
 				"descLocalized": {
 					"deDE": "Verleiht allen seltenen Knoten in Reichweite einen Bonus von +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%.",
@@ -12365,7 +12385,8 @@ let paragonData = {
 					"ruRU": "Усиливает все редкие узлы в радиусе действия на +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%.",
 					"trTR": "Menzildeki tüm Nadir düğümlere +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}% bonus verir.",
 					"zhCN": "给予辐射范围内所有稀有节点 +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}% 加成。",
-					"zhTW": "範圍內所有稀有節點的效果額外提高 {25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%。"
+					"zhTW": "範圍內所有稀有節點的效果額外提高 {25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%。",
+					"thTH": "Rare node ภายในระยะจะมีผลเพิ่มขึ้น +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet 10% Schadensreduktion, solange Ihr eine aktive Barriere habt.",
@@ -12380,7 +12401,8 @@ let paragonData = {
 					"ruRU": "Пока вас защищает барьер, вы получаете на 10% меньше урона.",
 					"trTR": "Etkin bir Bariyerin varken 10% Hasar Azaltma kazanırsın.",
 					"zhCN": "拥有激活的屏障时, 你获得 10% 伤害减免。",
-					"zhTW": "當你有作用中的屏障,你獲得 10% 傷害減免。"
+					"zhTW": "當你有作用中的屏障,你獲得 10% 傷害減免。",
+					"thTH": "คุณได้รับ 10% Damage Reduction ขณะที่มี Barrier."
 				},
 				"thresholdRequirements": "25 Intelligence"
 			},
@@ -12401,7 +12423,8 @@ let paragonData = {
 					"ruRU": "Самообладание",
 					"trTR": "Duruş",
 					"zhCN": "镇静",
-					"zhTW": "穩重"
+					"zhTW": "穩重",
+					"thTH": "Poise"
 				},
 				"descLocalized": {
 					"deDE": "Verleiht allen seltenen Knoten in Reichweite einen Bonus von +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%.",
@@ -12416,7 +12439,8 @@ let paragonData = {
 					"ruRU": "Усиливает все редкие узлы в радиусе действия на +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%.",
 					"trTR": "Menzildeki tüm Nadir düğümlere +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}% bonus verir.",
 					"zhCN": "给予辐射范围内所有稀有节点 +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}% 加成。",
-					"zhTW": "範圍內所有稀有節點的效果額外提高 {25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%。"
+					"zhTW": "範圍內所有稀有節點的效果額外提高 {25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%。",
+					"thTH": "Rare node ภายในระยะจะมีผลเพิ่มขึ้น +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr Euch verwandelt, besteht eine Chance von 30%, eine Barriere zu erhalten, die 4 Sek. lang Schaden in Höhe von 5% eures maximalen Lebens absorbiert.",
@@ -12431,7 +12455,8 @@ let paragonData = {
 					"ruRU": "Когда вы меняете облик, вас с вероятностью 30% защищает барьер, поглощающий урон в объеме 5% вашего максимального запаса здоровья в течение 4 сек.",
 					"trTR": "Şekil Değiştirirken %30 ihtimalle 4 saniyeliğine Maksimum Canının 5% hasar soğuran bir Bariyer kazanırsın.",
 					"zhCN": "你有 30% 几率在变形时获得一层屏障, 在 4 秒内吸收相当于你 5% 生命上限 的伤害。",
-					"zhTW": "變形時你有 30% 機率獲得可吸收等同生命值上限 5%傷害的屏障,持續 4 秒。"
+					"zhTW": "變形時你有 30% 機率獲得可吸收等同生命值上限 5%傷害的屏障,持續 4 秒。",
+					"thTH": "คุณมีโอกาส 30% เมื่อกลายร่างที่จะได้รับ Barrier 5% ของพลังชีวิตสูงสุด 4 วินาที."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			},
@@ -12452,7 +12477,8 @@ let paragonData = {
 					"ruRU": "Защита границ",
 					"trTR": "Bölgeci",
 					"zhCN": "领地",
-					"zhTW": "地盤"
+					"zhTW": "地盤",
+					"thTH": "Territorial"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr Gegnern in der Nähe +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden zu.",
@@ -12467,7 +12493,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый ближним целям, увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Yakın hedeflere +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,你对近距目标造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對近距離目標造成的傷害提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
+					"zhTW": "在範圍內每購買 5 點敏捷,你對近距離目標造成的傷害提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณทำความเสียหายเพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% แก่ศัตรูที่อยู่ใกล้ตัว."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet Sek. lang 10% Schadensreduktion gegen Gegner in der Nähe.",
@@ -12482,7 +12509,8 @@ let paragonData = {
 					"ruRU": "Вы получаете на 10% меньше урона от находящихся рядом противников.",
 					"trTR": "Yakın düşmanlara karşı 10% Hasar Azaltma kazanırsın.",
 					"zhCN": "你从近距敌人处受到的伤害降低 10%。",
-					"zhTW": "你對上近距離敵人時,獲得 10% 傷害減免。"
+					"zhTW": "你對上近距離敵人時,獲得 10% 傷害減免。",
+					"thTH": "ได้รับ 10% Damage Reduction จากศัตรูทีอยู่ใกล้ตัว."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			},
@@ -12503,7 +12531,8 @@ let paragonData = {
 					"ruRU": "Уловка",
 					"trTR": "Hile",
 					"zhCN": "利用",
-					"zhTW": "剝削手段"
+					"zhTW": "剝削手段",
+					"thTH": "Exploit"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr verwundbaren Gegnern +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% Schaden zu.",
@@ -12518,7 +12547,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый уязвимым целям, увеличивается на +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Savunmasız hedeflere +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,你对易伤目标造成的伤害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。"
+					"zhTW": "在範圍內每購買 5 點敏捷,你對易傷目標造成的傷害提高 +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}%。",
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณทำความเสียหายเพิ่มขึ้น +{1/1.15/1.3/1.45/1.6/1.75/1.9/2.05/2.2/2.35/2.5/2.65/2.8/2.95/3.1/3.25/3.4/3.55/3.7/3.85/4}% แก่ศัตรูที่อยู่ในสถานะ Vulnerable."
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr einem Gegner Schaden zufügt, wird er 3 Sek. lang verwundbar. Dies ist pro Gegner nur einmal alle 20 Sek. möglich.",
@@ -12533,7 +12563,8 @@ let paragonData = {
 					"ruRU": "Когда вы раните противника, он становится уязвимым на 3 сек. Эффект срабатывает для одной цели не чаще раза в 20 сек.",
 					"trTR": "Bir düşman senden hasar aldığında 3 saniyeliğine Savunmasız hâle gelir. Bu, düşman başına en fazla 20 saniyede bir kez gerçekleşebilir.",
 					"zhCN": "一名敌人受到你造成的伤害时会受到易伤效果, 持续 3 秒。该效果对每个敌人每 20 秒只能触发一次。",
-					"zhTW": "當你對敵人造成傷害,敵人會進入易傷狀態,持續 3 秒。此效果每個敵人每 20 秒最多觸發一次。"
+					"zhTW": "當你對敵人造成傷害,敵人會進入易傷狀態,持續 3 秒。此效果每個敵人每 20 秒最多觸發一次。",
+					"thTH": "เมื่อศัตรูได้รับความเสียหายจากคุณ, ศัตรูนั้นจะอยู่ในสถานะ Vulnerable 3 วินาที. ผลนี้จะทำงานทุก 20 วินาทีเท่านั้น ต่อศัตรูหนึ่งตัว."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			},
@@ -12554,7 +12585,8 @@ let paragonData = {
 					"ruRU": "Бесстрашие",
 					"trTR": "Gözü Pek",
 					"zhCN": "无惧",
-					"zhTW": "無懼"
+					"zhTW": "無懼",
+					"thTH": "Undaunted"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden, während Ihr gestählt seid.",
@@ -12569,7 +12601,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, наносимый урон во время эффекта укрепления увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
 					"trTR": "Menzilde satın alınan her 5 Zekâ başına Güçlendirilmişken +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点智力,你在强固状态下造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
-					"zhTW": "在範圍內每購買 5 點智力,強韌時造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
+					"zhTW": "在範圍內每購買 5 點智力,強韌時造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"thTH": "ทุก 5 Intelligence ที่ซื้อภายในระยะ, คุณทำความเสียหายเพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% ขณะที่อยู่ในสถานะ Fortified."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr erhaltet bis zu 10% Schadensreduktion, je mehr Stählung Ihr besitzt.",
@@ -12584,7 +12617,8 @@ let paragonData = {
 					"ruRU": "Укрепление уменьшает получаемый вами урон максимум на 10%. Уменьшение урона зависит от объема укрепления.",
 					"trTR": "Güçlendirme miktarın arttıkça en fazla 10% olmak üzere Hasar Azaltma kazanırsın.",
 					"zhCN": "根据你的强固程度, 你获得最多 10% 伤害减免。",
-					"zhTW": "你獲得越多強韌,傷害減免的效果就越高,上限為 10%。"
+					"zhTW": "你獲得越多強韌,傷害減免的效果就越高,上限為 10%。",
+					"thTH": "ได้รับสูงสุด 10% Damage Reduction ตามจำนวน Fortify ที่คุณมี."
 				},
 				"thresholdRequirements": "25 Intelligence"
 			},
@@ -12605,7 +12639,8 @@ let paragonData = {
 					"ruRU": "Подчинение",
 					"trTR": "Hükmet",
 					"zhCN": "支配",
-					"zhTW": "支配"
+					"zhTW": "支配",
+					"thTH": "Dominate"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{4/4.8/5.6/6.4/7.2/8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2/16/16.8/17.6/18.4/19.2/20}% Überwältigungsschaden.",
@@ -12620,7 +12655,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, подавляющий урон увеличивается на +{4/4.8/5.6/6.4/7.2/8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2/16/16.8/17.6/18.4/19.2/20}%.",
 					"trTR": "Menzilde satın alınan her 5 Zekâ başına +{4/4.8/5.6/6.4/7.2/8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2/16/16.8/17.6/18.4/19.2/20}% artırılmış Aşırı Güç hasarı verirsin.",
 					"zhCN": "每购买辐射范围内 5 点智力,你造成的压制伤害提高 +{4/4.8/5.6/6.4/7.2/8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2/16/16.8/17.6/18.4/19.2/20}%。",
-					"zhTW": "在範圍內每購買 5 點智力你造成的壓制傷害就會提高 +{4/4.8/5.6/6.4/7.2/8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2/16/16.8/17.6/18.4/19.2/20}%。"
+					"zhTW": "在範圍內每購買 5 點智力你造成的壓制傷害就會提高 +{4/4.8/5.6/6.4/7.2/8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2/16/16.8/17.6/18.4/19.2/20}%。",
+					"thTH": "ทุก 5 Intelligence ที่ซื้อภายในระยะ, คุณทำความเสียหาย Overpower เพิ่มขึ้น +{4/4.8/5.6/6.4/7.2/8/8.8/9.6/10.4/11.2/12/12.8/13.6/14.4/15.2/16/16.8/17.6/18.4/19.2/20}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr einen Gegner überwältigt, erhöht sich jeglicher von ihm durch Euch erlittene Schaden 5 Sek. lang um x12%.",
@@ -12635,7 +12671,8 @@ let paragonData = {
 					"ruRU": "После подавляющей атаки вы наносите цели на x12% больше урона в течение 5 сек.",
 					"trTR": "Bir düşmana karşı Aşırı Güç gerçekleştirdiğinde düşmanın senden aldığı tüm hasar 5 saniyeliğine x12% artar.",
 					"zhCN": "当你压制一名敌人时, 使其受到的所有伤害提高 x12%, 持续 5 秒。",
-					"zhTW": "當你壓制一名敵人,你對其造成的所有傷害提高 x12%,持續 5 秒。"
+					"zhTW": "當你壓制一名敵人,你對其造成的所有傷害提高 x12%,持續 5 秒。",
+					"thTH": "เมื่อทำความเสียหาย Overpower แก่ศัตรู, ศัตรูนั้นจะได้รับความเสียหายจากคุณเพิ่มขึ้น x12% เป็นระยะเวลา 5 วินาที."
 				},
 				"thresholdRequirements": "25 Intelligence"
 			},
@@ -12656,7 +12693,8 @@ let paragonData = {
 					"ruRU": "Клыки и когти",
 					"trTR": "Diş ve Pençe",
 					"zhCN": "尖牙和利爪",
-					"zhTW": "爪與牙"
+					"zhTW": "爪與牙",
+					"thTH": "Fang and Claw"
 				},
 				"descLocalized": {
 					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
@@ -12671,7 +12709,8 @@ let paragonData = {
 					"ruRU": "Усиливает все магические узлы в радиусе действия на +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
 					"trTR": "Menzildeki tüm Sihirli düğümlere +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus verir.",
 					"zhCN": "给予辐射范围内所有魔法节点 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外提高 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%。"
+					"zhTW": "範圍內所有魔法節點的效果額外提高 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%。",
+					"thTH": "Magic nodes ภายในระยะจะมีผลเพิ่มขึ้น +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr in Gestalt eines Werwolfs oder Werbären seid, erleiden Ziele in der Nähe x12% mehr Schaden durch Euch.",
@@ -12686,7 +12725,8 @@ let paragonData = {
 					"ruRU": "Пока вы находитесь в облике волка или медведя, находящиеся рядом противники получают от вас на x12% больше урона.",
 					"trTR": "Kurt Adam veya Ayı Adam formundayken Yakındaki düşmanlar senden x12% artırılmış hasar alır.",
 					"zhCN": "处于狼人或熊人形态时, 近距敌人受到来自你的伤害提高 x12%。",
-					"zhTW": "當你處於狼人或熊人形態,你對近距離敵人造成的傷害提高 x12%。"
+					"zhTW": "當你處於狼人或熊人形態,你對近距離敵人造成的傷害提高 x12%。",
+					"thTH": "เมื่ออยู่ในร่างหมาป่า หรือร่างหมี, ศัตรูที่อยู่ใกล้ตัวจะได้รับความเสียหายจากคุณเพิ่มขึ้น x12%."
 				},
 				"thresholdRequirements": "40 Willpower"
 			},
@@ -12707,7 +12747,8 @@ let paragonData = {
 					"ruRU": "Земля и небо",
 					"trTR": "Toprak ve Gökyüzü",
 					"zhCN": "大地天空",
-					"zhTW": "大地天雷"
+					"zhTW": "大地天雷",
+					"thTH": "Earth and Sky"
 				},
 				"descLocalized": {
 					"deDE": "Verleiht allen magischen Knoten in Reichweite einen Bonus von +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
@@ -12722,7 +12763,8 @@ let paragonData = {
 					"ruRU": "Усиливает все магические узлы в радиусе действия на +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%.",
 					"trTR": "Menzildeki tüm Sihirli düğümlere +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% bonus verir.",
 					"zhCN": "给予辐射范围内所有魔法节点 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}% 加成。",
-					"zhTW": "範圍內所有魔法節點的效果額外提高 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%。"
+					"zhTW": "範圍內所有魔法節點的效果額外提高 +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%。",
+					"thTH": "Magic nodes ภายในระยะจะมีผลเพิ่มขึ้น +{30/36/42/48/54/60/66/72/78/84/90/96/102/108/114/120/126/132/138/144/150}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Naturmagiefertigkeiten fügen Gegnern x10% mehr Schaden zu, die unter Kontrollverlusteffekten leiden oder verwundbar sind.",
@@ -12737,7 +12779,8 @@ let paragonData = {
 					"ruRU": "Умения сил природы наносят на x10% больше урона уязвимым целям или целям, находящимся под действием эффектов контроля.",
 					"trTR": "Doğa Sihri Yetenekleri, Kitle Kontrolü etkisindeki veya Savunmasız düşmanlara x10% artırılmış hasar verir.",
 					"zhCN": "自然魔法技能对被群控或易伤的目标造成的伤害提高 x10%。",
-					"zhTW": "自然魔法技能對受到控場與易傷效果的敵人造成的傷害提高 x10%。"
+					"zhTW": "自然魔法技能對受到控場與易傷效果的敵人造成的傷害提高 x10%。",
+					"thTH": "สกิล Nature Magic ทำความเสียหายเพิ่มขึ้น x10% แก่ศัตรูที่อยู่ในสถานะ Crowd Controlled หรือ Vulnerable."
 				},
 				"thresholdRequirements": "40 Willpower"
 			},
@@ -12758,7 +12801,8 @@ let paragonData = {
 					"ruRU": "Дикая природа",
 					"trTR": "Yabaniler",
 					"zhCN": "狂野",
-					"zhTW": "荒野"
+					"zhTW": "荒野",
+					"thTH": "Wilds"
 				},
 				"descLocalized": {
 					"deDE": "Je 5 Intelligenzpunkte in Reichweite verursachen Gefährtenfertigkeiten +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}% Schaden.",
@@ -12773,7 +12817,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон питомцев увеличивается на +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}%.",
 					"trTR": "Menzildeki her 5 Zekâ başına Yoldaş Yetenekleri +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}% artırılmış hasar verir.",
 					"zhCN": "每购买辐射范围内 5 点智力,你的同伴 造成的伤害提高 +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}%。",
-					"zhTW": "在範圍內每增加 5 點智力,同伴技能傷害就會提高 +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}%。"
+					"zhTW": "在範圍內每增加 5 點智力,同伴技能傷害就會提高 +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}%。",
+					"thTH": "ทุก 5 Intelligence ที่ซื้อภายในระยะ, สกิล Companion ทำความเสียหายเพิ่มขึ้น +{5/6/7/8/9/10/11/12/13/14/15/16/17/18/19/20/21/22/23/24/25}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Der passive Aspekt von Gefährtenfertigkeiten verursacht x80% mehr Schaden.",
@@ -12788,7 +12833,8 @@ let paragonData = {
 					"ruRU": "Пассивные эффекты умений категории \"Питомец\" наносят на x80% больше урона.",
 					"trTR": "Yoldaş Yeteneklerinin Pasif kısmı x80% artırılmış hasar verir.",
 					"zhCN": "同伴技能的被动效果造成的伤害提高 x80%。",
-					"zhTW": "同伴技能被動效果造成的傷害提高 x80%。"
+					"zhTW": "同伴技能被動效果造成的傷害提高 x80%。",
+					"thTH": "การทำงานแบบติดตัวของสกิล Companion ทำความเสียหายเพิ่มขึ้น x80%."
 				},
 				"thresholdRequirements": "25 Intelligence"
 			},
@@ -12809,7 +12855,8 @@ let paragonData = {
 					"ruRU": "Облик медведя",
 					"trTR": "Ayı Adam",
 					"zhCN": "熊人",
-					"zhTW": "熊人"
+					"zhTW": "熊人",
+					"thTH": "Werebear"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden, während Ihr in Werbärgestalt seid.",
@@ -12824,7 +12871,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон в облике медведя увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
 					"trTR": "Menzilde satın alınan her 5 İrade başına Ayı Adam formundayken +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点意力,熊人形态下造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
-					"zhTW": "在範圍內每購買 5 點意志,熊人形態下造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
+					"zhTW": "在範圍內每購買 5 點意志,熊人形態下造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"thTH": "ทุก 5 Willpoer ที่ซื้อภายในระยะ, คุณทำความเสียหายเพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% เมื่ออยู่ในร่างหมี."
 				},
 				"bonusLocalized": {
 					"deDE": "In Werbärgestalt erhaltet Ihr 10% Schadensreduktion.",
@@ -12839,7 +12887,8 @@ let paragonData = {
 					"ruRU": "В облике медведя получаемый вами урон уменьшается на 10%.",
 					"trTR": "Ayı Adam formundayken 10% Hasar Azaltma kazanırsın.",
 					"zhCN": "你在熊人形态下获得 10% 伤害减免。",
-					"zhTW": "當你處於熊人形態,你獲得 10% 傷害減免。"
+					"zhTW": "當你處於熊人形態,你獲得 10% 傷害減免。",
+					"thTH": "ได้รับ 10% Damage Reduction เมื่ออยู่ในร่างหมี."
 				},
 				"thresholdRequirements": "40 Willpower"
 			},
@@ -12860,7 +12909,8 @@ let paragonData = {
 					"ruRU": "Облик волка",
 					"trTR": "Kurt Adam",
 					"zhCN": "狼人",
-					"zhTW": "狼人"
+					"zhTW": "狼人",
+					"thTH": "Werewolf"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden, während Ihr in Werwolfgestalt seid.",
@@ -12875,7 +12925,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон в облике волка увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
 					"trTR": "Menzilde satın alınan her 5 İrade başına Kurt Adam formundayken +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点意力,狼人形态下造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
-					"zhTW": "在範圍內每購買 5 點意志,狼人形態下造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
+					"zhTW": "在範圍內每購買 5 點意志,狼人形態下造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"thTH": "ทุก 5 Willpoer ที่ซื้อภายในระยะ, คุณทำความเสียหายเพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% เมื่ออยู่ในร่างหมาป่า."
 				},
 				"bonusLocalized": {
 					"deDE": "In Werwolfgestalt erhaltet Ihr 10% Schadensreduktion.",
@@ -12890,7 +12941,8 @@ let paragonData = {
 					"ruRU": "В облике волка получаемый вами урон уменьшается на 10%.",
 					"trTR": "Kurt Adam formundayken 10% Hasar Azaltma kazanırsın.",
 					"zhCN": "你在狼人形态下获得 10% 伤害减免。",
-					"zhTW": "當你處於狼人形態,你獲得 10% 傷害減免。"
+					"zhTW": "當你處於狼人形態,你獲得 10% 傷害減免。",
+					"thTH": "ได้รับ 10% Damage Reduction เมื่ออยู่ในร่างหมาป่า."
 				},
 				"thresholdRequirements": "40 Willpower"
 			},
@@ -12911,7 +12963,8 @@ let paragonData = {
 					"ruRU": "Человек",
 					"trTR": "İnsan",
 					"zhCN": "人类",
-					"zhTW": "人類"
+					"zhTW": "人類",
+					"thTH": "Human"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Willenskraftpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden, wenn Ihr in Menschengestalt seid.",
@@ -12926,7 +12979,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 силы воли, открытые в радиусе действия, урон в облике человека увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
 					"trTR": "Menzilde satın alınan her 5 İrade başına İnsan formundayken +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点意力,你在人类形态下造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
-					"zhTW": "在範圍內每購買 5 點意志,人類形態下造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
+					"zhTW": "在範圍內每購買 5 點意志,人類形態下造成的傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"thTH": "ทุก 5 Willpoer ที่ซื้อภายในระยะ, คุณทำความเสียหายเพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% เมื่ออยู่ในร่างมนุษย์."
 				},
 				"bonusLocalized": {
 					"deDE": "In Menschengestalt erhaltet Ihr 10% Schadensreduktion.",
@@ -12941,7 +12995,8 @@ let paragonData = {
 					"ruRU": "В облике человека получаемый вами урон уменьшается на 10%.",
 					"trTR": "İnsan formundayken 10% Hasar Azaltma kazanırsın.",
 					"zhCN": "你在人类形态下获得 10% 伤害减免。",
-					"zhTW": "當你處於人類形態,你獲得 10% 傷害減免。"
+					"zhTW": "當你處於人類形態,你獲得 10% 傷害減免。",
+					"thTH": "ได้รับ 10% Damage Reduction เมื่ออยู่ในร่างมนุษย์."
 				},
 				"thresholdRequirements": "40 Willpower"
 			},
@@ -12962,7 +13017,8 @@ let paragonData = {
 					"ruRU": "Бич",
 					"trTR": "Afet",
 					"zhCN": "灾星",
-					"zhTW": "災禍"
+					"zhTW": "災禍",
+					"thTH": "Bane"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Intelligenzpunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Giftschaden.",
@@ -12977,7 +13033,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 интеллекта, открытые в радиусе действия, урон от яда увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
 					"trTR": "Menzilde satın alınan her 5 Zekâ başına +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Zehir hasarı verirsin.",
 					"zhCN": "每购买辐射范围内 5 点智力,你造成的毒素伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
-					"zhTW": "在範圍內每購買 5 點智力,造成的毒素傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
+					"zhTW": "在範圍內每購買 5 點智力,造成的毒素傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"thTH": "ทุก 5 Intelligence ที่ซื้อภายในระยะ, คุณทำความเสียหาย Poison เพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Giftschadeneffekte verfügen über eine Chance von 10%, im Verlauf ihrer Wirkungsdauer die doppelte Menge Schaden zu verursachen.",
@@ -12992,7 +13049,8 @@ let paragonData = {
 					"ruRU": "Эффекты периодического урона от отравления с вероятностью 10% наносят удвоенный урон за все время действия.",
 					"trTR": "Zehirleme hasarı etkileri 10% ihtimalle süreleri boyunca verdikleri hasarı ikiye katlar.",
 					"zhCN": "毒素伤害效果有 10% 的几率在持续时间内造成双倍伤害。",
-					"zhTW": "中毒的傷害效果在持續時間內有 10% 機率造成兩倍傷害。"
+					"zhTW": "中毒的傷害效果在持續時間內有 10% 機率造成兩倍傷害。",
+					"thTH": "ความเสียหาย Poison มีโอกาส 10% ที่จะทำความเสียหายสองเท่าภายในระยะเวลาของมัน."
 				},
 				"thresholdRequirements": "25 Intelligence"
 			},
@@ -13013,7 +13071,8 @@ let paragonData = {
 					"ruRU": "Хранитель",
 					"trTR": "Koruyucu",
 					"zhCN": "护卫",
-					"zhTW": "守護者"
+					"zhTW": "守護者",
+					"thTH": "Keeper"
 				},
 				"descLocalized": {
 					"deDE": "Verleiht allen seltenen Knoten in Reichweite einen Bonus von +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%.",
@@ -13028,7 +13087,8 @@ let paragonData = {
 					"ruRU": "Усиливает все редкие узлы в радиусе действия на +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%.",
 					"trTR": "Menzildeki tüm Nadir düğümlere +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}% bonus verir.",
 					"zhCN": "给予辐射范围内所有稀有节点 +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}% 加成。",
-					"zhTW": "範圍內所有稀有節點的效果額外提高 {25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%。"
+					"zhTW": "範圍內所有稀有節點的效果額外提高 {25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%。",
+					"thTH": "Rare node ภายในระยะจะมีผลเพิ่มขึ้น +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr und Eure Gefährten verursachen x10% mehr nichtphysischen Schaden.",
@@ -13043,7 +13103,8 @@ let paragonData = {
 					"ruRU": "Вы и ваши питомцы наносите на x10% больше нефизического урона.",
 					"trTR": "Sen ve Yoldaşların x10% artırılmış Fiziksel Olmayan hasar verirsiniz.",
 					"zhCN": "你和你的同伴造成的非物理伤害提高 x10%。",
-					"zhTW": "你與同伴造成的非物理傷害提高 x10%。"
+					"zhTW": "你與同伴造成的非物理傷害提高 x10%。",
+					"thTH": "คุณและ Companions ทำความเสียหายแบบ Non-Physical เพิ่มขึ้น x10%."
 				},
 				"thresholdRequirements": "25 Intelligence"
 			},
@@ -13064,7 +13125,8 @@ let paragonData = {
 					"ruRU": "Сверкание",
 					"trTR": "Alevlen",
 					"zhCN": "爆雷",
-					"zhTW": "爆發"
+					"zhTW": "爆發",
+					"thTH": "Fulminate"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursacht Ihr +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Blitzschaden.",
@@ -13079,7 +13141,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон от молнии увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Yıldırım hasarı verirsin.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,你造成的闪电伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,造成的電擊傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
+					"zhTW": "在範圍內每購買 5 點敏捷,造成的電擊傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, ทำความเสียหาย Lightning เพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%"
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr fügt sowohl gesunden als auch verletzten Gegnern x12% mehr Blitzschaden zu.",
@@ -13094,7 +13157,8 @@ let paragonData = {
 					"ruRU": "Вы наносите на x12% больше урона от молнии целям с высоким и низким уровнем здоровья.",
 					"trTR": "Hem Sağlıklı hem de Yaralı düşmanlara x12% artırılmış Yıldırım hasar verirsin.",
 					"zhCN": "你对健康和受伤敌人造成的闪电伤害提高 x12%。",
-					"zhTW": "你對健康和受傷敵人造成的電擊傷害提高 x12%。"
+					"zhTW": "你對健康和受傷敵人造成的電擊傷害提高 x12%。",
+					"thTH": "ทำความเสียหาย Lightning เพิ่มขึ้น x12% แก่ศัตรูที่อยู่ในสถานะ Healthy หรือ Injured."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			},
@@ -13115,7 +13179,8 @@ let paragonData = {
 					"ruRU": "Следопыт",
 					"trTR": "İz Sürücü",
 					"zhCN": "追踪者",
-					"zhTW": "追跡者"
+					"zhTW": "追跡者",
+					"thTH": "Tracker"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte fügt Ihr vergifteten Gegnern +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% Schaden zu.",
@@ -13130,7 +13195,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, урон, наносимый отравленным целям, увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Zehirlenmiş hedeflere +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış hasar verirsin.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,你对中毒目标造成的伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,你對中毒目標造成的傷害提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
+					"zhTW": "在範圍內每購買 5 點敏捷,你對中毒目標造成的傷害提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, คุณทำความเสียหายเพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% แก่ศัตรูที่อยู่ในสถานะ Poisoned."
 				},
 				"bonusLocalized": {
 					"deDE": "Giftschadeneffekte halten x33.3% länger an.",
@@ -13145,7 +13211,8 @@ let paragonData = {
 					"ruRU": "Эффекты периодического урона от отравления действуют на 33.3% дольше.",
 					"trTR": "Zehirleme hasarı etkisi x33.3% daha uzun sürer.",
 					"zhCN": "毒素伤害效果的持续时间延长 x33.3%。",
-					"zhTW": "中毒傷害效果的持續時間延長 x33.3%。"
+					"zhTW": "中毒傷害效果的持續時間延長 x33.3%。",
+					"thTH": "ความเสียหาย Poison จะอยู่นานขึ้น x33.3%."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			},
@@ -13166,7 +13233,8 @@ let paragonData = {
 					"ruRU": "Превосходство",
 					"trTR": "Üstün Gel",
 					"zhCN": "凌驾",
-					"zhTW": "凌駕"
+					"zhTW": "凌駕",
+					"thTH": "Outmatch"
 				},
 				"descLocalized": {
 					"deDE": "Verleiht allen seltenen Knoten in Reichweite einen Bonus von +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%.",
@@ -13181,7 +13249,8 @@ let paragonData = {
 					"ruRU": "Усиливает все редкие узлы в радиусе действия на +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%.",
 					"trTR": "Menzildeki tüm Nadir düğümlere +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}% bonus verir.",
 					"zhCN": "给予辐射范围内所有稀有节点 +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}% 加成。",
-					"zhTW": "範圍內所有稀有節點的效果額外提高 {25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%。"
+					"zhTW": "範圍內所有稀有節點的效果額外提高 {25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%。",
+					"thTH": "Rare node ภายในระยะจะมีผลเพิ่มขึ้น +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Ihr fügt Nicht-Elitegegnern und Bossen x16% mehr physischen Schaden zu.",
@@ -13196,7 +13265,8 @@ let paragonData = {
 					"ruRU": "Вы наносите на x16% больше физического урона обычным противникам и боссам.",
 					"trTR": "Seçkin Olmayanlara ve Patronlara x16% artırılmış Fiziksel hasar verirsin.",
 					"zhCN": "你对非精英和首领敌人造成的物理伤害提高 x16%。",
-					"zhTW": "你對非精英怪物與首領造成的物理傷害提高 x16%。"
+					"zhTW": "你對非精英怪物與首領造成的物理傷害提高 x16%。",
+					"thTH": "ทำความเสียหาย Physical เพิ่มขึ้น x16% แก่ Bosses และศัตรูที่ไม่ใช่ Elites."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			},
@@ -13217,7 +13287,8 @@ let paragonData = {
 					"ruRU": "Дух",
 					"trTR": "Ruh",
 					"zhCN": "灵力",
-					"zhTW": "靈魂"
+					"zhTW": "靈魂",
+					"thTH": "Spirit"
 				},
 				"descLocalized": {
 					"deDE": "Für je 5 in Reichweite erworbene Geschicklichkeitspunkte verursachen Kernfertigkeiten +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% kritischen Trefferschaden.",
@@ -13232,7 +13303,8 @@ let paragonData = {
 					"ruRU": "За каждые 5 ловкости, открытые в радиусе действия, критический урон от основных умений увеличивается на +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%.",
 					"trTR": "Menzilde satın alınan her 5 Maharet başına Çekirdek Yetenekler +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}% artırılmış Kritik Vuruş Hasarı verir.",
 					"zhCN": "每购买辐射范围内 5 点敏捷,核心技能造成的暴击伤害提高 +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
-					"zhTW": "在範圍內每購買 5 點敏捷,核心技能造成的爆擊傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。"
+					"zhTW": "在範圍內每購買 5 點敏捷,核心技能造成的爆擊傷害就會提高 {2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%。",
+					"thTH": "ทุก 5 Dexterity ที่คุณซื้อภายในระยะ, สกิล Core ทำความเสียหาย Critical เพิ่มขึ้น +{2/2.4/2.8/3.2/3.6/4/4.4/4.8/5.2/5.6/6/6.4/6.8/7.2/7.6/8/8.4/8.8/9.2/9.6/10}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Kritische Treffer erhöhen jeglichen vom Gegner durch Euch erlittenen Schaden 20 Sek. lang um x2%, bis maximal x12%.",
@@ -13247,7 +13319,8 @@ let paragonData = {
 					"ruRU": "Критические удары увеличивают урон, получаемый целью от вас, на x2% на 20 сек. Максимальный бонус – x12%.",
 					"trTR": "Kritik Vuruşlar, bir düşmanın senden aldığı hasarı 20 saniyeliğine x2% artırır. Artış en fazla x12% olabilir.",
 					"zhCN": "暴击使你对敌人造成的伤害提高 x2%, 最多提高 x12%, 持续 20 秒。",
-					"zhTW": "爆擊會你對敵人造成的所有傷害提高 x2%,持續 20 秒,最多提高 x12%。"
+					"zhTW": "爆擊會你對敵人造成的所有傷害提高 x2%,持續 20 秒,最多提高 x12%。",
+					"thTH": "เมื่อทำความเสียหาย Critical แก่ศัตรู, ศัตรูนั้นจะได้รับความเสียหายจากคุณเพิ่มขึ้น x2% เป็นระยะเวลา 20 วินาที, สูงสุด x12%."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			},
@@ -13268,7 +13341,8 @@ let paragonData = {
 					"ruRU": "Оборотень",
 					"trTR": "Biçim Değiştiren",
 					"zhCN": "变形者",
-					"zhTW": "變形者"
+					"zhTW": "變形者",
+					"thTH": "Shapeshifter"
 				},
 				"descLocalized": {
 					"deDE": "Verleiht allen seltenen Knoten in Reichweite einen Bonus von +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%.",
@@ -13283,7 +13357,8 @@ let paragonData = {
 					"ruRU": "Усиливает все редкие узлы в радиусе действия на +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%.",
 					"trTR": "Menzildeki tüm Nadir düğümlere +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}% bonus verir.",
 					"zhCN": "给予辐射范围内所有稀有节点 +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}% 加成。",
-					"zhTW": "範圍內所有稀有節點的效果額外提高 {25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%。"
+					"zhTW": "範圍內所有稀有節點的效果額外提高 {25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%。",
+					"thTH": "Rare node ภายในระยะจะมีผลเพิ่มขึ้น +{25/30/35/40/45/50/55/60/65/70/75/80/85/90/95/100/105/110/115/120/125}%."
 				},
 				"bonusLocalized": {
 					"deDE": "Wenn Ihr Euch verwandelt, besteht eine Chance von 20%, dass der Schaden der Fertigkeit kritisch trifft.",
@@ -13298,7 +13373,8 @@ let paragonData = {
 					"ruRU": "После смены облика ваше умение с вероятностью 20% наносит критический урон.",
 					"trTR": "Şekil Değiştirme 20% ihtimalle Yeteneğin hasarının Kritik Vuruş gerçekleştirmesini sağlar.",
 					"zhCN": "变形有 20% 几率使下一个技能的伤害造成暴击。",
-					"zhTW": "變形時有 20% 機率使技能傷害產生爆擊。"
+					"zhTW": "變形時有 20% 機率使技能傷害產生爆擊。",
+					"thTH": "สกิล Shapeshifting มีโอกาส 20% ที่จะทำให้ความเสียหายของสกิลนั้นเป็นความเสียหาย Critical."
 				},
 				"thresholdRequirements": "25 Dexterity"
 			}
