@@ -872,7 +872,7 @@ Tags: Basic, Marksman, Vulnerable, Damage, Physical.`,
 			"trTR": "Kuvvetli Ok Savunmasız düşmanların içinden geçer.",
 			"zhCN": "蓄力劲射会穿透易伤的敌人。",
 			"zhTW": "強力箭矢會貫穿易傷敵人。",
-			"thTH": "Forceful Arrow จะทะลุศัตรูที่อยู่ในสถานะ Vulnerable."
+			"thTH": "Forceful Arrow จะทะลุศัตรูที่อยู่ในสถานะ Vulnerable.gi"
 },
 		id: 19,
 		maxPoints: 1,
